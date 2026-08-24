@@ -12869,15 +12869,67 @@
  "to": "Leh Ladakh India",
  "source": "google",
  "milestones": {
-  "Manali": "Start (2,050 m). Base town on the Beas river. The highway begins at Manali and climbs through pine forests toward the Rohtang tunnel.",
-  "Marhi": "Last fuel / food stop before Rohtang. Snowplows queue here in winter. Reddit tip: top up fuel here \u2014 the next reliable fuel is Keylong.",
+  "Manali": "Manali is a resort town, near Kullu town in the Kullu district in the Indian state of Himachal Pradesh. It is situated at the northern end of the Kullu Valley, formed by the Beas River. The town is lo",
+  "Marhi": "Marhi is a \"shanty town of roadside restaurants\" in Himachal Pradesh, India, located midway between Manali and Rohtang La on the Manali-Leh Highway. Buses traveling the highway often stop in Marhi so ",
   "Rohtang Pass": "3,978 m. Now bypassed by the Atal Tunnel (9 km, world's longest at altitude) which cut the pass crossing from 3+ hours to 15 min. The old pass road still exists for views. Reddit: \"the Sarchu stretch is the most breathtaking in the entire trip.\"",
   "Keylong": "3,080 m. District HQ of Lahaul & Spiti. First fuel/food after the pass. Army canteens sell cheap meals.",
   "Darcha": "Junction where the road to Zanskar branches off. Last village before the high-altitude desert stretch begins.",
   "Baralacha La": "4,890 m. One of the highest motorable passes. Reddit: car engines noticeably lose power here; keep momentum on the climb.",
   "Sarchu": "Camping tents only \u2014 no permanent settlement. r/SoloTravel_India's 19,000 km epic rated this stretch \"the most breathtaking in the entire trip.\"",
   "Pang": "4,600 m. Permits required beyond here (Inner Line). Army canteen + basic camps. Night driving is banned in this sector.",
-  "Tanglang La": "5,328 m. The second-highest motorable pass in the world on a paved road. Winds can be brutal; Reddit riders say keep the car in 2nd gear on the descent.",
+  "Tanglang La": "Taglang La or Tanglang La, elevation 5,328 metres (17,480\u00a0ft), is a high altitude mountain pass in Leh district in the Indian union territory of Ladakh. It is located on the NH3 Leh\u2013Manali Highway. Ra",
   "Leh": "Finish (3,524 m). Land of high passes. Acclimatize for 1-2 days before driving further. Fuel, permits (e-Permit for Nubra/Pangong), and mechanics all available here."
+ },
+ "milestone_info": {
+  "Manali": {
+   "img": "img/manali-leh/manali.jpg",
+   "desc": "Manali is a resort town, near Kullu town in the Kullu district in the Indian state of Himachal Pradesh. It is situated at the northern end of the Kullu Valley, formed by the Beas River. The town is lo",
+   "wiki": "Manali,_Himachal_Pradesh"
+  },
+  "Marhi": {
+   "img": "img/manali-leh/marhi.jpg",
+   "desc": "Marhi is a \"shanty town of roadside restaurants\" in Himachal Pradesh, India, located midway between Manali and Rohtang La on the Manali-Leh Highway. Buses traveling the highway often stop in Marhi so ",
+   "wiki": "Marhi"
+  },
+  "Rohtang Pass": {
+   "img": "img/manali-leh/rohtang_pass.jpg",
+   "desc": "Rohtang Pass is a high mountain pass on the eastern end of the Pir Panjal Range of the Himalayas around 51\u00a0km (32\u00a0mi) from Manali in the Indian state of Himachal Pradesh, It connects the Kullu Valley ",
+   "wiki": "Rohtang_Pass"
+  },
+  "Keylong": {
+   "img": "img/manali-leh/keylong.jpg",
+   "desc": "Kyelang is a town and the administrative centre of the Lahaul and Spiti district in the Indian state of Himachal Pradesh, 71 kilometres (44\u00a0mi) north of Manali via Atal Tunnel and 120\u00a0km (75\u00a0mi) from ",
+   "wiki": "Keylong"
+  },
+  "Darcha": {
+   "img": "img/manali-leh/darcha.jpg",
+   "desc": "Darcha is a pair of villages on the Bhaga River in the Lahaul sub-division in the Lahaul and Spiti district in the Indian state of Himachal Pradesh. It is the northernmost permanent settlement in Hima",
+   "wiki": "Darcha"
+  },
+  "Baralacha La": {
+   "img": "img/manali-leh/baralacha_la.jpg",
+   "desc": "",
+   "wiki": "Commons"
+  },
+  "Sarchu": {
+   "img": "img/manali-leh/sarchu.jpg",
+   "desc": "Sarchu is a major halt point with tented accommodation in the Himalayas on the Leh-Manali Highway, on the boundary between Himachal Pradesh and Ladakh in India. It is situated between Baralacha La to ",
+   "wiki": "Sarchu"
+  },
+  "Pang": {
+   "img": null,
+   "desc": "",
+   "wiki": "Pang,_Ladakh"
+  },
+  "Tanglang La": {
+   "img": "img/manali-leh/tanglang_la.jpg",
+   "desc": "Taglang La or Tanglang La, elevation 5,328 metres (17,480\u00a0ft), is a high altitude mountain pass in Leh district in the Indian union territory of Ladakh. It is located on the NH3 Leh\u2013Manali Highway. Ra",
+   "wiki": "Tanglang_La"
+  },
+  "Leh": {
+   "img": "img/manali-leh/leh.jpg",
+   "desc": "Leh is a city in Indian-administered Ladakh in the disputed Kashmir region. It is the largest city and the joint capital of Ladakh. Leh, located in the Leh district, has been the capital of Ladakh sin",
+   "wiki": "Leh"
+  }
  }
 }
