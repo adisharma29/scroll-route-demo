@@ -4,33 +4,60 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>India Road Trips — Scroll-Driven Routes</title>
+<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css">
+<script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
 <style>
   html,body{margin:0;padding:0;background:#0b0a09;color:#f5f0e8;font-family:ui-sans-serif,system-ui,sans-serif}
-  header{padding:48px 24px 16px;max-width:1080px;margin:0 auto}
-  h1{font-size:26px;margin:0 0 8px}
-  p.lede{font-size:14px;opacity:.7;margin:0 0 24px;line-height:1.6}
-  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px;padding:0 24px 48px;max-width:1080px;margin:0 auto}
-  a.card{display:block;background:#161311;border:1px solid #262220;border-radius:12px;padding:16px 18px;
+  header{padding:40px 24px 12px;max-width:1080px;margin:0 auto;position:relative;z-index:5}
+  h1{font-size:24px;margin:0 0 6px}
+  p.lede{font-size:13.5px;opacity:.7;margin:0;line-height:1.6}
+  #mapWrap{position:sticky;top:0;height:46vh;min-height:320px;z-index:1;margin:8px auto 0;
+           max-width:1080px;border-radius:14px;overflow:hidden;border:1px solid #262220}
+  #map{width:100%;height:100%}
+  .mapnote{position:absolute;bottom:10px;left:12px;z-index:6;font-size:11px;opacity:.6;
+           background:rgba(11,10,9,.7);padding:4px 10px;border-radius:999px}
+  #detail{position:absolute;top:12px;right:12px;z-index:6;background:rgba(11,10,9,.92);
+          border:1px solid #3a3123;border-radius:12px;padding:12px 16px;max-width:300px;
+          display:none;backdrop-filter:blur(8px);box-shadow:0 6px 24px rgba(0,0,0,.5)}
+  #detail h3{margin:0 0 4px;font-size:14px;color:#e8b64c;line-height:1.4}
+  #detail p{margin:0;font-size:12px;opacity:.85;line-height:1.5}
+  #detail .dt{margin-top:6px;font-size:11px;opacity:.6}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px;padding:16px 24px 48px;max-width:1080px;margin:0 auto}
+  a.card{display:block;background:#161311;border:1px solid #262220;border-radius:12px;padding:14px 16px;
          text-decoration:none;color:#f5f0e8;transition:border-color .2s,transform .2s}
   a.card:hover{border-color:#e8b64c;transform:translateY(-2px)}
-  .card h2{font-size:15px;margin:0 0 6px;line-height:1.4}
-  .card .meta{font-size:12px;opacity:.6;display:flex;gap:10px;flex-wrap:wrap}
+  .card h2{font-size:14px;margin:0 0 5px;line-height:1.4}
+  .card .meta{font-size:11.5px;opacity:.6;display:flex;gap:10px;flex-wrap:wrap}
   .tag{display:inline-block;background:#221d16;border:1px solid #3a3123;color:#e8b64c;
-       border-radius:999px;padding:2px 10px;font-size:11px;margin-top:8px}
-  .count{position:fixed;top:14px;right:16px;font-size:12px;opacity:.55}
-  #filter{margin:0 24px 20px;max-width:1080px;margin-left:auto;margin-right:auto}
+       border-radius:999px;padding:1px 9px;font-size:10.5px;margin-top:7px}
+  #filter{margin:0 24px 14px;max-width:1080px;margin-left:auto;margin-right:auto;position:relative;z-index:5}
   #filter input{width:100%;box-sizing:border-box;background:#161311;border:1px solid #262220;
        color:#f5f0e8;border-radius:10px;padding:10px 14px;font-size:14px;outline:none}
   #filter input:focus{border-color:#e8b64c}
   .empty{display:none;text-align:center;opacity:.6;padding:40px;font-size:14px}
+  .count{position:fixed;top:14px;right:16px;font-size:12px;opacity:.55;z-index:8}
+  .filters{max-width:1080px;margin:0 auto 14px;display:flex;gap:8px;flex-wrap:wrap;padding:0 24px;position:relative;z-index:5}
+  .chip{background:#161311;border:1px solid #262220;color:#f5f0e8;border-radius:999px;padding:5px 13px;
+        font-size:11.5px;cursor:pointer;transition:all .15s;font-family:inherit}
+  .chip:hover{border-color:#e8b64c}
+  .chip.on{background:#e8b64c;color:#1a1408;border-color:#e8b64c}
+  #hint{position:absolute;bottom:10px;right:12px;z-index:6;font-size:11px;opacity:.6;
+        background:rgba(11,10,9,.7);padding:4px 10px;border-radius:999px}
 </style>
 </head>
 <body>
 <header>
   <h1>India Road Trips — Scroll-Driven Routes</h1>
-  <p class="lede">Pick a route, scroll, and the map drives it. Built with MapLibre + OSM tiles, inspired by pear.no. <span id="total"></span></p>
+  <p class="lede">Every route on one map. Hover a line to see details — click to drive it. <span id="total"></span></p>
 </header>
-<div id="filter"><input type="text" id="q" placeholder="Filter trips… (e.g. Ladakh, Kerala, Goa)"></div>
+<div class="filters" id="chips"></div>
+<div id="filter"><input type="text" id="q" placeholder="Filter trips… (e.g. Ladakh, Kerala, Bengaluru)"></div>
+<div id="mapWrap">
+  <div id="map"></div>
+  <div class="mapnote">All routes — hover to highlight</div>
+  <div id="hint">scroll the map · hover lines</div>
+  <div id="detail"><h3 id="dTitle"></h3><p id="dDesc"></p><div class="dt" id="dMeta"></div></div>
+</div>
 <div class="grid" id="grid"></div>
 <div class="empty" id="empty">No trips match your filter.</div>
 <div class="count" id="count"></div>
@@ -67,7 +94,7 @@ const MANIFEST = [
   {"slug":"mumbai-goa-nh66","title":"Mumbai → Goa (NH66 Coastal)","region":"Maharashtra/Goa","distance_km":600},
   {"slug":"goa-hampi-badami","title":"Goa → Hampi → Badami → Ellora (3,200 km CNG Loop)","region":"Multi-state","distance_km":3200},
   {"slug":"coastal-karnataka","title":"Coastal Karnataka: Gokarna → Murudeshwar → Udupi → Mangalore","region":"Karnataka","distance_km":250},
-  {"slug":"blr-coorg-goa","title":"BLR → Coorg → Mangalore → Udupi → Gokarna → Goa (Agumbe)","region":"Karnataka","distance_km":700},
+  {"slug":"blr-coorg-goa","title":"BLR → Coorg → Mangalore → Udupi → Gokarna → Goa (Agumbe)","region":"Bengaluru","distance_km":700},
   {"slug":"chikmagalur","title":"Chikmagalur (Mullayanagiri & Baba Budangiri)","region":"Karnataka","distance_km":250},
   {"slug":"coorg-madikeri","title":"Coorg (Gonikoppal → Madikeri)","region":"Karnataka","distance_km":260},
   {"slug":"hampi-badami-solo","title":"Hampi → Badami Solo (Ruins + Cave Temples)","region":"Karnataka","distance_km":400},
@@ -92,13 +119,119 @@ const MANIFEST = [
   {"slug":"chennai-sikkim-bhutan","title":"Chennai → Odisha → Sikkim → Bhutan (Mega Bike)","region":"Pan-India","distance_km":3000},
   {"slug":"india-pokhara-nepal","title":"India → Pokhara (Nepal)","region":"Cross-border","distance_km":300},
   {"slug":"india-bhutan-tigers-nest","title":"India → Bhutan (Tiger's Nest, Paro)","region":"Cross-border","distance_km":300},
-  {"slug":"india-muktinath","title":"India → Muktinath (Annapurna Circuit)","region":"Cross-border","distance_km":500}
+  {"slug":"india-muktinath","title":"India → Muktinath (Annapurna Circuit)","region":"Cross-border","distance_km":500},
+  {"slug":"blr-nandi-hills","title":"Bengaluru → Nandi Hills","region":"Bengaluru","distance_km":60},
+  {"slug":"blr-dd-hills","title":"Bengaluru → DD Hills","region":"Bengaluru","distance_km":50},
+  {"slug":"blr-anthargange","title":"Bengaluru → Anthargange (Night Trek)","region":"Bengaluru","distance_km":70},
+  {"slug":"blr-mekedatu","title":"Bengaluru → Mekedatu (River Gorge)","region":"Bengaluru","distance_km":90},
+  {"slug":"blr-ramanagara","title":"Bengaluru → Ramanagara (Sholay Rocks)","region":"Bengaluru","distance_km":50},
+  {"slug":"blr-savandurga","title":"Bengaluru → Savandurga / Skandagiri","region":"Bengaluru","distance_km":60},
+  {"slug":"blr-shivanasamudra","title":"Bengaluru → Shivanasamudra Falls","region":"Bengaluru","distance_km":130},
+  {"slug":"blr-yelagiri","title":"Bengaluru → Yelagiri","region":"Bengaluru","distance_km":170},
+  {"slug":"blr-horsley-hills","title":"Bengaluru → Horsley Hills (Hidden Gem)","region":"Bengaluru","distance_km":150},
+  {"slug":"blr-hogenakkal","title":"Bengaluru → Hogenakkal Falls","region":"Bengaluru","distance_km":115},
+  {"slug":"blr-ranganathittu","title":"Bengaluru → Ranganathittu + Srirangapatna","region":"Bengaluru","distance_km":130},
+  {"slug":"blr-kokkarebellur","title":"Bengaluru → Kokkarebellur (Pelican Village)","region":"Bengaluru","distance_km":110},
+  {"slug":"blr-muthyala-maduvu","title":"Bengaluru → Muthyala Maduvu (Pearl Valley)","region":"Bengaluru","distance_km":55},
+  {"slug":"blr-chhota-ladakh","title":"Bengaluru → Chhota Ladakh","region":"Bengaluru","distance_km":60},
+  {"slug":"blr-thattekere","title":"Bengaluru → Thattekere Lake / Sangam","region":"Bengaluru","distance_km":70},
+  {"slug":"blr-gopalaswamy-betta","title":"Bengaluru → Gopalaswamy Betta","region":"Bengaluru","distance_km":160},
+  {"slug":"blr-penukonda","title":"Bengaluru → Penukonda Fort","region":"Bengaluru","distance_km":120},
+  {"slug":"blr-mysore","title":"Bengaluru → Mysore","region":"Bengaluru","distance_km":140},
+  {"slug":"blr-br-hills","title":"Bengaluru → BR Hills (Biligiriranga)","region":"Bengaluru","distance_km":160},
+  {"slug":"blr-kabini","title":"Bengaluru → Kabini (Backwaters Safari)","region":"Bengaluru","distance_km":200},
+  {"slug":"blr-bandipur","title":"Bengaluru → Bandipur NP","region":"Bengaluru","distance_km":220},
+  {"slug":"blr-coorg","title":"Bengaluru → Coorg (Madikeri)","region":"Bengaluru","distance_km":260},
+  {"slug":"blr-chikmagalur","title":"Bengaluru → Chikmagalur","region":"Bengaluru","distance_km":240},
+  {"slug":"blr-sakleshpur","title":"Bengaluru → Sakleshpur","region":"Bengaluru","distance_km":220},
+  {"slug":"blr-belur-halebid","title":"Bengaluru → Belur → Halebidu → Shravanabelagola","region":"Bengaluru","distance_km":220},
+  {"slug":"blr-ooty","title":"Bengaluru → Ooty / Coonoor","region":"Bengaluru","distance_km":290},
+  {"slug":"blr-kodaikanal","title":"Bengaluru → Kodaikanal","region":"Bengaluru","distance_km":450},
+  {"slug":"blr-wayanad","title":"Bengaluru → Wayanad (NH766)","region":"Bengaluru","distance_km":280},
+  {"slug":"blr-hampi","title":"Bengaluru → Hampi","region":"Bengaluru","distance_km":350},
+  {"slug":"blr-mangalore","title":"Bengaluru → Mangalore","region":"Bengaluru","distance_km":350},
+  {"slug":"blr-gokarna","title":"Bengaluru → Gokarna","region":"Bengaluru","distance_km":480},
+  {"slug":"blr-pondicherry","title":"Bengaluru → Pondicherry","region":"Bengaluru","distance_km":330},
+  {"slug":"blr-coast-run","title":"Bengaluru Coast Run: Coorg → Mangalore → Udupi → Gokarna → Goa","region":"Bengaluru","distance_km":700},
+  {"slug":"blr-agumbe-gokarna","title":"Bengaluru → Agumbe Ghats → Gokarna → Udupi","region":"Bengaluru","distance_km":600},
+  {"slug":"blr-kerala-circuit","title":"Bengaluru → Kerala Circuit (Munnar → Backwaters)","region":"Bengaluru","distance_km":650},
+  {"slug":"blr-deccan-heritage","title":"Bengaluru → Deccan Heritage: Hampi → Gandikota → Badami","region":"Bengaluru","distance_km":500},
+  {"slug":"blr-leh","title":"Bengaluru → Leh (Solo Epic)","region":"Bengaluru","distance_km":3500},
+  {"slug":"blr-goa-coast","title":"Bengaluru → Karwar → Goa → Udupi (Coastal Loop)","region":"Bengaluru","distance_km":750}
 ];
 
-function fmt(n){return n>=1000?Math.round(n/1000*10)/10+'k':n+' km'}
+function fmt(n){return n>=1000?Math.round(n/1000*10)/10+'k':' '+n+' km'}
+
+// ---- region chips ----
+const regions=['Bengaluru','Ladakh','Himachal','Kashmir','Uttarakhand','Rajasthan','Gujarat','Karnataka','Kerala','Tamil Nadu','Maharashtra','Odisha','Pan-India','Cross-border'];
+let activeRegion=null;
+const chipWrap=document.getElementById('chips');
+regions.forEach(r=>{
+  const b=document.createElement('button');
+  b.className='chip';b.textContent=r;
+  b.onclick=()=>{
+    activeRegion=(activeRegion===r)?null:r;
+    chipWrap.querySelectorAll('.chip').forEach(c=>c.classList.toggle('on',c===b&&activeRegion!==null));
+    render(q.value.trim().toLowerCase());
+  };
+  chipWrap.appendChild(b);
+});
+
+// ---- map ----
+const map=new maplibregl.Map({container:'map',style:'https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json',center:[78.96,22.35],zoom:4.2,pitch:0,bearing:0});
+window.__map=map;
+const hovered={};
+map.on('load',()=>{
+  // one source per route so we can control per-feature paint on hover
+  MANIFEST.forEach(m=>{
+    map.addSource('src-'+m.slug,{type:'geojson',data:{type:'Feature',properties:{slug:m.slug},geometry:{type:'LineString',coordinates:[]}}});
+    map.addLayer({id:'ln-'+m.slug,type:'line',source:'src-'+m.slug,
+      layout:{'line-cap':'round','line-join':'round'},
+      paint:{'line-color':'#e8b64c','line-width':1.1,'line-opacity':0.35}});
+    // fetch the polyline
+    fetch('data/'+m.slug+'.json').then(r=>r.json()).then(d=>{
+      if(d.polyline&&d.polyline.length){
+        map.getSource('src-'+m.slug).setData({type:'Feature',properties:{slug:m.slug},geometry:{type:'LineString',coordinates:d.polyline}});
+      }
+    }).catch(()=>{});
+  });
+  // hover highlight
+  MANIFEST.forEach(m=>{
+    const layer='ln-'+m.slug;
+    map.on('mouseenter',layer,()=>{
+      hovered[layer]=true;
+      map.setPaintProperty(layer,'line-color','#f2c94c');
+      map.setPaintProperty(layer,'line-width',3.5);
+      map.setPaintProperty(layer,'line-opacity',1);
+      // show detail card
+      const d=document.getElementById('detail');
+      document.getElementById('dTitle').textContent=m.title;
+      document.getElementById('dDesc').textContent=m.region;
+      document.getElementById('dMeta').textContent=fmt(m.distance_km)+' · click to drive';
+      d.style.display='block';
+    });
+    map.on('mouseleave',layer,()=>{
+      if(hovered[layer]){
+        map.setPaintProperty(layer,'line-color','#e8b64c');
+        map.setPaintProperty(layer,'line-width',1.1);
+        map.setPaintProperty(layer,'line-opacity',0.35);
+        delete hovered[layer];
+      }
+      document.getElementById('detail').style.display='none';
+    });
+    map.on('click',layer,()=>{location.href='trip.html?trip='+m.slug;});
+  });
+});
+
+// ---- cards ----
 const grid=document.getElementById('grid');
+const q=document.getElementById('q');
 function render(f){
-  const items=f?MANIFEST.filter(m=>(m.title+' '+m.region).toLowerCase().includes(f)):MANIFEST;
+  const items=MANIFEST.filter(m=>{
+    if(f&&!(m.title+' '+m.region).toLowerCase().includes(f))return false;
+    if(activeRegion&&m.region!==activeRegion)return false;
+    return true;
+  });
   grid.innerHTML=items.map(m=>
     '<a class="card" href="trip.html?trip='+m.slug+'">'+
     '<h2>'+m.title+'</h2>'+
@@ -109,7 +242,7 @@ function render(f){
   document.getElementById('total').textContent=MANIFEST.length+' trips';
   document.getElementById('empty').style.display=items.length?'none':'block';
 }
-document.getElementById('q').addEventListener('input',e=>render(e.target.value.trim().toLowerCase()));
+q.addEventListener('input',e=>render(e.target.value.trim().toLowerCase()));
 render('');
 </script>
 </body>
