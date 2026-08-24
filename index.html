@@ -21,7 +21,7 @@
       font-weight:600;font-size:15px;opacity:0;transition:opacity .35s;pointer-events:none}
   .cp.show{opacity:1}
   .car{position:fixed;left:0;top:0;z-index:9;pointer-events:none;will-change:transform;
-       transform-origin:50% 82%;filter:drop-shadow(0 2px 6px rgba(0,0,0,.6))}
+       filter:drop-shadow(0 2px 6px rgba(0,0,0,.6))}
 </style>
 </head>
 <body>
@@ -100,7 +100,7 @@ addEventListener('wheel',e=>{if(S.on){e.preventDefault();
 addEventListener('scroll',()=>{if(Math.abs(scrollY-S.current)>2)S.target=S.current=scrollY;},{passive:true});
 
 // low-pass filter for the camera so it never twitches
-const cam={pos:LINE[0].slice(),zoom:8.4};
+const cam={pos:LINE[0].slice(),zoom:8.4,lastZoom:8.4};
 const car={pos:LINE[0].slice(),head:0}; // smooth follower marker state
 
 map.on('load',()=>{
@@ -138,13 +138,17 @@ map.on('load',()=>{
       // Camera eases toward the car position (lerp), zoom breathes out mid-journey.
       cam.pos[0]+=(pos[0]-cam.pos[0])*.06;
       cam.pos[1]+=(pos[1]-cam.pos[1])*.06;
-      const zoomTarget=8.4-2.2*Math.sin(t*Math.PI);
+      // Narrow breathing band: 8.0 -> 7.2 -> 8.0 (was 8.4 -> 6.2). Each integer
+      // zoom crossing forces a new tile pyramid; a smaller band crosses fewer
+      // boundaries and requests a far smaller tile area at the mid-journey dip.
+      const zoomTarget=8.0-0.8*Math.sin(t*Math.PI);
       cam.zoom+=(zoomTarget-cam.zoom)*.06;
-      // Quantize the camera zoom to 0.5 steps: MapLibre swaps tile sets at integer
-      // zooms, and every swap hitches while new tiles load. Fewer crossings = fewer
-      // hitches; 0.5 steps are visually indistinguishable from continuous zoom here.
-      const zoomQ=Math.round(cam.zoom*2)/2;
-      map.jumpTo({center:cam.pos,zoom:zoomQ,pitch:45,bearing:0});
+      // Only push a new zoom to MapLibre when it's changed by > 0.01 — this avoids
+      // triggering a tile-source update every single frame (the stutter). Center
+      // updates are cheap (no tile fetch) so we always send those.
+      const zNow=Math.abs(cam.zoom-cam.lastZoom)>0.015?cam.zoom:cam.lastZoom;
+      cam.lastZoom=zNow;
+      map.jumpTo({center:cam.pos,zoom:zNow,pitch:45,bearing:0});
       const idx=Math.max(1,r.i); // arc-length index — count fraction drifts and draws a moving chord
       const coords=LINE.slice(0,idx+1);coords.push(pos);
       map.getSource('done').setData({type:'Feature',properties:{},geometry:{type:'LineString',coordinates:coords}});
@@ -164,15 +168,7 @@ map.on('load',()=>{
       const el=document.getElementById('car');
       el.style.left=(p.x)+'px';
       el.style.top=(p.y)+'px';
-      // Squash + y-shift: at pitch 45 the ground plane is foreshortened, so a flat
-      // car must be squashed vertically (cos 45 ≈ .707) and nudged down-screen so its
-      // base stays on the route point. Modulate by viewport depth: things farther
-      // from center are "closer to the horizon" and squash a bit more.
-      const W=innerWidth,H=innerHeight;
-      const depth=Math.min(1,Math.hypot(p.x-W/2,p.y-H/2)/(H/2)); // 0 center → 1 edge
-      const squash=0.707*(1-0.18*depth);                          // .707 → .58
-      const yshift=6+8*depth;                                     // px down-screen
-      el.style.transform='translate(-50%,-55%) translateY('+yshift+'px) rotate('+car.head+'deg) scaleY('+squash.toFixed(3)+')';
+      el.style.transform='translate(-50%,-55%) rotate('+car.head+'deg)';
     }
     document.getElementById('km').textContent=Math.round(t*624);
     document.getElementById('bar').style.width=(t*100)+'%';
