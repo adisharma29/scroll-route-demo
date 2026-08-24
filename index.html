@@ -20,7 +20,7 @@
       background:rgba(232,182,76,.95);color:#1a1408;padding:10px 22px;border-radius:999px;
       font-weight:600;font-size:15px;opacity:0;transition:opacity .35s;pointer-events:none}
   .cp.show{opacity:1}
-  .car{position:fixed;left:0;top:0;z-index:9;pointer-events:none;will-change:transform;
+  .car{position:fixed;z-index:9;pointer-events:none;will-change:transform;
        filter:drop-shadow(0 2px 6px rgba(0,0,0,.6))}
 </style>
 </head>
@@ -95,9 +95,10 @@ function pointAt(t){
 
 // smooth-scroll engine
 const S={target:window.scrollY,current:window.scrollY,on:!matchMedia('(prefers-reduced-motion: reduce)').matches};
-addEventListener('wheel',e=>{if(S.on){e.preventDefault();
-  S.target=Math.max(0,Math.min(document.documentElement.scrollHeight-innerHeight,S.target+e.deltaY));}},{passive:false});
-addEventListener('scroll',()=>{if(Math.abs(scrollY-S.current)>2)S.target=S.current=scrollY;},{passive:true});
+// pear.no pattern: native scroll always wins. We never preventDefault or
+// scrollTo — we just record where the page IS (target) and let a separate lerped
+// value (current) drive the map. Zero fighting = zero shake.
+addEventListener('scroll',()=>{S.target=scrollY;},{passive:true});
 
 // low-pass filter for the camera so it never twitches
 const cam={pos:LINE[0].slice(),zoom:8.4,lastZoom:8.4,lastPx:null};
@@ -123,10 +124,10 @@ map.on('load',()=>{
   map.addLayer({id:'cps',type:'circle',source:{type:'geojson',data:{type:'FeatureCollection',features:cpFeatures}},
     paint:{'circle-radius':6,'circle-color':'#e8b64c','circle-stroke-width':2,'circle-stroke-color':'#0b0a09'}});
 
-  let lastT=-1,bearingSmoothed=null;
+  let lastT=-1,bearingSmoothed=null,lastIdx=-1;
   function frame(){
-    if(S.on){S.current+=(S.target-S.current)*.085;if(Math.abs(S.target-S.current)<.08)S.current=S.target;
-      scrollTo(0,S.current);}
+    S.current+=(S.target-S.current)*.085;
+    if(Math.abs(S.target-S.current)<.08)S.current=S.target;
     const max=document.documentElement.scrollHeight-innerHeight;
     const t=max?S.current/max:0;
 
@@ -157,9 +158,14 @@ map.on('load',()=>{
         map.jumpTo({center:cam.pos,zoom:zNow,pitch:45,bearing:0});
         cam.lastPx=px;
       }
-      const idx=Math.max(1,r.i); // arc-length index — count fraction drifts and draws a moving chord
-      const coords=LINE.slice(0,idx+1);coords.push(pos);
-      map.getSource('done').setData({type:'Feature',properties:{},geometry:{type:'LineString',coordinates:coords}});
+      const idx=Math.max(1,r.i); // arc-length index
+      // Only re-upload the travelled line when the index actually advances.
+      // setData every frame is a GeoJSON re-upload + line re-render = main-thread churn.
+      if(idx!==lastIdx){
+        lastIdx=idx;
+        const coords=LINE.slice(0,idx+1);coords.push(pos);
+        map.getSource('done').setData({type:'Feature',properties:{},geometry:{type:'LineString',coordinates:coords}});
+      }
 
       // --- car marker (pear.no lesson: smooth follower, never snapped) ---
       // car eases toward the true head (slightly slower than the camera)
@@ -171,12 +177,13 @@ map.on('load',()=>{
       // wrap-safe lerp: shortest angular path
       let d=((want-car.head+540)%360)-180;
       car.head+=d*.09;
-      // project car to screen and place the marker
+      // project car to screen: use translate3d (GPU layer, no layout reflow)
+      // and round to integers to kill sub-pixel jitter.
       const p=map.project(car.pos);
       const el=document.getElementById('car');
-      el.style.left=(p.x)+'px';
-      el.style.top=(p.y)+'px';
-      el.style.transform='translate(-50%,-55%) rotate('+car.head+'deg)';
+      el.style.left='0px';
+      el.style.top='0px';
+      el.style.transform='translate3d('+Math.round(p.x)+'px,'+Math.round(p.y)+'px,0) translate(-50%,-55%) rotate('+car.head.toFixed(1)+'deg)';
     }
     document.getElementById('km').textContent=Math.round(t*624);
     document.getElementById('bar').style.width=(t*100)+'%';
