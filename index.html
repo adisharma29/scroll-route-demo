@@ -20,6 +20,8 @@
       background:rgba(232,182,76,.95);color:#1a1408;padding:10px 22px;border-radius:999px;
       font-weight:600;font-size:15px;opacity:0;transition:opacity .35s;pointer-events:none}
   .cp.show{opacity:1}
+  .car{position:fixed;left:0;top:0;z-index:9;pointer-events:none;will-change:transform;
+       filter:drop-shadow(0 2px 6px rgba(0,0,0,.6))}
 </style>
 </head>
 <body>
@@ -31,6 +33,13 @@
   <div id="progress"><div id="bar"></div></div>
 </div>
 <div class="cp" id="cpToast"></div>
+<div id="car" class="car" aria-hidden="true">
+  <svg width="34" height="34" viewBox="0 0 34 34">
+    <circle cx="17" cy="17" r="13" fill="rgba(232,182,76,.25)"/>
+    <circle cx="17" cy="17" r="9.5" fill="#0b0a09" stroke="#e8b64c" stroke-width="1.6"/>
+    <path d="M17 5 L19.5 15.5 L17 20 L14.5 15.5 Z" fill="#e8b64c"/>
+  </svg>
+</div>
 <div class="scroll-space" style="height:800vh"></div>
 
 <script>
@@ -73,6 +82,7 @@ addEventListener('scroll',()=>{if(Math.abs(scrollY-S.current)>2)S.target=S.curre
 
 // low-pass filter for the camera so it never twitches
 const cam={pos:LINE[0].slice(),zoom:8.4};
+const car={pos:LINE[0].slice(),head:0}; // smooth follower marker state
 
 map.on('load',()=>{
   map.addSource('route',{type:'geojson',data:{type:'Feature',properties:{},
@@ -115,6 +125,23 @@ map.on('load',()=>{
       const idx=Math.max(1,r.i); // arc-length index — count fraction drifts and draws a moving chord
       const coords=LINE.slice(0,idx+1);coords.push(pos);
       map.getSource('done').setData({type:'Feature',properties:{},geometry:{type:'LineString',coordinates:coords}});
+
+      // --- car marker (pear.no lesson: smooth follower, never snapped) ---
+      // car eases toward the true head (slightly slower than the camera)
+      car.pos[0]+=(pos[0]-car.pos[0])*.055;
+      car.pos[1]+=(pos[1]-car.pos[1])*.055;
+      // desired heading = route direction AT the car, from a short lookahead
+      const tgt=pointAt(Math.min(1,t+0.004));
+      const want=Math.atan2(tgt.pos[0]-pos[0],tgt.pos[1]-pos[1])*180/Math.PI;
+      // wrap-safe lerp: shortest angular path
+      let d=((want-car.head+540)%360)-180;
+      car.head+=d*.09;
+      // project car to screen and place the marker
+      const p=map.project(car.pos);
+      const el=document.getElementById('car');
+      el.style.left=(p.x)+'px';
+      el.style.top=(p.y)+'px';
+      el.style.transform='translate(-50%,-60%) rotate('+car.head+'deg)';
     }
     document.getElementById('km').textContent=Math.round(t*624);
     document.getElementById('bar').style.width=(t*100)+'%';
