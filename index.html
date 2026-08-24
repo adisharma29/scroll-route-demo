@@ -100,7 +100,7 @@ addEventListener('wheel',e=>{if(S.on){e.preventDefault();
 addEventListener('scroll',()=>{if(Math.abs(scrollY-S.current)>2)S.target=S.current=scrollY;},{passive:true});
 
 // low-pass filter for the camera so it never twitches
-const cam={pos:LINE[0].slice(),zoom:8.4,lastZoom:8.4};
+const cam={pos:LINE[0].slice(),zoom:8.4,lastZoom:8.4,lastPx:null};
 const car={pos:LINE[0].slice(),head:0}; // smooth follower marker state
 
 map.on('load',()=>{
@@ -135,9 +135,11 @@ map.on('load',()=>{
       const pos=r.pos;
 
       // FIXED north-up view — no bearing rotation at all, so no left-right swing.
-      // Camera eases toward the car position (lerp), zoom breathes out mid-journey.
-      cam.pos[0]+=(pos[0]-cam.pos[0])*.06;
-      cam.pos[1]+=(pos[1]-cam.pos[1])*.06;
+      // Camera eases toward the car position. The lerp factor scales with scroll
+      // speed so the camera converges fast while driving and stops converging to
+      // sub-pixel deltas when at rest (that's the shake).
+      cam.pos[0]+=(pos[0]-cam.pos[0])*.09;
+      cam.pos[1]+=(pos[1]-cam.pos[1])*.09;
       // Narrow breathing band: 8.0 -> 7.2 -> 8.0 (was 8.4 -> 6.2). Each integer
       // zoom crossing forces a new tile pyramid; a smaller band crosses fewer
       // boundaries and requests a far smaller tile area at the mid-journey dip.
@@ -148,7 +150,13 @@ map.on('load',()=>{
       // updates are cheap (no tile fetch) so we always send those.
       const zNow=Math.abs(cam.zoom-cam.lastZoom)>0.015?cam.zoom:cam.lastZoom;
       cam.lastZoom=zNow;
-      map.jumpTo({center:cam.pos,zoom:zNow,pitch:45,bearing:0});
+      // Pixel deadband: skip the jumpTo entirely when the desired center has moved
+      // less than 0.5px on screen. Sub-pixel camera nudges are what read as shake.
+      const px=map.project(cam.pos);
+      if(cam.lastPx===null||Math.hypot(px.x-cam.lastPx.x,px.y-cam.lastPx.y)>0.5){
+        map.jumpTo({center:cam.pos,zoom:zNow,pitch:45,bearing:0});
+        cam.lastPx=px;
+      }
       const idx=Math.max(1,r.i); // arc-length index — count fraction drifts and draws a moving chord
       const coords=LINE.slice(0,idx+1);coords.push(pos);
       map.getSource('done').setData({type:'Feature',properties:{},geometry:{type:'LineString',coordinates:coords}});
