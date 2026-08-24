@@ -1,0 +1,211 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Scroll route</title>
+<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css">
+<script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<style>
+  html,body{margin:0;padding:0;background:#0b0a09;color:#f5f0e8;font-family:ui-sans-serif,system-ui,sans-serif}
+  #map{position:fixed;inset:0;width:100%;height:100%}
+  .hud{position:fixed;top:16px;left:16px;z-index:10;background:rgba(11,10,9,.82);
+       padding:14px 18px;border-radius:12px;max-width:340px;backdrop-filter:blur(6px)}
+  .hud h1{font-size:17px;margin:0 0 6px}
+  .hud p{font-size:13px;margin:0;opacity:.85;line-height:1.5}
+  #progress{margin-top:10px;height:4px;background:#333;border-radius:2px;overflow:hidden}
+  #bar{height:100%;width:0%;background:#e8b64c}
+  #km{font-variant-numeric:tabular-nums}
+  .back{position:fixed;bottom:20px;left:20px;z-index:11;background:rgba(232,182,76,.95);
+        color:#1a1408;padding:8px 14px;border-radius:999px;font-weight:600;font-size:13px;
+        text-decoration:none;opacity:.9}
+  .cp{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);z-index:10;
+      background:rgba(232,182,76,.95);color:#1a1408;padding:10px 22px;border-radius:999px;
+      font-weight:600;font-size:15px;opacity:0;transition:opacity .35s;pointer-events:none;
+      white-space:nowrap;max-width:90vw;overflow:hidden;text-overflow:ellipsis}
+  .cp.show{opacity:1}
+  .car{position:fixed;z-index:9;pointer-events:none;will-change:transform;
+       filter:drop-shadow(0 2px 6px rgba(0,0,0,.6))}
+  #err{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;
+       background:#0b0a09;color:#f5f0e8;font-size:15px;z-index:20;flex-direction:column;gap:12px}
+</style>
+</head>
+<body>
+<div id="map"></div>
+<div class="hud">
+  <h1 id="title">Loading…</h1>
+  <p><span id="km">0</span> km <span id="sub"></span></p>
+  <p style="opacity:.55">Scroll to drive.</p>
+  <div id="progress"><div id="bar"></div></div>
+</div>
+<a class="back" href="./index.html">&larr; All trips</a>
+<div class="cp" id="cpToast"></div>
+<div id="car" class="car" aria-hidden="true">
+  <svg width="30" height="56" viewBox="0 0 30 56">
+    <rect x="1"  y="8"  width="4" height="10" rx="2" fill="#111"/>
+    <rect x="25" y="8"  width="4" height="10" rx="2" fill="#111"/>
+    <rect x="1"  y="38" width="4" height="10" rx="2" fill="#111"/>
+    <rect x="25" y="38" width="4" height="10" rx="2" fill="#111"/>
+    <path d="M4 12 Q4 4 15 4 Q26 4 26 12 L26 44 Q26 52 15 52 Q4 52 4 44 Z"
+          fill="#e8b64c" stroke="#8a6a1e" stroke-width="1.2"/>
+    <path d="M6.5 13 Q6.5 6.5 15 6.5 Q23.5 6.5 23.5 13 L23.5 17 L6.5 17 Z" fill="#f3d489"/>
+    <path d="M6.5 43 L23.5 43 L23.5 44 Q23.5 49.5 15 49.5 Q6.5 49.5 6.5 44 Z" fill="#d9a83a"/>
+    <path d="M7 19 L23 19 L21.5 26 L8.5 26 Z" fill="#20242c"/>
+    <path d="M8.5 38 L21.5 38 L23 33 L7 33 Z" fill="#20242c"/>
+    <rect x="8.5" y="26" width="13" height="12" rx="2.5" fill="#c99a2e"/>
+    <circle cx="8.5" cy="7"  r="1.6" fill="#fff6d8"/>
+    <circle cx="21.5" cy="7" r="1.6" fill="#fff6d8"/>
+    <rect x="7"   y="48.6" width="4" height="1.8" rx="0.9" fill="#c0392b"/>
+    <rect x="19"  y="48.6" width="4" height="1.8" rx="0.9" fill="#c0392b"/>
+  </svg>
+</div>
+<div class="scroll-space" style="height:900vh;pointer-events:none;visibility:hidden"></div>
+<div id="err" style="display:none">Could not load this trip. <a href="./index.html" style="color:#e8b64c">Back to all trips</a></div>
+
+<script>
+const params = new URLSearchParams(location.search);
+const SLUG = params.get('trip') || '';
+
+let LINE=[], CHECKPOINTS=[], TITLE='', TOTALKM=0, TOTALM=0;
+
+fetch('data/'+SLUG+'.json').then(r=>{
+  if(!r.ok)throw new Error('not found');
+  return r.json();
+}).then(d=>{
+  LINE=d.polyline||[];
+  if(!LINE.length)throw new Error('empty polyline');
+  // checkpoints from data (already {name,t}) or build from plain names
+  CHECKPOINTS=d.checkpoints||[];
+  if(CHECKPOINTS.length && typeof CHECKPOINTS[0]==='string'){
+    const n=CHECKPOINTS.length;
+    CHECKPOINTS=CHECKPOINTS.map((name,i)=>({name, t:n>1?i/(n-1):0}));
+  }
+  TITLE=d.title||(d.from+' → '+d.to);
+  TOTALM=d.total_m||0;
+  TOTALKM=TOTALM/1000;
+  if(!TOTALKM&&d.distance_km)TOTALKM=d.distance_km;
+  document.getElementById('title').textContent=TITLE;
+  document.getElementById('sub').textContent=(d.region?'· '+d.region:'');
+  boot();
+}).catch(()=>{document.getElementById('err').style.display='flex'});
+
+function boot(){
+const map = new maplibregl.Map({
+  container: 'map',
+  style: 'https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json',
+  center: LINE[0], zoom: 7, pitch: 45, bearing: 0,
+  interactive: false
+});
+
+const seg=[];let total=0;
+for(let i=1;i<LINE.length;i++){
+  const [lng1,lat1]=LINE[i-1],[lng2,lat2]=LINE[i];
+  const R=6371000,d=Math.PI/180;
+  const a=Math.sin((lat2-lat1)*d/2)**2+Math.cos(lat1*d)*Math.cos(lat2*d)*Math.sin((lng2-lng1)*d/2)**2;
+  total+=2*R*Math.asin(Math.sqrt(a));
+  seg.push(total);
+}
+TOTALM=TOTALM||total;
+function pointAt(t){
+  const target=t*total;let i=seg.findIndex(s=>s>=target);
+  if(i<0)i=seg.length-1;
+  if(i===0)return{pos:LINE[0].slice(),i:0};
+  const p0=LINE[i],p1=LINE[i+1]||LINE[i];
+  const d0=seg[i-1],f=(target-d0)/((seg[i]-d0)||1);
+  return{pos:[p0[0]+(p1[0]-p0[0])*f,p0[1]+(p1[1]-p0[1])*f],i:i};
+}
+
+const S={target:window.scrollY,current:window.scrollY,on:!matchMedia('(prefers-reduced-motion: reduce)').matches};
+addEventListener('scroll',()=>{S.target=scrollY;},{passive:true});
+
+const cam={pos:LINE[0].slice(),zoom:7,lastZoom:7,lastPx:null};
+const car={pos:LINE[0].slice(),head:0};
+
+map.on('load',()=>{
+  // fit camera to route bounds once, then hold CONSTANT zoom (no breathing)
+  const bounds=new maplibregl.LngLatBounds();
+  for(const p of LINE)bounds.extend(p);
+  map.fitBounds(bounds,{padding:80,duration:0});
+  const z=Math.min(map.getZoom(),11);
+  cam.zoom=z;cam.lastZoom=z;
+  cam.pos=map.getCenter();
+
+  map.addSource('route',{type:'geojson',data:{type:'Feature',properties:{},
+    geometry:{type:'LineString',coordinates:LINE}}});
+  map.addSource('done',{type:'geojson',data:{type:'Feature',properties:{},
+    geometry:{type:'LineString',coordinates:[LINE[0]]}}});
+  map.addLayer({id:'route-full',type:'line',source:'route',
+    layout:{'line-cap':'round','line-join':'round'},
+    paint:{'line-color':'#5a5245','line-width':3}});
+  map.addLayer({id:'route-done',type:'line',source:'done',
+    layout:{'line-cap':'round','line-join':'round'},
+    paint:{'line-color':'#e8b64c','line-width':5,'line-blur':.4}});
+  const cpFeatures = CHECKPOINTS.map(function(c){
+    const target = c.t*total;
+    let k = seg.findIndex(s=>s>=target);
+    if(k<0)k = seg.length-1;
+    return {type:'Feature',geometry:{type:'Point',coordinates:LINE[k]}};
+  });
+  map.addLayer({id:'cps',type:'circle',source:{type:'geojson',data:{type:'FeatureCollection',features:cpFeatures}},
+    paint:{'circle-radius':6,'circle-color':'#e8b64c','circle-stroke-width':2,'circle-stroke-color':'#0b0a09'}});
+
+  let lastT=-1,lastIdx=-1,frameN=0;
+  function frame(){
+    frameN++;
+    S.current+=(S.target-S.current)*.085;
+    if(Math.abs(S.target-S.current)<.08)S.current=S.target;
+    const max=document.documentElement.scrollHeight-innerHeight;
+    const t=max?S.current/max:0;
+
+    if(map.loaded()){
+      const r=pointAt(t);
+      const pos=r.pos;
+
+      cam.pos[0]+=(pos[0]-cam.pos[0])*.09;
+      cam.pos[1]+=(pos[1]-cam.pos[1])*.09;
+      const zNow=cam.zoom;
+      const cur=map.getCenter();
+      const px=map.project(cam.pos);
+      const dist=Math.hypot(px.x-map.project(cur).x,px.y-map.project(cur).y);
+      if(cam.lastPx===null||dist>5){
+        map.easeTo({center:cam.pos,zoom:zNow,pitch:45,bearing:0,duration:140,
+                    easing:t=>t*t*(3-2*t)});
+        cam.lastPx=px;
+      }
+      const idx=Math.max(1,r.i);
+      if(idx!==lastIdx){
+        lastIdx=idx;
+        const coords=LINE.slice(0,idx+1);coords.push(pos);
+        map.getSource('done').setData({type:'Feature',properties:{},geometry:{type:'LineString',coordinates:coords}});
+      }
+
+      car.pos[0]+=(pos[0]-car.pos[0])*.055;
+      car.pos[1]+=(pos[1]-car.pos[1])*.055;
+      const tgt=pointAt(Math.min(1,t+0.004));
+      const want=Math.atan2(tgt.pos[0]-pos[0],tgt.pos[1]-pos[1])*180/Math.PI;
+      let d=((want-car.head+540)%360)-180;
+      car.head+=d*.09;
+      const p=map.project(car.pos);
+      const el=document.getElementById('car');
+      el.style.left='0px';
+      el.style.top='0px';
+      el.style.transform='translate3d('+Math.round(p.x)+'px,'+Math.round(p.y)+'px,0) translate(-50%,-55%) rotate('+car.head.toFixed(1)+'deg)';
+    }
+    const km=TOTALKM?Math.round(t*TOTALKM):Math.round(t*total/1000);
+    document.getElementById('km').textContent=km;
+    document.getElementById('bar').style.width=(t*100)+'%';
+
+    for(const c of CHECKPOINTS){
+      if(lastT<c.t&&t>=c.t){const el=document.getElementById('cpToast');
+        el.textContent=c.name;el.classList.add('show');
+        clearTimeout(el._h);el._h=setTimeout(()=>el.classList.remove('show'),2600);}
+    }
+    lastT=t;
+    requestAnimationFrame(frame);
+  }
+  frame();
+});
+}
+</script>
+</body>
+</html>
