@@ -164,12 +164,19 @@ function buildMilestoneCards(){
 
 function boot(){
 let REVERSED=false;
-const map = new maplibregl.Map({
+window.__map = new maplibregl.Map({
   container: 'map',
   style: 'https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json',
   center: LINE[0], zoom: 7, pitch: 45, bearing: 0,
-  interactive: false
+  interactive: true,
+  dragPan: false,
+  dragRotate: false,
+  scrollZoom: false,
+  doubleClickZoom: false,
+  touchZoomRotate: false,
+  keyboard: false
 });
+const map = window.__map;
 
 function buildRoute(){
   const L = REVERSED ? LINE.slice().reverse() : LINE;
@@ -228,6 +235,41 @@ map.on('load',()=>{
   });
   map.addLayer({id:'cps',type:'circle',source:{type:'geojson',data:{type:'FeatureCollection',features:cpFeatures}},
     paint:{'circle-radius':6,'circle-color':'#e8b64c','circle-stroke-width':2,'circle-stroke-color':'#0b0a09'}});
+
+  // ---- Click on route line or checkpoint to jump there ----
+  // Enable click events on specific layers without making the map draggable/zoomable
+  map['elevateLayers'] = ['route-full','route-done','cps'];
+  function nearestFraction(lng, lat) {
+    // Find the closest point on the polyline, return its scroll fraction (0..1)
+    let bestI = 0, bestD = Infinity;
+    for (let i = 0; i < L.length; i++) {
+      const dx = L[i][0] - lng, dy = L[i][1] - lat;
+      const d = dx*dx + dy*dy;
+      if (d < bestD) { bestD = d; bestI = i; }
+    }
+    // Convert index to distance fraction via seg array
+    const distAtI = bestI > 0 ? seg[bestI - 1] : 0;
+    return distAtI / (total || 1);
+  }
+  function scrollToFraction(frac) {
+    const maxScroll = document.documentElement.scrollHeight - window.innerHeight;
+    const targetY = Math.round(frac * maxScroll);
+    window.scrollTo({ top: targetY, behavior: 'smooth' });
+  }
+  function handleMapClick(e) {
+    const frac = nearestFraction(e.lngLat.lng, e.lngLat.lat);
+    scrollToFraction(frac);
+  }
+  map.on('click', 'route-full', handleMapClick);
+  map.on('click', 'route-done', handleMapClick);
+  map.on('click', 'cps', handleMapClick);
+  // Cursor pointer on hover over route/checkpoints
+  map.on('mouseenter', 'route-full', () => { map.getCanvas().style.cursor = 'pointer'; });
+  map.on('mouseleave', 'route-full', () => { map.getCanvas().style.cursor = ''; });
+  map.on('mouseenter', 'route-done', () => { map.getCanvas().style.cursor = 'pointer'; });
+  map.on('mouseleave', 'route-done', () => { map.getCanvas().style.cursor = ''; });
+  map.on('mouseenter', 'cps', () => { map.getCanvas().style.cursor = 'pointer'; });
+  map.on('mouseleave', 'cps', () => { map.getCanvas().style.cursor = ''; });
 
   // ---- REVERSE toggle ----
   const revBtn=document.getElementById('revBtn');
