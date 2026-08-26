@@ -1,1434 +1,1441 @@
 [
-  {
-    "slug": "manali-leh",
-    "title": "Manali \u2192 Leh Highway",
-    "from": "Manali Himachal Pradesh India",
-    "to": "Leh Ladakh India",
-    "checkpoints": [
-      "Manali",
-      "Marhi",
-      "Rohtang Pass",
-      "Keylong",
-      "Darcha",
-      "Baralacha La",
-      "Sarchu",
-      "Pang",
-      "Tanglang La",
-      "Leh"
-    ],
-    "region": "Ladakh",
-    "distance_km": 425
-  },
-  {
-    "slug": "leh-pangong-nubra",
-    "title": "Leh \u2192 Pangong \u2192 Nubra \u2192 Hanle \u2192 Umling La",
-    "from": "Leh Ladakh India",
-    "to": "Umling La Pass Ladakh India",
-    "checkpoints": [
-      "Leh",
-      "Khardung La",
-      "Nubra Valley",
-      "Diskit",
-      "Pangong Lake",
-      "Hanle",
-      "Umling La"
-    ],
-    "region": "Ladakh",
-    "distance_km": 500
-  },
-  {
-    "slug": "leh-tso-moriri",
-    "title": "Leh \u2192 Tso Moriri \u2192 Chumur",
-    "from": "Leh Ladakh India",
-    "to": "Tso Moriri Lake Ladakh India",
-    "checkpoints": [
-      "Leh",
-      "Chumathang",
-      "Mahe Bridge",
-      "Tso Moriri",
-      "Chumur"
-    ],
-    "region": "Ladakh",
-    "distance_km": 220
-  },
-  {
-    "slug": "srinagar-leh",
-    "title": "Srinagar \u2192 Leh via Zoji La",
-    "from": "Srinagar Jammu Kashmir India",
-    "to": "Leh Ladakh India",
-    "checkpoints": [
-      "Srinagar",
-      "Sonamarg",
-      "Zoji La",
-      "Kargil",
-      "Namika La",
-      "Fotu La",
-      "Leh"
-    ],
-    "region": "J&K",
-    "distance_km": 434
-  },
-  {
-    "slug": "zanskar-valley",
-    "title": "Zanskar Valley (Padum via Shinku La)",
-    "from": "Kargil Ladakh India",
-    "to": "Padum Zanskar Ladakh India",
-    "checkpoints": [
-      "Kargil",
-      "Sankoo",
-      "Panikhar",
-      "Shinku La",
-      "Rangdum",
-      "Padum"
-    ],
-    "region": "Ladakh",
-    "distance_km": 250
-  },
-  {
-    "slug": "spiti-circuit",
-    "title": "Spiti Circuit: Shimla \u2192 Kaza \u2192 Manali",
-    "from": "Shimla Himachal Pradesh India",
-    "to": "Manali Himachal Pradesh India",
-    "checkpoints": [
-      "Shimla",
-      "Narkanda",
-      "Rampur",
-      "Recong Peo",
-      "Chitkul",
-      "Nako",
-      "Tabo",
-      "Kaza",
-      "Chandratal",
-      "Manali"
-    ],
-    "region": "Himachal",
-    "distance_km": 750
-  },
-  {
-    "slug": "kasol-parvati",
-    "title": "Kasol / Parvati Valley",
-    "from": "Bhuntar Himachal Pradesh India",
-    "to": "Tosh Himachal Pradesh India",
-    "checkpoints": [
-      "Bhuntar",
-      "Kasol",
-      "Manikaran",
-      "Pulga",
-      "Tosh"
-    ],
-    "region": "Himachal",
-    "distance_km": 50
-  },
-  {
-    "slug": "jibhi-tirthan",
-    "title": "Jibhi / Tirthan Valley",
-    "from": "Aut tunnel Himachal Pradesh India",
-    "to": "Jalori Pass Himachal Pradesh India",
-    "checkpoints": [
-      "Aut",
-      "Shoja",
-      "Jalori Pass",
-      "Jibhi",
-      "Gushaini",
-      "Tirthan Valley"
-    ],
-    "region": "Himachal",
-    "distance_km": 60
-  },
-  {
-    "slug": "shimla-kalka",
-    "title": "Shimla \u2192 Kalka Heritage Route",
-    "from": "Shimla Himachal Pradesh India",
-    "to": "Kalka Himachal Pradesh India",
-    "checkpoints": [
-      "Shimla",
-      "Taradevi",
-      "Barog",
-      "Solan",
-      "Kalka"
-    ],
-    "region": "Himachal",
-    "distance_km": 90
-  },
-  {
-    "slug": "kashmir-circuit",
-    "title": "Srinagar \u2192 Gulmarg \u2192 Pahalgam \u2192 Sonamarg",
-    "from": "Srinagar Jammu Kashmir India",
-    "to": "Sonamarg Jammu Kashmir India",
-    "checkpoints": [
-      "Srinagar",
-      "Gulmarg",
-      "Tangmarg",
-      "Pahalgam",
-      "Sonamarg"
-    ],
-    "region": "Kashmir",
-    "distance_km": 150
-  },
-  {
-    "slug": "mussoorie-nainital",
-    "title": "Mussoorie \u2192 Dhanaulti \u2192 Nainital",
-    "from": "Mussoorie Uttarakhand India",
-    "to": "Nainital Uttarakhand India",
-    "checkpoints": [
-      "Mussoorie",
-      "Dhanaulti",
-      "Chamba",
-      "New Tehri",
-      "Nainital"
-    ],
-    "region": "Uttarakhand",
-    "distance_km": 180
-  },
-  {
-    "slug": "rishikesh-auli",
-    "title": "Rishikesh \u2192 Auli (Valley of Flowers)",
-    "from": "Rishikesh Uttarakhand India",
-    "to": "Auli Uttarakhand India",
-    "checkpoints": [
-      "Rishikesh",
-      "Devprayag",
-      "Srinagar (Garhwal)",
-      "Joshimath",
-      "Auli"
-    ],
-    "region": "Uttarakhand",
-    "distance_km": 270
-  },
-  {
-    "slug": "dehradun-gangotri",
-    "title": "Dehradun \u2192 Gangotri (Harsil Valley)",
-    "from": "Dehradun Uttarakhand India",
-    "to": "Gangotri Uttarakhand India",
-    "checkpoints": [
-      "Dehradun",
-      "Mussoorie",
-      "Yamunotri",
-      "Uttarkashi",
-      "Harsil",
-      "Gangotri"
-    ],
-    "region": "Uttarakhand",
-    "distance_km": 300
-  },
-  {
-    "slug": "kumaon-circuit",
-    "title": "Kumaon: Nainital \u2192 Ranikhet \u2192 Almora",
-    "from": "Nainital Uttarakhand India",
-    "to": "Almora Uttarakhand India",
-    "checkpoints": [
-      "Nainital",
-      "Bhimtal",
-      "Ranikhet",
-      "Kausani",
-      "Almora"
-    ],
-    "region": "Uttarakhand",
-    "distance_km": 120
-  },
-  {
-    "slug": "devalsari",
-    "title": "Devalsari Valley Trek Drive",
-    "from": "Mussoorie Uttarakhand India",
-    "to": "Devalsari Uttarakhand India",
-    "checkpoints": [
-      "Mussoorie",
-      "Thatyur",
-      "Devalsari"
-    ],
-    "region": "Uttarakhand",
-    "distance_km": 80
-  },
-  {
-    "slug": "gulabi-kantha",
-    "title": "Gulabi Kantha Trek Route",
-    "from": "Dehradun Uttarakhand India",
-    "to": "Gulabi Kantha Uttarakhand India",
-    "checkpoints": [
-      "Dehradun",
-      "Mussoorie",
-      "Hanol",
-      "Gulabi Kantha"
-    ],
-    "region": "Uttarakhand",
-    "distance_km": 150
-  },
-  {
-    "slug": "amritsar-chandigarh",
-    "title": "Amritsar \u2192 Chandigarh",
-    "from": "Amritsar Punjab India",
-    "to": "Chandigarh India",
-    "checkpoints": [
-      "Amritsar",
-      "Wagah Border",
-      "Bathinda",
-      "Chandigarh"
-    ],
-    "region": "Punjab",
-    "distance_km": 240
-  },
-  {
-    "slug": "bathinda-amritsar",
-    "title": "Bathinda \u2192 Amritsar Expressway",
-    "from": "Bathinda Punjab India",
-    "to": "Amritsar Punjab India",
-    "checkpoints": [
-      "Bathinda",
-      "Faridkot",
-      "Tarn Taran",
-      "Amritsar"
-    ],
-    "region": "Punjab",
-    "distance_km": 200
-  },
-  {
-    "slug": "rajasthan-triangle",
-    "title": "Rajasthan Golden Triangle: Delhi \u2192 Jodhpur \u2192 Jaisalmer \u2192 Udaipur",
-    "from": "New Delhi India",
-    "to": "Udaipur Rajasthan India",
-    "checkpoints": [
-      "Delhi",
-      "Jaipur",
-      "Ajmer",
-      "Jodhpur",
-      "Jaisalmer",
-      "Udaipur"
-    ],
-    "region": "Rajasthan",
-    "distance_km": 1200
-  },
-  {
-    "slug": "pune-delhi-trans-india",
-    "title": "Pune \u2192 Delhi Trans-India (via Rajasthan)",
-    "from": "Pune Maharashtra India",
-    "to": "New Delhi India",
-    "checkpoints": [
-      "Pune",
-      "Surat",
-      "Vadodara",
-      "Ahmedabad",
-      "Udaipur",
-      "Jaipur",
-      "Delhi"
-    ],
-    "region": "Pan-India",
-    "distance_km": 1500
-  },
-  {
-    "slug": "ahmedabad-udaipur",
-    "title": "Ahmedabad \u2192 Udaipur Weekend",
-    "from": "Ahmedabad Gujarat India",
-    "to": "Udaipur Rajasthan India",
-    "checkpoints": [
-      "Ahmedabad",
-      "Himmatnagar",
-      "Modasa",
-      "Udaipur"
-    ],
-    "region": "Rajasthan/Gujarat",
-    "distance_km": 260
-  },
-  {
-    "slug": "sou-gir-diu",
-    "title": "Statue of Unity \u2192 Gir Safari \u2192 Diu",
-    "from": "Ahmedabad Gujarat India",
-    "to": "Diu Gujarat India",
-    "checkpoints": [
-      "Ahmedabad",
-      "Statue of Unity",
-      "Rajpipla",
-      "Junagadh",
-      "Gir National Park",
-      "Diu"
-    ],
-    "region": "Gujarat",
-    "distance_km": 600
-  },
-  {
-    "slug": "kutch-road-to-heaven",
-    "title": "Kutch Road to Heaven: Bhuj \u2192 White Rann \u2192 Mandvi",
-    "from": "Bhuj Gujarat India",
-    "to": "Mandvi Gujarat India",
-    "checkpoints": [
-      "Bhuj",
-      "Kalo Dungar",
-      "White Rann (Dhordo)",
-      "Mandvi Beach"
-    ],
-    "region": "Gujarat",
-    "distance_km": 200
-  },
-  {
-    "slug": "south-gujarat-forest",
-    "title": "South Gujarat Forest: Vadodara \u2192 Saputara",
-    "from": "Vadodara Gujarat India",
-    "to": "Saputara Gujarat India",
-    "checkpoints": [
-      "Vadodara",
-      "Pavagadh",
-      "Champaner",
-      "Jambughoda",
-      "Saputara"
-    ],
-    "region": "Gujarat",
-    "distance_km": 250
-  },
-  {
-    "slug": "dwarka-somnath-diu",
-    "title": "Dwarka \u2192 Somnath \u2192 Diu Temple Circuit",
-    "from": "Dwarka Gujarat India",
-    "to": "Diu Gujarat India",
-    "checkpoints": [
-      "Dwarka",
-      "Porbandar",
-      "Somnath",
-      "Veraval",
-      "Diu"
-    ],
-    "region": "Gujarat",
-    "distance_km": 350
-  },
-  {
-    "slug": "up-heritage",
-    "title": "Delhi \u2192 Agra \u2192 Varanasi \u2192 Lucknow \u2192 Ayodhya",
-    "from": "New Delhi India",
-    "to": "Ayodhya Uttar Pradesh India",
-    "checkpoints": [
-      "Delhi",
-      "Agra",
-      "Fatehpur Sikri",
-      "Gwalior",
-      "Varanasi",
-      "Lucknow",
-      "Ayodhya"
-    ],
-    "region": "Uttar Pradesh",
-    "distance_km": 1000
-  },
-  {
-    "slug": "mp-heritage-safari",
-    "title": "MP Heritage: Khajuraho \u2192 Orchha \u2192 Kanha \u2192 Bandhavgarh",
-    "from": "Khajuraho Madhya Pradesh India",
-    "to": "Bandhavgarh Madhya Pradesh India",
-    "checkpoints": [
-      "Khajuraho",
-      "Orchha",
-      "Jhansi",
-      "Jabalpur",
-      "Kanha",
-      "Bandhavgarh"
-    ],
-    "region": "Madhya Pradesh",
-    "distance_km": 500
-  },
-  {
-    "slug": "mumbai-ajanta-ellora",
-    "title": "Mumbai \u2192 Ajanta & Ellora \u2192 Nashik",
-    "from": "Mumbai Maharashtra India",
-    "to": "Nashik Maharashtra India",
-    "checkpoints": [
-      "Mumbai",
-      "Aurangabad",
-      "Ellora Caves",
-      "Ajanta Caves",
-      "Nashik"
-    ],
-    "region": "Maharashtra",
-    "distance_km": 450
-  },
-  {
-    "slug": "mumbai-goa-nh66",
-    "title": "Mumbai \u2192 Goa (NH66 Coastal)",
-    "from": "Mumbai Maharashtra India",
-    "to": "Panaji Goa India",
-    "checkpoints": [
-      "Mumbai",
-      "Panvel",
-      "Alibaug",
-      "Ratnagiri",
-      "Sawantwadi",
-      "Goa"
-    ],
-    "region": "Maharashtra/Goa",
-    "distance_km": 600
-  },
-  {
-    "slug": "goa-hampi-badami",
-    "title": "Goa \u2192 Hampi \u2192 Badami \u2192 Ellora (3,200 km CNG Loop)",
-    "from": "Panaji Goa India",
-    "to": "Surat Gujarat India",
-    "checkpoints": [
-      "Goa",
-      "Hampi",
-      "Badami",
-      "Ellora",
-      "Nashik",
-      "Surat"
-    ],
-    "region": "Multi-state",
-    "distance_km": 3200
-  },
-  {
-    "slug": "coastal-karnataka",
-    "title": "Coastal Karnataka: Gokarna \u2192 Murudeshwar \u2192 Udupi \u2192 Mangalore",
-    "from": "Gokarna Karnataka India",
-    "to": "Mangaluru Karnataka India",
-    "checkpoints": [
-      "Gokarna",
-      "Honnavar",
-      "Murudeshwar",
-      "Maravanthe",
-      "Udupi",
-      "Mangaluru"
-    ],
-    "region": "Karnataka",
-    "distance_km": 250
-  },
-  {
-    "slug": "blr-coorg-goa",
-    "title": "BLR \u2192 Coorg \u2192 Mangalore \u2192 Udupi \u2192 Gokarna \u2192 Goa (Agumbe)",
-    "from": "Bengaluru Karnataka India",
-    "to": "Panaji Goa India",
-    "checkpoints": [
-      "Bengaluru",
-      "Coorg (Madikeri)",
-      "Mangaluru",
-      "Udupi",
-      "Agumbe Ghat",
-      "Gokarna",
-      "Goa"
-    ],
-    "region": "Karnataka",
-    "distance_km": 700
-  },
-  {
-    "slug": "chikmagalur",
-    "title": "Chikmagalur (Mullayanagiri & Baba Budangiri)",
-    "from": "Bengaluru Karnataka India",
-    "to": "Chikmagalur Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Tumakuru",
-      "Chikmagalur",
-      "Mullayanagiri",
-      "Baba Budangiri",
-      "Hebbe Falls"
-    ],
-    "region": "Karnataka",
-    "distance_km": 250
-  },
-  {
-    "slug": "coorg-madikeri",
-    "title": "Coorg (Gonikoppal \u2192 Madikeri)",
-    "from": "Bengaluru Karnataka India",
-    "to": "Madikeri Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Mysuru",
-      "Kushalnagar",
-      "Gonikoppal",
-      "Madikeri",
-      "Abbey Falls",
-      "Dubare"
-    ],
-    "region": "Karnataka",
-    "distance_km": 260
-  },
-  {
-    "slug": "hampi-badami-solo",
-    "title": "Hampi \u2192 Badami Solo (Ruins + Cave Temples)",
-    "from": "Bengaluru Karnataka India",
-    "to": "Badami Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Chitradurga",
-      "Hampi",
-      "Badami",
-      "Pattadakal",
-      "Aihole"
-    ],
-    "region": "Karnataka",
-    "distance_km": 400
-  },
-  {
-    "slug": "kerala-circuit",
-    "title": "Kerala Circuit: Kochi \u2192 Munnar \u2192 Athirapally \u2192 Alappuzha \u2192 Kumarakom",
-    "from": "Kochi Kerala India",
-    "to": "Kumarakom Kerala India",
-    "checkpoints": [
-      "Kochi",
-      "Munnar",
-      "Athirapally Falls",
-      "Alappuzha",
-      "Kumarakom"
-    ],
-    "region": "Kerala",
-    "distance_km": 350
-  },
-  {
-    "slug": "kerala-south",
-    "title": "Kerala South: Madurai \u2192 Vagamon \u2192 Varkala \u2192 Alleppey \u2192 Wayanad",
-    "from": "Madurai Tamil Nadu India",
-    "to": "Wayanad Kerala India",
-    "checkpoints": [
-      "Madurai",
-      "Vagamon",
-      "Varkala",
-      "Alleppey",
-      "Wayanad"
-    ],
-    "region": "Kerala/TN",
-    "distance_km": 450
-  },
-  {
-    "slug": "wayanad-munnar",
-    "title": "Wayanad \u2192 Munnar (Marayoor Ghat)",
-    "from": "Wayanad Kerala India",
-    "to": "Munnar Kerala India",
-    "checkpoints": [
-      "Wayanad",
-      "Kalpetta",
-      "Sulthan Bathery",
-      "Calicut",
-      "Palakkad",
-      "Marayoor",
-      "Munnar"
-    ],
-    "region": "Kerala",
-    "distance_km": 300
-  },
-  {
-    "slug": "chennai-pondicherry-ecr",
-    "title": "Chennai \u2192 Pondicherry (East Coast Road)",
-    "from": "Chennai Tamil Nadu India",
-    "to": "Pondicherry India",
-    "checkpoints": [
-      "Chennai",
-      "Mahabalipuram",
-      "ECR",
-      "Pondicherry"
-    ],
-    "region": "Tamil Nadu",
-    "distance_km": 150
-  },
-  {
-    "slug": "madurai-rameswaram",
-    "title": "Madurai \u2192 Rameswaram \u2192 Dhanushkodi",
-    "from": "Madurai Tamil Nadu India",
-    "to": "Dhanushkodi Tamil Nadu India",
-    "checkpoints": [
-      "Madurai",
-      "Ramanathapuram",
-      "Rameswaram",
-      "Pamban Bridge",
-      "Dhanushkodi"
-    ],
-    "region": "Tamil Nadu",
-    "distance_km": 200
-  },
-  {
-    "slug": "ooty-coonoor",
-    "title": "Ooty / Coonoor (Nilgiri Ghat Roads)",
-    "from": "Mysuru Karnataka India",
-    "to": "Coonoor Tamil Nadu India",
-    "checkpoints": [
-      "Mysuru",
-      "Bandipur",
-      "Ooty",
-      "Doddabetta",
-      "Coonoor"
-    ],
-    "region": "Tamil Nadu",
-    "distance_km": 160
-  },
-  {
-    "slug": "kodaikanal",
-    "title": "Kodaikanal (via Palani Ghats)",
-    "from": "Madurai Tamil Nadu India",
-    "to": "Kodaikanal Tamil Nadu India",
-    "checkpoints": [
-      "Madurai",
-      "Palani",
-      "Kodaikanal"
-    ],
-    "region": "Tamil Nadu",
-    "distance_km": 120
-  },
-  {
-    "slug": "tirupati-vizag-araku",
-    "title": "Tirupati \u2192 Vizag \u2192 Araku Valley",
-    "from": "Tirupati Andhra Pradesh India",
-    "to": "Araku Valley Andhra Pradesh India",
-    "checkpoints": [
-      "Tirupati",
-      "Nellore",
-      "Vijayawada",
-      "Visakhapatnam",
-      "Araku Valley"
-    ],
-    "region": "AP",
-    "distance_km": 700
-  },
-  {
-    "slug": "bbsr-puri-konark-chilika",
-    "title": "Bhubaneswar \u2192 Puri \u2192 Konark \u2192 Chilika Lake",
-    "from": "Bhubaneswar Odisha India",
-    "to": "Chilika Lake Odisha India",
-    "checkpoints": [
-      "Bhubaneswar",
-      "Puri",
-      "Konark",
-      "Chilika Lake (Satapada)"
-    ],
-    "region": "Odisha",
-    "distance_km": 150
-  },
-  {
-    "slug": "bbsr-koraput",
-    "title": "Bhubaneswar \u2192 Koraput (Tribal Odisha)",
-    "from": "Bhubaneswar Odisha India",
-    "to": "Koraput Odisha India",
-    "checkpoints": [
-      "Bhubaneswar",
-      "Cuttack",
-      "Phulbani",
-      "Bhawanipatna",
-      "Koraput"
-    ],
-    "region": "Odisha",
-    "distance_km": 500
-  },
-  {
-    "slug": "versys-650-odisha",
-    "title": "Versys 650 Odisha Road Trip",
-    "from": "Bhubaneswar Odisha India",
-    "to": "Gopalpur Odisha India",
-    "checkpoints": [
-      "Bhubaneswar",
-      "Puri",
-      "Konark",
-      "Gopalpur Beach"
-    ],
-    "region": "Odisha",
-    "distance_km": 200
-  },
-  {
-    "slug": "meghalaya",
-    "title": "Meghalaya: Guwahati \u2192 Shillong \u2192 Cherrapunji \u2192 Mawsynram",
-    "from": "Guwahati Assam India",
-    "to": "Mawsynram Meghalaya India",
-    "checkpoints": [
-      "Guwahati",
-      "Shillong",
-      "Cherrapunji",
-      "Mawsynram",
-      "Mawlynnong"
-    ],
-    "region": "Meghalaya",
-    "distance_km": 150
-  },
-  {
-    "slug": "arunachal-ziro-mechuka",
-    "title": "Arunachal: Ziro \u2192 Mechuka \u2192 Dong Valley",
-    "from": "Itanagar Arunachal Pradesh India",
-    "to": "Mechuka Arunachal Pradesh India",
-    "checkpoints": [
-      "Itanagar",
-      "Ziro",
-      "Daporijo",
-      "Along",
-      "Mechuka"
-    ],
-    "region": "Arunachal",
-    "distance_km": 500
-  },
-  {
-    "slug": "sikkim-circuit",
-    "title": "Sikkim: Gangtok \u2192 Lachung \u2192 North Sikkim \u2192 Pelling",
-    "from": "Gangtok Sikkim India",
-    "to": "Pelling Sikkim India",
-    "checkpoints": [
-      "Gangtok",
-      "Lachen",
-      "Gurudongmar Lake",
-      "Lachung",
-      "Yumthang Valley",
-      "Pelling"
-    ],
-    "region": "Sikkim",
-    "distance_km": 300
-  },
-  {
-    "slug": "19000km-himalayas",
-    "title": "19,000 km Himalayas Solo (87 days)",
-    "from": "Mangaluru Karnataka India",
-    "to": "Leh Ladakh India",
-    "checkpoints": [
-      "Mangaluru",
-      "Bengaluru",
-      "Delhi",
-      "Manali",
-      "Leh",
-      "Srinagar",
-      "Itanagar",
-      "Ziro",
-      "Mechuka",
-      "Kohima",
-      "Imphal",
-      "Pokhara (Nepal)"
-    ],
-    "region": "Pan-India",
-    "distance_km": 19000
-  },
-  {
-    "slug": "kashmir-kanyakumari",
-    "title": "Kashmir \u2192 Kanyakumari (6-month Full India Loop)",
-    "from": "Srinagar Jammu Kashmir India",
-    "to": "Kanyakumari Tamil Nadu India",
-    "checkpoints": [
-      "Srinagar",
-      "Jammu",
-      "Delhi",
-      "Mumbai",
-      "Goa",
-      "Bengaluru",
-      "Madurai",
-      "Kanyakumari"
-    ],
-    "region": "Pan-India",
-    "distance_km": 4000
-  },
-  {
-    "slug": "delhi-bangalore-2800",
-    "title": "Delhi \u2192 Bangalore 2,800 km (via Udaipur \u2192 Mumbai \u2192 Goa)",
-    "from": "New Delhi India",
-    "to": "Bengaluru Karnataka India",
-    "checkpoints": [
-      "Delhi",
-      "Jaipur",
-      "Udaipur",
-      "Daman",
-      "Mumbai",
-      "Goa",
-      "Udupi",
-      "Bengaluru"
-    ],
-    "region": "Pan-India",
-    "distance_km": 2800
-  },
-  {
-    "slug": "lucknow-bangalore-8678",
-    "title": "Lucknow \u2192 Bangalore 8,678 km (Duke 250)",
-    "from": "Lucknow Uttar Pradesh India",
-    "to": "Bengaluru Karnataka India",
-    "checkpoints": [
-      "Lucknow",
-      "Jhansi",
-      "Jaisalmer",
-      "Jodhpur",
-      "Ahmedabad",
-      "Mumbai",
-      "Mangaluru",
-      "Bengaluru"
-    ],
-    "region": "Pan-India",
-    "distance_km": 8678
-  },
-  {
-    "slug": "chennai-sikkim-bhutan",
-    "title": "Chennai \u2192 Odisha \u2192 Sikkim \u2192 Bhutan (Mega Bike)",
-    "from": "Chennai Tamil Nadu India",
-    "to": "Paro Bhutan",
-    "checkpoints": [
-      "Chennai",
-      "Bhubaneswar",
-      "Kolkata",
-      "Siliguri",
-      "Gangtok",
-      "Phuentsholing",
-      "Paro"
-    ],
-    "region": "Pan-India",
-    "distance_km": 3000
-  },
-  {
-    "slug": "india-pokhara-nepal",
-    "title": "India \u2192 Pokhara (Nepal)",
-    "from": "Gorakhpur Uttar Pradesh India",
-    "to": "Pokhara Nepal",
-    "checkpoints": [
-      "Gorakhpur",
-      "Sunauli Border",
-      "Pokhara"
-    ],
-    "region": "Cross-border",
-    "distance_km": 300
-  },
-  {
-    "slug": "india-bhutan-tigers-nest",
-    "title": "India \u2192 Bhutan (Tiger's Nest, Paro)",
-    "from": "Siliguri West Bengal India",
-    "to": "Paro Bhutan",
-    "checkpoints": [
-      "Siliguri",
-      "Phuentsholing",
-      "Thimphu",
-      "Paro",
-      "Tiger's Nest"
-    ],
-    "region": "Cross-border",
-    "distance_km": 300
-  },
-  {
-    "slug": "india-muktinath",
-    "title": "India \u2192 Muktinath (Annapurna Circuit)",
-    "from": "Gorakhpur Uttar Pradesh India",
-    "to": "Muktinath Nepal",
-    "checkpoints": [
-      "Gorakhpur",
-      "Sunauli",
-      "Pokhara",
-      "Jomsom",
-      "Muktinath"
-    ],
-    "region": "Cross-border",
-    "distance_km": 500
-  },
-  {
-    "slug": "blr-nandi-hills",
-    "title": "Bengaluru \u2192 Nandi Hills",
-    "from": "Bengaluru Karnataka India",
-    "to": "Nandi Hills Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Devanahalli",
-      "Nandi Hills"
-    ],
-    "region": "Bengaluru Day",
-    "distance_km": 60
-  },
-  {
-    "slug": "blr-dd-hills",
-    "title": "Bengaluru \u2192 DD Hills",
-    "from": "Bengaluru Karnataka India",
-    "to": "Devarayanadurga Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Tumakuru",
-      "Devarayanadurga"
-    ],
-    "region": "Bengaluru Day",
-    "distance_km": 50
-  },
-  {
-    "slug": "blr-anthargange",
-    "title": "Bengaluru \u2192 Anthargange (Night Trek)",
-    "from": "Bengaluru Karnataka India",
-    "to": "Anthargange Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Kolar",
-      "Anthargange"
-    ],
-    "region": "Bengaluru Day",
-    "distance_km": 70
-  },
-  {
-    "slug": "blr-mekedatu",
-    "title": "Bengaluru \u2192 Mekedatu (River Gorge)",
-    "from": "Bengaluru Karnataka India",
-    "to": "Mekedatu Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Kanakapura",
-      "Mekedatu"
-    ],
-    "region": "Bengaluru Day",
-    "distance_km": 90
-  },
-  {
-    "slug": "blr-ramanagara",
-    "title": "Bengaluru \u2192 Ramanagara (Sholay Rocks)",
-    "from": "Bengaluru Karnataka India",
-    "to": "Ramanagara Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Ramanagara"
-    ],
-    "region": "Bengaluru Day",
-    "distance_km": 50
-  },
-  {
-    "slug": "blr-savandurga",
-    "title": "Bengaluru \u2192 Savandurga / Skandagiri",
-    "from": "Bengaluru Karnataka India",
-    "to": "Savandurga Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Magadi",
-      "Savandurga"
-    ],
-    "region": "Bengaluru Day",
-    "distance_km": 60
-  },
-  {
-    "slug": "blr-shivanasamudra",
-    "title": "Bengaluru \u2192 Shivanasamudra Falls",
-    "from": "Bengaluru Karnataka India",
-    "to": "Shivanasamudra Falls Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Maddur",
-      "Shivanasamudra"
-    ],
-    "region": "Bengaluru Day",
-    "distance_km": 130
-  },
-  {
-    "slug": "blr-yelagiri",
-    "title": "Bengaluru \u2192 Yelagiri",
-    "from": "Bengaluru Karnataka India",
-    "to": "Yelagiri Tamil Nadu India",
-    "checkpoints": [
-      "Bengaluru",
-      "Hosur",
-      "Krishnagiri",
-      "Yelagiri"
-    ],
-    "region": "Bengaluru Day",
-    "distance_km": 170
-  },
-  {
-    "slug": "blr-horsley-hills",
-    "title": "Bengaluru \u2192 Horsley Hills (Hidden Gem)",
-    "from": "Bengaluru Karnataka India",
-    "to": "Horsley Hills Andhra Pradesh India",
-    "checkpoints": [
-      "Bengaluru",
-      "Chikkaballapur",
-      "Madanapalle",
-      "Horsley Hills"
-    ],
-    "region": "Bengaluru Day",
-    "distance_km": 150
-  },
-  {
-    "slug": "blr-hogenakkal",
-    "title": "Bengaluru \u2192 Hogenakkal Falls",
-    "from": "Bengaluru Karnataka India",
-    "to": "Hogenakkal Tamil Nadu India",
-    "checkpoints": [
-      "Bengaluru",
-      "Hosur",
-      "Dharmapuri",
-      "Hogenakkal"
-    ],
-    "region": "Bengaluru Day",
-    "distance_km": 115
-  },
-  {
-    "slug": "blr-ranganathittu",
-    "title": "Bengaluru \u2192 Ranganathittu + Srirangapatna",
-    "from": "Bengaluru Karnataka India",
-    "to": "Ranganathittu Bird Sanctuary Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Mandya",
-      "Srirangapatna",
-      "Ranganathittu"
-    ],
-    "region": "Bengaluru Day",
-    "distance_km": 130
-  },
-  {
-    "slug": "blr-kokkarebellur",
-    "title": "Bengaluru \u2192 Kokkarebellur (Pelican Village)",
-    "from": "Bengaluru Karnataka India",
-    "to": "Kokkarebellur Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Maddur",
-      "Kokkarebellur"
-    ],
-    "region": "Bengaluru Day",
-    "distance_km": 110
-  },
-  {
-    "slug": "blr-muthyala-maduvu",
-    "title": "Bengaluru \u2192 Muthyala Maduvu (Pearl Valley)",
-    "from": "Bengaluru Karnataka India",
-    "to": "Muthyala Maduvu Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Anekal",
-      "Muthyala Maduvu"
-    ],
-    "region": "Bengaluru Day",
-    "distance_km": 55
-  },
-  {
-    "slug": "blr-chhota-ladakh",
-    "title": "Bengaluru \u2192 Chhota Ladakh",
-    "from": "Bengaluru Karnataka India",
-    "to": "Chhota Ladakh Bengaluru Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Chhota Ladakh"
-    ],
-    "region": "Bengaluru Day",
-    "distance_km": 60
-  },
-  {
-    "slug": "blr-thattekere",
-    "title": "Bengaluru \u2192 Thattekere Lake / Sangam",
-    "from": "Bengaluru Karnataka India",
-    "to": "Thattekere Lake Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Jigani",
-      "Thattekere"
-    ],
-    "region": "Bengaluru Day",
-    "distance_km": 70
-  },
-  {
-    "slug": "blr-gopalaswamy-betta",
-    "title": "Bengaluru \u2192 Gopalaswamy Betta",
-    "from": "Bengaluru Karnataka India",
-    "to": "Gopalaswamy Betta Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Mysore",
-      "Nanjangud",
-      "Gopalaswamy Betta"
-    ],
-    "region": "Bengaluru Day",
-    "distance_km": 160
-  },
-  {
-    "slug": "blr-penukonda",
-    "title": "Bengaluru \u2192 Penukonda Fort",
-    "from": "Bengaluru Karnataka India",
-    "to": "Penukonda Fort Andhra Pradesh India",
-    "checkpoints": [
-      "Bengaluru",
-      "Hindupur",
-      "Penukonda"
-    ],
-    "region": "Bengaluru Day",
-    "distance_km": 120
-  },
-  {
-    "slug": "blr-mysore",
-    "title": "Bengaluru \u2192 Mysore",
-    "from": "Bengaluru Karnataka India",
-    "to": "Mysore Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Ramanagara",
-      "Maddur",
-      "Mandya",
-      "Mysore"
-    ],
-    "region": "Bengaluru Weekend",
-    "distance_km": 140
-  },
-  {
-    "slug": "blr-br-hills",
-    "title": "Bengaluru \u2192 BR Hills (Biligiriranga)",
-    "from": "Bengaluru Karnataka India",
-    "to": "BR Hills Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Mysore",
-      "Yelandur",
-      "BR Hills"
-    ],
-    "region": "Bengaluru Weekend",
-    "distance_km": 160
-  },
-  {
-    "slug": "blr-kabini",
-    "title": "Bengaluru \u2192 Kabini (Backwaters Safari)",
-    "from": "Bengaluru Karnataka India",
-    "to": "Kabini Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Mysore",
-      "HD Kote",
-      "Kabini"
-    ],
-    "region": "Bengaluru Weekend",
-    "distance_km": 200
-  },
-  {
-    "slug": "blr-bandipur",
-    "title": "Bengaluru \u2192 Bandipur NP",
-    "from": "Bengaluru Karnataka India",
-    "to": "Bandipur National Park Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Mysore",
-      "Gundlupet",
-      "Bandipur"
-    ],
-    "region": "Bengaluru Weekend",
-    "distance_km": 220
-  },
-  {
-    "slug": "blr-coorg",
-    "title": "Bengaluru \u2192 Coorg (Madikeri)",
-    "from": "Bengaluru Karnataka India",
-    "to": "Madikeri Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Mysore",
-      "Hunsur",
-      "Madikeri"
-    ],
-    "region": "Bengaluru Weekend",
-    "distance_km": 260
-  },
-  {
-    "slug": "blr-chikmagalur",
-    "title": "Bengaluru \u2192 Chikmagalur",
-    "from": "Bengaluru Karnataka India",
-    "to": "Chikmagalur Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Tumakuru",
-      "Arsikere",
-      "Chikmagalur",
-      "Mullayanagiri"
-    ],
-    "region": "Bengaluru Weekend",
-    "distance_km": 240
-  },
-  {
-    "slug": "blr-sakleshpur",
-    "title": "Bengaluru \u2192 Sakleshpur",
-    "from": "Bengaluru Karnataka India",
-    "to": "Sakleshpur Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Hassan",
-      "Sakleshpur"
-    ],
-    "region": "Bengaluru Weekend",
-    "distance_km": 220
-  },
-  {
-    "slug": "blr-belur-halebid",
-    "title": "Bengaluru \u2192 Belur \u2192 Halebidu \u2192 Shravanabelagola",
-    "from": "Bengaluru Karnataka India",
-    "to": "Shravanabelagola Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Hassan",
-      "Belur",
-      "Halebidu",
-      "Shravanabelagola"
-    ],
-    "region": "Bengaluru Weekend",
-    "distance_km": 220
-  },
-  {
-    "slug": "blr-ooty",
-    "title": "Bengaluru \u2192 Ooty / Coonoor",
-    "from": "Bengaluru Karnataka India",
-    "to": "Ooty Tamil Nadu India",
-    "checkpoints": [
-      "Bengaluru",
-      "Mysore",
-      "Gundlupet",
-      "Bandipur",
-      "Ooty",
-      "Coonoor"
-    ],
-    "region": "Bengaluru Weekend",
-    "distance_km": 290
-  },
-  {
-    "slug": "blr-kodaikanal",
-    "title": "Bengaluru \u2192 Kodaikanal",
-    "from": "Bengaluru Karnataka India",
-    "to": "Kodaikanal Tamil Nadu India",
-    "checkpoints": [
-      "Bengaluru",
-      "Salem",
-      "Dindigul",
-      "Kodaikanal"
-    ],
-    "region": "Bengaluru Weekend",
-    "distance_km": 450
-  },
-  {
-    "slug": "blr-wayanad",
-    "title": "Bengaluru \u2192 Wayanad (NH766)",
-    "from": "Bengaluru Karnataka India",
-    "to": "Sultan Bathery Kerala India",
-    "checkpoints": [
-      "Bengaluru",
-      "Mysore",
-      "Gundlupet",
-      "Bandipur",
-      "Sultan Bathery",
-      "Wayanad"
-    ],
-    "region": "Bengaluru Weekend",
-    "distance_km": 280
-  },
-  {
-    "slug": "blr-hampi",
-    "title": "Bengaluru \u2192 Hampi",
-    "from": "Bengaluru Karnataka India",
-    "to": "Hampi Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Chitradurga",
-      "Bellary",
-      "Hospet",
-      "Hampi"
-    ],
-    "region": "Bengaluru Weekend",
-    "distance_km": 350
-  },
-  {
-    "slug": "blr-mangalore",
-    "title": "Bengaluru \u2192 Mangalore",
-    "from": "Bengaluru Karnataka India",
-    "to": "Mangalore Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Hassan",
-      "Sakleshpur",
-      "Mangalore"
-    ],
-    "region": "Bengaluru Weekend",
-    "distance_km": 350
-  },
-  {
-    "slug": "blr-gokarna",
-    "title": "Bengaluru \u2192 Gokarna",
-    "from": "Bengaluru Karnataka India",
-    "to": "Gokarna Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Hubli",
-      "Karwar",
-      "Gokarna"
-    ],
-    "region": "Bengaluru Weekend",
-    "distance_km": 480
-  },
-  {
-    "slug": "blr-pondicherry",
-    "title": "Bengaluru \u2192 Pondicherry",
-    "from": "Bengaluru Karnataka India",
-    "to": "Pondicherry India",
-    "checkpoints": [
-      "Bengaluru",
-      "Hosur",
-      "Krishnagiri",
-      "Tiruvannamalai",
-      "Pondicherry"
-    ],
-    "region": "Bengaluru Weekend",
-    "distance_km": 330
-  },
-  {
-    "slug": "blr-coast-run",
-    "title": "Bengaluru Coast Run: Coorg \u2192 Mangalore \u2192 Udupi \u2192 Gokarna \u2192 Goa",
-    "from": "Bengaluru Karnataka India",
-    "to": "Goa India",
-    "checkpoints": [
-      "Bengaluru",
-      "Madikeri",
-      "Mangalore",
-      "Udupi",
-      "Gokarna",
-      "Goa"
-    ],
-    "region": "Bengaluru Extended",
-    "distance_km": 700
-  },
-  {
-    "slug": "blr-agumbe-gokarna",
-    "title": "Bengaluru \u2192 Agumbe Ghats \u2192 Gokarna \u2192 Udupi",
-    "from": "Bengaluru Karnataka India",
-    "to": "Udupi Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Shivamogga",
-      "Agumbe",
-      "Gokarna",
-      "Udupi"
-    ],
-    "region": "Bengaluru Extended",
-    "distance_km": 600
-  },
-  {
-    "slug": "blr-kerala-circuit",
-    "title": "Bengaluru \u2192 Kerala Circuit (Munnar \u2192 Backwaters)",
-    "from": "Bengaluru Karnataka India",
-    "to": "Kumarakom Kerala India",
-    "checkpoints": [
-      "Bengaluru",
-      "Salem",
-      "Kochi",
-      "Munnar",
-      "Athirapally",
-      "Alappuzha",
-      "Kumarakom"
-    ],
-    "region": "Bengaluru Extended",
-    "distance_km": 650
-  },
-  {
-    "slug": "blr-deccan-heritage",
-    "title": "Bengaluru \u2192 Deccan Heritage: Hampi \u2192 Gandikota \u2192 Badami",
-    "from": "Bengaluru Karnataka India",
-    "to": "Badami Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Hampi",
-      "Gandikota",
-      "Badami",
-      "Aihole",
-      "Pattadakal"
-    ],
-    "region": "Bengaluru Extended",
-    "distance_km": 500
-  },
-  {
-    "slug": "blr-leh",
-    "title": "Bengaluru \u2192 Leh (Solo Epic)",
-    "from": "Bengaluru Karnataka India",
-    "to": "Leh Ladakh India",
-    "checkpoints": [
-      "Bengaluru",
-      "Hyderabad",
-      "Nagpur",
-      "Delhi",
-      "Manali",
-      "Leh"
-    ],
-    "region": "Bengaluru Extended",
-    "distance_km": 3500
-  },
-  {
-    "slug": "blr-goa-coast",
-    "title": "Bengaluru \u2192 Karwar \u2192 Goa \u2192 Udupi (Coastal Loop)",
-    "from": "Bengaluru Karnataka India",
-    "to": "Udupi Karnataka India",
-    "checkpoints": [
-      "Bengaluru",
-      "Hubli",
-      "Karwar",
-      "Goa",
-      "Udupi"
-    ],
-    "region": "Bengaluru Extended",
-    "distance_km": 750
-  }
+ {
+  "slug": "manali-leh",
+  "title": "Manali \u2192 Leh Highway",
+  "from": "Manali Himachal Pradesh India",
+  "to": "Leh Ladakh India",
+  "checkpoints": [
+   "Manali",
+   "Marhi",
+   "Rohtang Pass",
+   "Keylong",
+   "Darcha",
+   "Baralacha La",
+   "Sarchu",
+   "Pang",
+   "Tanglang La",
+   "Leh"
+  ],
+  "region": "Ladakh",
+  "distance_km": 425
+ },
+ {
+  "slug": "leh-nubra",
+  "from": "Leh Ladakh India",
+  "to": "Diskit Nubra Ladakh India",
+  "checkpoints": [
+   "Leh",
+   "Khardung La",
+   "Nubra Valley",
+   "Diskit"
+  ],
+  "source": "split from leh-pangong-nubra"
+ },
+ {
+  "slug": "leh-pangong-umling",
+  "from": "Leh Ladakh India",
+  "to": "Umling La Pass Ladakh India",
+  "checkpoints": [
+   "Leh",
+   "Pangong Lake",
+   "Hanle",
+   "Umling La"
+  ],
+  "source": "split from leh-pangong-nubra"
+ },
+ {
+  "slug": "leh-tso-moriri",
+  "title": "Leh \u2192 Tso Moriri \u2192 Chumur",
+  "from": "Leh Ladakh India",
+  "to": "Tso Moriri Lake Ladakh India",
+  "checkpoints": [
+   "Leh",
+   "Chumathang",
+   "Mahe Bridge",
+   "Tso Moriri",
+   "Chumur"
+  ],
+  "region": "Ladakh",
+  "distance_km": 220
+ },
+ {
+  "slug": "srinagar-leh",
+  "title": "Srinagar \u2192 Leh via Zoji La",
+  "from": "Srinagar Jammu Kashmir India",
+  "to": "Leh Ladakh India",
+  "checkpoints": [
+   "Srinagar",
+   "Sonamarg",
+   "Zoji La",
+   "Kargil",
+   "Namika La",
+   "Fotu La",
+   "Leh"
+  ],
+  "region": "J&K",
+  "distance_km": 434
+ },
+ {
+  "slug": "zanskar-valley",
+  "title": "Zanskar Valley (Padum via Shinku La)",
+  "from": "Kargil Ladakh India",
+  "to": "Padum Zanskar Ladakh India",
+  "checkpoints": [
+   "Kargil",
+   "Sankoo",
+   "Panikhar",
+   "Shinku La",
+   "Rangdum",
+   "Padum"
+  ],
+  "region": "Ladakh",
+  "distance_km": 250
+ },
+ {
+  "slug": "spiti-circuit",
+  "title": "Spiti Circuit: Shimla \u2192 Kaza \u2192 Manali",
+  "from": "Shimla Himachal Pradesh India",
+  "to": "Manali Himachal Pradesh India",
+  "checkpoints": [
+   "Shimla",
+   "Narkanda",
+   "Rampur",
+   "Recong Peo",
+   "Chitkul",
+   "Nako",
+   "Tabo",
+   "Kaza",
+   "Chandratal",
+   "Manali"
+  ],
+  "region": "Himachal",
+  "distance_km": 750
+ },
+ {
+  "slug": "kasol-parvati",
+  "title": "Kasol / Parvati Valley",
+  "from": "Bhuntar Himachal Pradesh India",
+  "to": "Tosh Himachal Pradesh India",
+  "checkpoints": [
+   "Bhuntar",
+   "Kasol",
+   "Manikaran",
+   "Pulga",
+   "Tosh"
+  ],
+  "region": "Himachal",
+  "distance_km": 50
+ },
+ {
+  "slug": "jibhi-tirthan",
+  "title": "Jibhi / Tirthan Valley",
+  "from": "Aut tunnel Himachal Pradesh India",
+  "to": "Jalori Pass Himachal Pradesh India",
+  "checkpoints": [
+   "Aut",
+   "Shoja",
+   "Jalori Pass",
+   "Jibhi",
+   "Gushaini",
+   "Tirthan Valley"
+  ],
+  "region": "Himachal",
+  "distance_km": 60
+ },
+ {
+  "slug": "shimla-kalka",
+  "title": "Shimla \u2192 Kalka Heritage Route",
+  "from": "Shimla Himachal Pradesh India",
+  "to": "Kalka Himachal Pradesh India",
+  "checkpoints": [
+   "Shimla",
+   "Taradevi",
+   "Barog",
+   "Solan",
+   "Kalka"
+  ],
+  "region": "Himachal",
+  "distance_km": 90
+ },
+ {
+  "slug": "kashmir-circuit",
+  "title": "Srinagar \u2192 Gulmarg \u2192 Pahalgam \u2192 Sonamarg",
+  "from": "Srinagar Jammu Kashmir India",
+  "to": "Sonamarg Jammu Kashmir India",
+  "checkpoints": [
+   "Srinagar",
+   "Gulmarg",
+   "Tangmarg",
+   "Pahalgam",
+   "Sonamarg"
+  ],
+  "region": "Kashmir",
+  "distance_km": 150
+ },
+ {
+  "slug": "mussoorie-nainital",
+  "title": "Mussoorie \u2192 Dhanaulti \u2192 Nainital",
+  "from": "Mussoorie Uttarakhand India",
+  "to": "Nainital Uttarakhand India",
+  "checkpoints": [
+   "Mussoorie",
+   "Dhanaulti",
+   "Chamba",
+   "New Tehri",
+   "Nainital"
+  ],
+  "region": "Uttarakhand",
+  "distance_km": 180
+ },
+ {
+  "slug": "rishikesh-auli",
+  "title": "Rishikesh \u2192 Auli (Valley of Flowers)",
+  "from": "Rishikesh Uttarakhand India",
+  "to": "Auli Uttarakhand India",
+  "checkpoints": [
+   "Rishikesh",
+   "Devprayag",
+   "Srinagar (Garhwal)",
+   "Joshimath",
+   "Auli"
+  ],
+  "region": "Uttarakhand",
+  "distance_km": 270
+ },
+ {
+  "slug": "dehradun-gangotri",
+  "title": "Dehradun \u2192 Gangotri (Harsil Valley)",
+  "from": "Dehradun Uttarakhand India",
+  "to": "Gangotri Uttarakhand India",
+  "checkpoints": [
+   "Dehradun",
+   "Mussoorie",
+   "Yamunotri",
+   "Uttarkashi",
+   "Harsil",
+   "Gangotri"
+  ],
+  "region": "Uttarakhand",
+  "distance_km": 300
+ },
+ {
+  "slug": "kumaon-circuit",
+  "title": "Kumaon: Nainital \u2192 Ranikhet \u2192 Almora",
+  "from": "Nainital Uttarakhand India",
+  "to": "Almora Uttarakhand India",
+  "checkpoints": [
+   "Nainital",
+   "Bhimtal",
+   "Ranikhet",
+   "Kausani",
+   "Almora"
+  ],
+  "region": "Uttarakhand",
+  "distance_km": 120
+ },
+ {
+  "slug": "devalsari",
+  "title": "Devalsari Valley Trek Drive",
+  "from": "Mussoorie Uttarakhand India",
+  "to": "Devalsari Uttarakhand India",
+  "checkpoints": [
+   "Mussoorie",
+   "Thatyur",
+   "Devalsari"
+  ],
+  "region": "Uttarakhand",
+  "distance_km": 80
+ },
+ {
+  "slug": "gulabi-kantha",
+  "title": "Gulabi Kantha Trek Route",
+  "from": "Dehradun Uttarakhand India",
+  "to": "Gulabi Kantha Uttarakhand India",
+  "checkpoints": [
+   "Dehradun",
+   "Mussoorie",
+   "Hanol",
+   "Gulabi Kantha"
+  ],
+  "region": "Uttarakhand",
+  "distance_km": 150
+ },
+ {
+  "slug": "amritsar-chandigarh",
+  "title": "Amritsar \u2192 Chandigarh",
+  "from": "Amritsar Punjab India",
+  "to": "Chandigarh India",
+  "checkpoints": [
+   "Amritsar",
+   "Wagah Border",
+   "Bathinda",
+   "Chandigarh"
+  ],
+  "region": "Punjab",
+  "distance_km": 240
+ },
+ {
+  "slug": "bathinda-amritsar",
+  "title": "Bathinda \u2192 Amritsar Expressway",
+  "from": "Bathinda Punjab India",
+  "to": "Amritsar Punjab India",
+  "checkpoints": [
+   "Bathinda",
+   "Faridkot",
+   "Tarn Taran",
+   "Amritsar"
+  ],
+  "region": "Punjab",
+  "distance_km": 200
+ },
+ {
+  "slug": "rajasthan-triangle",
+  "title": "Rajasthan Golden Triangle: Delhi \u2192 Jodhpur \u2192 Jaisalmer \u2192 Udaipur",
+  "from": "New Delhi India",
+  "to": "Udaipur Rajasthan India",
+  "checkpoints": [
+   "Delhi",
+   "Jaipur",
+   "Ajmer",
+   "Jodhpur",
+   "Jaisalmer",
+   "Udaipur"
+  ],
+  "region": "Rajasthan",
+  "distance_km": 1200
+ },
+ {
+  "slug": "pune-delhi-trans-india",
+  "title": "Pune \u2192 Delhi Trans-India (via Rajasthan)",
+  "from": "Pune Maharashtra India",
+  "to": "New Delhi India",
+  "checkpoints": [
+   "Pune",
+   "Surat",
+   "Vadodara",
+   "Ahmedabad",
+   "Udaipur",
+   "Jaipur",
+   "Delhi"
+  ],
+  "region": "Pan-India",
+  "distance_km": 1500
+ },
+ {
+  "slug": "ahmedabad-udaipur",
+  "title": "Ahmedabad \u2192 Udaipur Weekend",
+  "from": "Ahmedabad Gujarat India",
+  "to": "Udaipur Rajasthan India",
+  "checkpoints": [
+   "Ahmedabad",
+   "Himmatnagar",
+   "Modasa",
+   "Udaipur"
+  ],
+  "region": "Rajasthan/Gujarat",
+  "distance_km": 260
+ },
+ {
+  "slug": "sou-gir-diu",
+  "title": "Statue of Unity \u2192 Gir Safari \u2192 Diu",
+  "from": "Ahmedabad Gujarat India",
+  "to": "Diu Gujarat India",
+  "checkpoints": [
+   "Ahmedabad",
+   "Statue of Unity",
+   "Rajpipla",
+   "Junagadh",
+   "Gir National Park",
+   "Diu"
+  ],
+  "region": "Gujarat",
+  "distance_km": 600
+ },
+ {
+  "slug": "kutch-road-to-heaven",
+  "title": "Kutch Road to Heaven: Bhuj \u2192 White Rann \u2192 Mandvi",
+  "from": "Bhuj Gujarat India",
+  "to": "Mandvi Gujarat India",
+  "checkpoints": [
+   "Bhuj",
+   "Kalo Dungar",
+   "White Rann (Dhordo)",
+   "Mandvi Beach"
+  ],
+  "region": "Gujarat",
+  "distance_km": 200
+ },
+ {
+  "slug": "south-gujarat-forest",
+  "title": "South Gujarat Forest: Vadodara \u2192 Saputara",
+  "from": "Vadodara Gujarat India",
+  "to": "Saputara Gujarat India",
+  "checkpoints": [
+   "Vadodara",
+   "Pavagadh",
+   "Champaner",
+   "Jambughoda",
+   "Saputara"
+  ],
+  "region": "Gujarat",
+  "distance_km": 250
+ },
+ {
+  "slug": "dwarka-somnath-diu",
+  "title": "Dwarka \u2192 Somnath \u2192 Diu Temple Circuit",
+  "from": "Dwarka Gujarat India",
+  "to": "Diu Gujarat India",
+  "checkpoints": [
+   "Dwarka",
+   "Porbandar",
+   "Somnath",
+   "Veraval",
+   "Diu"
+  ],
+  "region": "Gujarat",
+  "distance_km": 350
+ },
+ {
+  "slug": "up-heritage",
+  "title": "Delhi \u2192 Agra \u2192 Varanasi \u2192 Lucknow \u2192 Ayodhya",
+  "from": "New Delhi India",
+  "to": "Ayodhya Uttar Pradesh India",
+  "checkpoints": [
+   "Delhi",
+   "Agra",
+   "Fatehpur Sikri",
+   "Gwalior",
+   "Varanasi",
+   "Lucknow",
+   "Ayodhya"
+  ],
+  "region": "Uttar Pradesh",
+  "distance_km": 1000
+ },
+ {
+  "slug": "mp-heritage-safari",
+  "title": "MP Heritage: Khajuraho \u2192 Orchha \u2192 Kanha \u2192 Bandhavgarh",
+  "from": "Khajuraho Madhya Pradesh India",
+  "to": "Bandhavgarh Madhya Pradesh India",
+  "checkpoints": [
+   "Khajuraho",
+   "Orchha",
+   "Jhansi",
+   "Jabalpur",
+   "Kanha",
+   "Bandhavgarh"
+  ],
+  "region": "Madhya Pradesh",
+  "distance_km": 500
+ },
+ {
+  "slug": "mumbai-ajanta-ellora",
+  "title": "Mumbai \u2192 Ajanta & Ellora \u2192 Nashik",
+  "from": "Mumbai Maharashtra India",
+  "to": "Nashik Maharashtra India",
+  "checkpoints": [
+   "Mumbai",
+   "Aurangabad",
+   "Ellora Caves",
+   "Ajanta Caves",
+   "Nashik"
+  ],
+  "region": "Maharashtra",
+  "distance_km": 450
+ },
+ {
+  "slug": "mumbai-goa-nh66",
+  "title": "Mumbai \u2192 Goa (NH66 Coastal)",
+  "from": "Mumbai Maharashtra India",
+  "to": "Panaji Goa India",
+  "checkpoints": [
+   "Mumbai",
+   "Panvel",
+   "Alibaug",
+   "Ratnagiri",
+   "Sawantwadi",
+   "Goa"
+  ],
+  "region": "Maharashtra/Goa",
+  "distance_km": 600
+ },
+ {
+  "slug": "goa-hampi-badami",
+  "title": "Goa \u2192 Hampi \u2192 Badami \u2192 Ellora (3,200 km CNG Loop)",
+  "from": "Panaji Goa India",
+  "to": "Surat Gujarat India",
+  "checkpoints": [
+   "Goa",
+   "Hampi",
+   "Badami",
+   "Ellora",
+   "Nashik",
+   "Surat"
+  ],
+  "region": "Multi-state",
+  "distance_km": 3200
+ },
+ {
+  "slug": "coastal-karnataka",
+  "title": "Coastal Karnataka: Gokarna \u2192 Murudeshwar \u2192 Udupi \u2192 Mangalore",
+  "from": "Gokarna Karnataka India",
+  "to": "Mangaluru Karnataka India",
+  "checkpoints": [
+   "Gokarna",
+   "Honnavar",
+   "Murudeshwar",
+   "Maravanthe",
+   "Udupi",
+   "Mangaluru"
+  ],
+  "region": "Karnataka",
+  "distance_km": 250
+ },
+ {
+  "slug": "blr-coorg-goa",
+  "title": "BLR \u2192 Coorg \u2192 Mangalore \u2192 Udupi \u2192 Gokarna \u2192 Goa (Agumbe)",
+  "from": "Bengaluru Karnataka India",
+  "to": "Panaji Goa India",
+  "checkpoints": [
+   "Bengaluru",
+   "Coorg (Madikeri)",
+   "Mangaluru",
+   "Udupi",
+   "Agumbe Ghat",
+   "Gokarna",
+   "Goa"
+  ],
+  "region": "Karnataka",
+  "distance_km": 700
+ },
+ {
+  "slug": "chikmagalur",
+  "title": "Chikmagalur (Mullayanagiri & Baba Budangiri)",
+  "from": "Bengaluru Karnataka India",
+  "to": "Chikmagalur Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Tumakuru",
+   "Chikmagalur",
+   "Mullayanagiri",
+   "Baba Budangiri",
+   "Hebbe Falls"
+  ],
+  "region": "Karnataka",
+  "distance_km": 250
+ },
+ {
+  "slug": "coorg-madikeri",
+  "title": "Coorg (Gonikoppal \u2192 Madikeri)",
+  "from": "Bengaluru Karnataka India",
+  "to": "Madikeri Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Mysuru",
+   "Kushalnagar",
+   "Gonikoppal",
+   "Madikeri",
+   "Abbey Falls",
+   "Dubare"
+  ],
+  "region": "Karnataka",
+  "distance_km": 260
+ },
+ {
+  "slug": "hampi-badami-solo",
+  "title": "Hampi \u2192 Badami Solo (Ruins + Cave Temples)",
+  "from": "Bengaluru Karnataka India",
+  "to": "Badami Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Chitradurga",
+   "Hampi",
+   "Badami",
+   "Pattadakal",
+   "Aihole"
+  ],
+  "region": "Karnataka",
+  "distance_km": 400
+ },
+ {
+  "slug": "kerala-circuit",
+  "title": "Kerala Circuit: Kochi \u2192 Munnar \u2192 Athirapally \u2192 Alappuzha \u2192 Kumarakom",
+  "from": "Kochi Kerala India",
+  "to": "Kumarakom Kerala India",
+  "checkpoints": [
+   "Kochi",
+   "Munnar",
+   "Athirapally Falls",
+   "Alappuzha",
+   "Kumarakom"
+  ],
+  "region": "Kerala",
+  "distance_km": 350
+ },
+ {
+  "slug": "kerala-south",
+  "title": "Kerala South: Madurai \u2192 Vagamon \u2192 Varkala \u2192 Alleppey \u2192 Wayanad",
+  "from": "Madurai Tamil Nadu India",
+  "to": "Wayanad Kerala India",
+  "checkpoints": [
+   "Madurai",
+   "Vagamon",
+   "Varkala",
+   "Alleppey",
+   "Wayanad"
+  ],
+  "region": "Kerala/TN",
+  "distance_km": 450
+ },
+ {
+  "slug": "wayanad-munnar",
+  "title": "Wayanad \u2192 Munnar (Marayoor Ghat)",
+  "from": "Wayanad Kerala India",
+  "to": "Munnar Kerala India",
+  "checkpoints": [
+   "Wayanad",
+   "Kalpetta",
+   "Sulthan Bathery",
+   "Calicut",
+   "Palakkad",
+   "Marayoor",
+   "Munnar"
+  ],
+  "region": "Kerala",
+  "distance_km": 300
+ },
+ {
+  "slug": "chennai-pondicherry-ecr",
+  "title": "Chennai \u2192 Pondicherry (East Coast Road)",
+  "from": "Chennai Tamil Nadu India",
+  "to": "Pondicherry India",
+  "checkpoints": [
+   "Chennai",
+   "Mahabalipuram",
+   "ECR",
+   "Pondicherry"
+  ],
+  "region": "Tamil Nadu",
+  "distance_km": 150
+ },
+ {
+  "slug": "madurai-rameswaram",
+  "title": "Madurai \u2192 Rameswaram \u2192 Dhanushkodi",
+  "from": "Madurai Tamil Nadu India",
+  "to": "Dhanushkodi Tamil Nadu India",
+  "checkpoints": [
+   "Madurai",
+   "Ramanathapuram",
+   "Rameswaram",
+   "Pamban Bridge",
+   "Dhanushkodi"
+  ],
+  "region": "Tamil Nadu",
+  "distance_km": 200
+ },
+ {
+  "slug": "ooty-coonoor",
+  "title": "Ooty / Coonoor (Nilgiri Ghat Roads)",
+  "from": "Mysuru Karnataka India",
+  "to": "Coonoor Tamil Nadu India",
+  "checkpoints": [
+   "Mysuru",
+   "Bandipur",
+   "Ooty",
+   "Doddabetta",
+   "Coonoor"
+  ],
+  "region": "Tamil Nadu",
+  "distance_km": 160
+ },
+ {
+  "slug": "kodaikanal",
+  "title": "Kodaikanal (via Palani Ghats)",
+  "from": "Madurai Tamil Nadu India",
+  "to": "Kodaikanal Tamil Nadu India",
+  "checkpoints": [
+   "Madurai",
+   "Palani",
+   "Kodaikanal"
+  ],
+  "region": "Tamil Nadu",
+  "distance_km": 120
+ },
+ {
+  "slug": "tirupati-vizag-araku",
+  "title": "Tirupati \u2192 Vizag \u2192 Araku Valley",
+  "from": "Tirupati Andhra Pradesh India",
+  "to": "Araku Valley Andhra Pradesh India",
+  "checkpoints": [
+   "Tirupati",
+   "Nellore",
+   "Vijayawada",
+   "Visakhapatnam",
+   "Araku Valley"
+  ],
+  "region": "AP",
+  "distance_km": 700
+ },
+ {
+  "slug": "bbsr-puri-konark-chilika",
+  "title": "Bhubaneswar \u2192 Puri \u2192 Konark \u2192 Chilika Lake",
+  "from": "Bhubaneswar Odisha India",
+  "to": "Chilika Lake Odisha India",
+  "checkpoints": [
+   "Bhubaneswar",
+   "Puri",
+   "Konark",
+   "Chilika Lake (Satapada)"
+  ],
+  "region": "Odisha",
+  "distance_km": 150
+ },
+ {
+  "slug": "bbsr-koraput",
+  "title": "Bhubaneswar \u2192 Koraput (Tribal Odisha)",
+  "from": "Bhubaneswar Odisha India",
+  "to": "Koraput Odisha India",
+  "checkpoints": [
+   "Bhubaneswar",
+   "Cuttack",
+   "Phulbani",
+   "Bhawanipatna",
+   "Koraput"
+  ],
+  "region": "Odisha",
+  "distance_km": 500
+ },
+ {
+  "slug": "versys-650-odisha",
+  "title": "Versys 650 Odisha Road Trip",
+  "from": "Bhubaneswar Odisha India",
+  "to": "Gopalpur Odisha India",
+  "checkpoints": [
+   "Bhubaneswar",
+   "Puri",
+   "Konark",
+   "Gopalpur Beach"
+  ],
+  "region": "Odisha",
+  "distance_km": 200
+ },
+ {
+  "slug": "meghalaya",
+  "title": "Meghalaya: Guwahati \u2192 Shillong \u2192 Cherrapunji \u2192 Mawsynram",
+  "from": "Guwahati Assam India",
+  "to": "Mawsynram Meghalaya India",
+  "checkpoints": [
+   "Guwahati",
+   "Shillong",
+   "Cherrapunji",
+   "Mawsynram",
+   "Mawlynnong"
+  ],
+  "region": "Meghalaya",
+  "distance_km": 150
+ },
+ {
+  "slug": "arunachal-ziro-mechuka",
+  "title": "Arunachal: Ziro \u2192 Mechuka \u2192 Dong Valley",
+  "from": "Itanagar Arunachal Pradesh India",
+  "to": "Mechuka Arunachal Pradesh India",
+  "checkpoints": [
+   "Itanagar",
+   "Ziro",
+   "Daporijo",
+   "Along",
+   "Mechuka"
+  ],
+  "region": "Arunachal",
+  "distance_km": 500
+ },
+ {
+  "slug": "sikkim-circuit",
+  "title": "Sikkim: Gangtok \u2192 Lachung \u2192 North Sikkim \u2192 Pelling",
+  "from": "Gangtok Sikkim India",
+  "to": "Pelling Sikkim India",
+  "checkpoints": [
+   "Gangtok",
+   "Lachen",
+   "Gurudongmar Lake",
+   "Lachung",
+   "Yumthang Valley",
+   "Pelling"
+  ],
+  "region": "Sikkim",
+  "distance_km": 300
+ },
+ {
+  "slug": "19000km-himalayas",
+  "title": "19,000 km Himalayas Solo (87 days)",
+  "from": "Mangaluru Karnataka India",
+  "to": "Leh Ladakh India",
+  "checkpoints": [
+   "Mangaluru",
+   "Bengaluru",
+   "Delhi",
+   "Manali",
+   "Leh",
+   "Srinagar",
+   "Itanagar",
+   "Ziro",
+   "Mechuka",
+   "Kohima",
+   "Imphal",
+   "Pokhara (Nepal)"
+  ],
+  "region": "Pan-India",
+  "distance_km": 19000
+ },
+ {
+  "slug": "kashmir-kanyakumari",
+  "title": "Kashmir \u2192 Kanyakumari (6-month Full India Loop)",
+  "from": "Srinagar Jammu Kashmir India",
+  "to": "Kanyakumari Tamil Nadu India",
+  "checkpoints": [
+   "Srinagar",
+   "Jammu",
+   "Delhi",
+   "Mumbai",
+   "Goa",
+   "Bengaluru",
+   "Madurai",
+   "Kanyakumari"
+  ],
+  "region": "Pan-India",
+  "distance_km": 4000
+ },
+ {
+  "slug": "delhi-bangalore-2800",
+  "title": "Delhi \u2192 Bangalore 2,800 km (via Udaipur \u2192 Mumbai \u2192 Goa)",
+  "from": "New Delhi India",
+  "to": "Bengaluru Karnataka India",
+  "checkpoints": [
+   "Delhi",
+   "Jaipur",
+   "Udaipur",
+   "Daman",
+   "Mumbai",
+   "Goa",
+   "Udupi",
+   "Bengaluru"
+  ],
+  "region": "Pan-India",
+  "distance_km": 2800
+ },
+ {
+  "slug": "lucknow-bangalore-8678",
+  "title": "Lucknow \u2192 Bangalore 8,678 km (Duke 250)",
+  "from": "Lucknow Uttar Pradesh India",
+  "to": "Bengaluru Karnataka India",
+  "checkpoints": [
+   "Lucknow",
+   "Jhansi",
+   "Jaisalmer",
+   "Jodhpur",
+   "Ahmedabad",
+   "Mumbai",
+   "Mangaluru",
+   "Bengaluru"
+  ],
+  "region": "Pan-India",
+  "distance_km": 8678
+ },
+ {
+  "slug": "chennai-sikkim-bhutan",
+  "title": "Chennai \u2192 Odisha \u2192 Sikkim \u2192 Bhutan (Mega Bike)",
+  "from": "Chennai Tamil Nadu India",
+  "to": "Paro Bhutan",
+  "checkpoints": [
+   "Chennai",
+   "Bhubaneswar",
+   "Kolkata",
+   "Siliguri",
+   "Gangtok",
+   "Phuentsholing",
+   "Paro"
+  ],
+  "region": "Pan-India",
+  "distance_km": 3000
+ },
+ {
+  "slug": "india-pokhara-nepal",
+  "title": "India \u2192 Pokhara (Nepal)",
+  "from": "Gorakhpur Uttar Pradesh India",
+  "to": "Pokhara Nepal",
+  "checkpoints": [
+   "Gorakhpur",
+   "Sunauli Border",
+   "Pokhara"
+  ],
+  "region": "Cross-border",
+  "distance_km": 300
+ },
+ {
+  "slug": "india-bhutan-tigers-nest",
+  "title": "India \u2192 Bhutan (Tiger's Nest, Paro)",
+  "from": "Siliguri West Bengal India",
+  "to": "Paro Bhutan",
+  "checkpoints": [
+   "Siliguri",
+   "Phuentsholing",
+   "Thimphu",
+   "Paro",
+   "Tiger's Nest"
+  ],
+  "region": "Cross-border",
+  "distance_km": 300
+ },
+ {
+  "slug": "india-muktinath",
+  "title": "India \u2192 Muktinath (Annapurna Circuit)",
+  "from": "Gorakhpur Uttar Pradesh India",
+  "to": "Muktinath Nepal",
+  "checkpoints": [
+   "Gorakhpur",
+   "Sunauli",
+   "Pokhara",
+   "Jomsom",
+   "Muktinath"
+  ],
+  "region": "Cross-border",
+  "distance_km": 500
+ },
+ {
+  "slug": "blr-nandi-hills",
+  "title": "Bengaluru \u2192 Nandi Hills",
+  "from": "Bengaluru Karnataka India",
+  "to": "Nandi Hills Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Devanahalli",
+   "Nandi Hills"
+  ],
+  "region": "Bengaluru Day",
+  "distance_km": 60
+ },
+ {
+  "slug": "blr-dd-hills",
+  "title": "Bengaluru \u2192 DD Hills",
+  "from": "Bengaluru Karnataka India",
+  "to": "Devarayanadurga Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Tumakuru",
+   "Devarayanadurga"
+  ],
+  "region": "Bengaluru Day",
+  "distance_km": 50
+ },
+ {
+  "slug": "blr-anthargange",
+  "title": "Bengaluru \u2192 Anthargange (Night Trek)",
+  "from": "Bengaluru Karnataka India",
+  "to": "Anthargange Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Kolar",
+   "Anthargange"
+  ],
+  "region": "Bengaluru Day",
+  "distance_km": 70
+ },
+ {
+  "slug": "blr-mekedatu",
+  "title": "Bengaluru \u2192 Mekedatu (River Gorge)",
+  "from": "Bengaluru Karnataka India",
+  "to": "Mekedatu Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Kanakapura",
+   "Mekedatu"
+  ],
+  "region": "Bengaluru Day",
+  "distance_km": 90
+ },
+ {
+  "slug": "blr-ramanagara",
+  "title": "Bengaluru \u2192 Ramanagara (Sholay Rocks)",
+  "from": "Bengaluru Karnataka India",
+  "to": "Ramanagara Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Ramanagara"
+  ],
+  "region": "Bengaluru Day",
+  "distance_km": 50
+ },
+ {
+  "slug": "blr-savandurga",
+  "title": "Bengaluru \u2192 Savandurga / Skandagiri",
+  "from": "Bengaluru Karnataka India",
+  "to": "Savandurga Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Magadi",
+   "Savandurga"
+  ],
+  "region": "Bengaluru Day",
+  "distance_km": 60
+ },
+ {
+  "slug": "blr-shivanasamudra",
+  "title": "Bengaluru \u2192 Shivanasamudra Falls",
+  "from": "Bengaluru Karnataka India",
+  "to": "Shivanasamudra Falls Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Maddur",
+   "Shivanasamudra"
+  ],
+  "region": "Bengaluru Day",
+  "distance_km": 130
+ },
+ {
+  "slug": "blr-yelagiri",
+  "title": "Bengaluru \u2192 Yelagiri",
+  "from": "Bengaluru Karnataka India",
+  "to": "Yelagiri Tamil Nadu India",
+  "checkpoints": [
+   "Bengaluru",
+   "Hosur",
+   "Krishnagiri",
+   "Yelagiri"
+  ],
+  "region": "Bengaluru Day",
+  "distance_km": 170
+ },
+ {
+  "slug": "blr-horsley-hills",
+  "title": "Bengaluru \u2192 Horsley Hills (Hidden Gem)",
+  "from": "Bengaluru Karnataka India",
+  "to": "Horsley Hills Andhra Pradesh India",
+  "checkpoints": [
+   "Bengaluru",
+   "Chikkaballapur",
+   "Madanapalle",
+   "Horsley Hills"
+  ],
+  "region": "Bengaluru Day",
+  "distance_km": 150
+ },
+ {
+  "slug": "blr-hogenakkal",
+  "title": "Bengaluru \u2192 Hogenakkal Falls",
+  "from": "Bengaluru Karnataka India",
+  "to": "Hogenakkal Tamil Nadu India",
+  "checkpoints": [
+   "Bengaluru",
+   "Hosur",
+   "Dharmapuri",
+   "Hogenakkal"
+  ],
+  "region": "Bengaluru Day",
+  "distance_km": 115
+ },
+ {
+  "slug": "blr-ranganathittu",
+  "title": "Bengaluru \u2192 Ranganathittu + Srirangapatna",
+  "from": "Bengaluru Karnataka India",
+  "to": "Ranganathittu Bird Sanctuary Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Mandya",
+   "Srirangapatna",
+   "Ranganathittu"
+  ],
+  "region": "Bengaluru Day",
+  "distance_km": 130
+ },
+ {
+  "slug": "blr-kokkarebellur",
+  "title": "Bengaluru \u2192 Kokkarebellur (Pelican Village)",
+  "from": "Bengaluru Karnataka India",
+  "to": "Kokkarebellur Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Maddur",
+   "Kokkarebellur"
+  ],
+  "region": "Bengaluru Day",
+  "distance_km": 110
+ },
+ {
+  "slug": "blr-muthyala-maduvu",
+  "title": "Bengaluru \u2192 Muthyala Maduvu (Pearl Valley)",
+  "from": "Bengaluru Karnataka India",
+  "to": "Muthyala Maduvu Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Anekal",
+   "Muthyala Maduvu"
+  ],
+  "region": "Bengaluru Day",
+  "distance_km": 55
+ },
+ {
+  "slug": "blr-chhota-ladakh",
+  "title": "Bengaluru \u2192 Chhota Ladakh",
+  "from": "Bengaluru Karnataka India",
+  "to": "Chhota Ladakh Bengaluru Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Chhota Ladakh"
+  ],
+  "region": "Bengaluru Day",
+  "distance_km": 60
+ },
+ {
+  "slug": "blr-thattekere",
+  "title": "Bengaluru \u2192 Thattekere Lake / Sangam",
+  "from": "Bengaluru Karnataka India",
+  "to": "Thattekere Lake Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Jigani",
+   "Thattekere"
+  ],
+  "region": "Bengaluru Day",
+  "distance_km": 70
+ },
+ {
+  "slug": "blr-gopalaswamy-betta",
+  "title": "Bengaluru \u2192 Gopalaswamy Betta",
+  "from": "Bengaluru Karnataka India",
+  "to": "Gopalaswamy Betta Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Mysore",
+   "Nanjangud",
+   "Gopalaswamy Betta"
+  ],
+  "region": "Bengaluru Day",
+  "distance_km": 160
+ },
+ {
+  "slug": "blr-penukonda",
+  "title": "Bengaluru \u2192 Penukonda Fort",
+  "from": "Bengaluru Karnataka India",
+  "to": "Penukonda Fort Andhra Pradesh India",
+  "checkpoints": [
+   "Bengaluru",
+   "Hindupur",
+   "Penukonda"
+  ],
+  "region": "Bengaluru Day",
+  "distance_km": 120
+ },
+ {
+  "slug": "blr-mysore",
+  "title": "Bengaluru \u2192 Mysore",
+  "from": "Bengaluru Karnataka India",
+  "to": "Mysore Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Ramanagara",
+   "Maddur",
+   "Mandya",
+   "Mysore"
+  ],
+  "region": "Bengaluru Weekend",
+  "distance_km": 140
+ },
+ {
+  "slug": "blr-br-hills",
+  "title": "Bengaluru \u2192 BR Hills (Biligiriranga)",
+  "from": "Bengaluru Karnataka India",
+  "to": "BR Hills Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Mysore",
+   "Yelandur",
+   "BR Hills"
+  ],
+  "region": "Bengaluru Weekend",
+  "distance_km": 160
+ },
+ {
+  "slug": "blr-kabini",
+  "title": "Bengaluru \u2192 Kabini (Backwaters Safari)",
+  "from": "Bengaluru Karnataka India",
+  "to": "Kabini Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Mysore",
+   "HD Kote",
+   "Kabini"
+  ],
+  "region": "Bengaluru Weekend",
+  "distance_km": 200
+ },
+ {
+  "slug": "blr-bandipur",
+  "title": "Bengaluru \u2192 Bandipur NP",
+  "from": "Bengaluru Karnataka India",
+  "to": "Bandipur National Park Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Mysore",
+   "Gundlupet",
+   "Bandipur"
+  ],
+  "region": "Bengaluru Weekend",
+  "distance_km": 220
+ },
+ {
+  "slug": "blr-coorg",
+  "title": "Bengaluru \u2192 Coorg (Madikeri)",
+  "from": "Bengaluru Karnataka India",
+  "to": "Madikeri Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Mysore",
+   "Hunsur",
+   "Madikeri"
+  ],
+  "region": "Bengaluru Weekend",
+  "distance_km": 260
+ },
+ {
+  "slug": "blr-chikmagalur",
+  "title": "Bengaluru \u2192 Chikmagalur",
+  "from": "Bengaluru Karnataka India",
+  "to": "Chikmagalur Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Tumakuru",
+   "Arsikere",
+   "Chikmagalur",
+   "Mullayanagiri"
+  ],
+  "region": "Bengaluru Weekend",
+  "distance_km": 240
+ },
+ {
+  "slug": "blr-sakleshpur",
+  "title": "Bengaluru \u2192 Sakleshpur",
+  "from": "Bengaluru Karnataka India",
+  "to": "Sakleshpur Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Hassan",
+   "Sakleshpur"
+  ],
+  "region": "Bengaluru Weekend",
+  "distance_km": 220
+ },
+ {
+  "slug": "blr-belur-halebid",
+  "title": "Bengaluru \u2192 Belur \u2192 Halebidu \u2192 Shravanabelagola",
+  "from": "Bengaluru Karnataka India",
+  "to": "Shravanabelagola Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Hassan",
+   "Belur",
+   "Halebidu",
+   "Shravanabelagola"
+  ],
+  "region": "Bengaluru Weekend",
+  "distance_km": 220
+ },
+ {
+  "slug": "blr-ooty",
+  "title": "Bengaluru \u2192 Ooty / Coonoor",
+  "from": "Bengaluru Karnataka India",
+  "to": "Ooty Tamil Nadu India",
+  "checkpoints": [
+   "Bengaluru",
+   "Mysore",
+   "Gundlupet",
+   "Bandipur",
+   "Ooty",
+   "Coonoor"
+  ],
+  "region": "Bengaluru Weekend",
+  "distance_km": 290
+ },
+ {
+  "slug": "blr-kodaikanal",
+  "title": "Bengaluru \u2192 Kodaikanal",
+  "from": "Bengaluru Karnataka India",
+  "to": "Kodaikanal Tamil Nadu India",
+  "checkpoints": [
+   "Bengaluru",
+   "Salem",
+   "Dindigul",
+   "Kodaikanal"
+  ],
+  "region": "Bengaluru Weekend",
+  "distance_km": 450
+ },
+ {
+  "slug": "blr-wayanad",
+  "title": "Bengaluru \u2192 Wayanad (NH766)",
+  "from": "Bengaluru Karnataka India",
+  "to": "Sultan Bathery Kerala India",
+  "checkpoints": [
+   "Bengaluru",
+   "Mysore",
+   "Gundlupet",
+   "Bandipur",
+   "Sultan Bathery",
+   "Wayanad"
+  ],
+  "region": "Bengaluru Weekend",
+  "distance_km": 280
+ },
+ {
+  "slug": "blr-hampi",
+  "title": "Bengaluru \u2192 Hampi",
+  "from": "Bengaluru Karnataka India",
+  "to": "Hampi Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Chitradurga",
+   "Bellary",
+   "Hospet",
+   "Hampi"
+  ],
+  "region": "Bengaluru Weekend",
+  "distance_km": 350
+ },
+ {
+  "slug": "blr-mangalore",
+  "title": "Bengaluru \u2192 Mangalore",
+  "from": "Bengaluru Karnataka India",
+  "to": "Mangalore Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Hassan",
+   "Sakleshpur",
+   "Mangalore"
+  ],
+  "region": "Bengaluru Weekend",
+  "distance_km": 350
+ },
+ {
+  "slug": "blr-gokarna",
+  "title": "Bengaluru \u2192 Gokarna",
+  "from": "Bengaluru Karnataka India",
+  "to": "Gokarna Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Hubli",
+   "Karwar",
+   "Gokarna"
+  ],
+  "region": "Bengaluru Weekend",
+  "distance_km": 480
+ },
+ {
+  "slug": "blr-pondicherry",
+  "title": "Bengaluru \u2192 Pondicherry",
+  "from": "Bengaluru Karnataka India",
+  "to": "Pondicherry India",
+  "checkpoints": [
+   "Bengaluru",
+   "Hosur",
+   "Krishnagiri",
+   "Tiruvannamalai",
+   "Pondicherry"
+  ],
+  "region": "Bengaluru Weekend",
+  "distance_km": 330
+ },
+ {
+  "slug": "blr-coast-run",
+  "title": "Bengaluru Coast Run: Coorg \u2192 Mangalore \u2192 Udupi \u2192 Gokarna \u2192 Goa",
+  "from": "Bengaluru Karnataka India",
+  "to": "Goa India",
+  "checkpoints": [
+   "Bengaluru",
+   "Madikeri",
+   "Mangalore",
+   "Udupi",
+   "Gokarna",
+   "Goa"
+  ],
+  "region": "Bengaluru Extended",
+  "distance_km": 700
+ },
+ {
+  "slug": "blr-agumbe-gokarna",
+  "title": "Bengaluru \u2192 Agumbe Ghats \u2192 Gokarna \u2192 Udupi",
+  "from": "Bengaluru Karnataka India",
+  "to": "Udupi Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Shivamogga",
+   "Agumbe",
+   "Gokarna",
+   "Udupi"
+  ],
+  "region": "Bengaluru Extended",
+  "distance_km": 600
+ },
+ {
+  "slug": "blr-kerala-circuit",
+  "title": "Bengaluru \u2192 Kerala Circuit (Munnar \u2192 Backwaters)",
+  "from": "Bengaluru Karnataka India",
+  "to": "Kumarakom Kerala India",
+  "checkpoints": [
+   "Bengaluru",
+   "Salem",
+   "Kochi",
+   "Munnar",
+   "Athirapally",
+   "Alappuzha",
+   "Kumarakom"
+  ],
+  "region": "Bengaluru Extended",
+  "distance_km": 650
+ },
+ {
+  "slug": "blr-deccan-heritage",
+  "title": "Bengaluru \u2192 Deccan Heritage: Hampi \u2192 Gandikota \u2192 Badami",
+  "from": "Bengaluru Karnataka India",
+  "to": "Badami Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Hampi",
+   "Gandikota",
+   "Badami",
+   "Aihole",
+   "Pattadakal"
+  ],
+  "region": "Bengaluru Extended",
+  "distance_km": 500
+ },
+ {
+  "slug": "blr-leh",
+  "title": "Bengaluru \u2192 Leh (Solo Epic)",
+  "from": "Bengaluru Karnataka India",
+  "to": "Leh Ladakh India",
+  "checkpoints": [
+   "Bengaluru",
+   "Hyderabad",
+   "Nagpur",
+   "Delhi",
+   "Manali",
+   "Leh"
+  ],
+  "region": "Bengaluru Extended",
+  "distance_km": 3500
+ },
+ {
+  "slug": "blr-goa-coast",
+  "title": "Bengaluru \u2192 Karwar \u2192 Goa \u2192 Udupi (Coastal Loop)",
+  "from": "Bengaluru Karnataka India",
+  "to": "Udupi Karnataka India",
+  "checkpoints": [
+   "Bengaluru",
+   "Hubli",
+   "Karwar",
+   "Goa",
+   "Udupi"
+  ],
+  "region": "Bengaluru Extended",
+  "distance_km": 750
+ }
 ]
