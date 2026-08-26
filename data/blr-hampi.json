@@ -16009,11 +16009,36 @@
  ],
  "total_m": 350000,
  "checkpoints": [
-  "Bengaluru",
-  "Chitradurga",
-  "Bellary",
-  "Hospet",
-  "Hampi"
+  {
+   "name": "Bengaluru",
+   "t": 0.00241,
+   "lat": 12.962895699999999,
+   "lon": 77.57754
+  },
+  {
+   "name": "Chitradurga",
+   "t": 0.48783,
+   "lat": 14.2250932,
+   "lon": 76.3980464
+  },
+  {
+   "name": "Bellary",
+   "t": 0.81159,
+   "lat": 15.139393199999999,
+   "lon": 76.9214428
+  },
+  {
+   "name": "Hospet",
+   "t": 0.97046,
+   "lat": 15.2688542,
+   "lon": 76.39092409999999
+  },
+  {
+   "name": "Hampi",
+   "t": 1.0,
+   "lat": 15.335,
+   "lon": 76.46
+  }
  ],
  "region": "Bengaluru Weekend",
  "from": "Bengaluru Karnataka India",

@@ -16009,11 +16009,36 @@
  ],
  "total_m": 600000,
  "checkpoints": [
-  "Bengaluru",
-  "Shivamogga",
-  "Agumbe",
-  "Gokarna",
-  "Udupi"
+  {
+   "name": "Bengaluru",
+   "t": 0.00129,
+   "lat": 12.962895699999999,
+   "lon": 77.57754
+  },
+  {
+   "name": "Shivamogga",
+   "t": 0.39701,
+   "lat": 13.9299299,
+   "lon": 75.568101
+  },
+  {
+   "name": "Agumbe",
+   "t": 0.51745,
+   "lat": 13.502663499999999,
+   "lon": 75.0903154
+  },
+  {
+   "name": "Gokarna",
+   "t": 0.77074,
+   "lat": 14.5478586,
+   "lon": 74.31884099999999
+  },
+  {
+   "name": "Udupi",
+   "t": 1.0,
+   "lat": 13.343918799999999,
+   "lon": 74.74745039999999
+  }
  ],
  "region": "Bengaluru Extended",
  "from": "Bengaluru Karnataka India",

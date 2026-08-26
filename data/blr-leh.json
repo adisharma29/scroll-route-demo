@@ -16009,12 +16009,42 @@
  ],
  "total_m": 3500000,
  "checkpoints": [
-  "Bengaluru",
-  "Hyderabad",
-  "Nagpur",
-  "Delhi",
-  "Manali",
-  "Leh"
+  {
+   "name": "Bengaluru",
+   "t": 0.0,
+   "lat": 12.962895699999999,
+   "lon": 77.57754
+  },
+  {
+   "name": "Hyderabad",
+   "t": 0.18867,
+   "lat": 17.406498,
+   "lon": 78.47724389999999
+  },
+  {
+   "name": "Nagpur",
+   "t": 0.35167,
+   "lat": 21.1458004,
+   "lon": 79.0881546
+  },
+  {
+   "name": "Delhi",
+   "t": 0.69371,
+   "lat": 28.7040592,
+   "lon": 77.10249019999999
+  },
+  {
+   "name": "Manali",
+   "t": 0.86754,
+   "lat": 32.2431872,
+   "lon": 77.1891761
+  },
+  {
+   "name": "Leh",
+   "t": 1.0,
+   "lat": 34.1525864,
+   "lon": 77.57705349999999
+  }
  ],
  "region": "Bengaluru Extended",
  "from": "Bengaluru Karnataka India",

@@ -14581,10 +14581,30 @@
  ],
  "total_m": 160000,
  "checkpoints": [
-  "Bengaluru",
-  "Mysore",
-  "Yelandur",
-  "BR Hills"
+  {
+   "name": "Bengaluru",
+   "t": 0.01162,
+   "lat": 12.962895699999999,
+   "lon": 77.57754
+  },
+  {
+   "name": "Mysore",
+   "t": 0.59577,
+   "lat": 12.295810399999999,
+   "lon": 76.6393805
+  },
+  {
+   "name": "Yelandur",
+   "t": 0.84894,
+   "lat": 12.0463858,
+   "lon": 77.0279352
+  },
+  {
+   "name": "BR Hills",
+   "t": 0.99982,
+   "lat": 11.8624817,
+   "lon": 77.1550204
+  }
  ],
  "region": "Bengaluru Weekend",
  "from": "Bengaluru Karnataka India",

@@ -7893,9 +7893,24 @@
  ],
  "total_m": 120000,
  "checkpoints": [
-  "Bengaluru",
-  "Hindupur",
-  "Penukonda"
+  {
+   "name": "Bengaluru",
+   "t": 0.00067,
+   "lat": 12.962895699999999,
+   "lon": 77.57754
+  },
+  {
+   "name": "Hindupur",
+   "t": 0.73849,
+   "lat": 13.822259899999999,
+   "lon": 77.5009298
+  },
+  {
+   "name": "Penukonda",
+   "t": 0.99977,
+   "lat": 14.0861,
+   "lon": 77.595
+  }
  ],
  "region": "Bengaluru Day",
  "from": "Bengaluru Karnataka India",

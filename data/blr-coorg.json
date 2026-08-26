@@ -14941,10 +14941,30 @@
  ],
  "total_m": 260000,
  "checkpoints": [
-  "Bengaluru",
-  "Mysore",
-  "Hunsur",
-  "Madikeri"
+  {
+   "name": "Bengaluru",
+   "t": 0.01069,
+   "lat": 12.962895699999999,
+   "lon": 77.57754
+  },
+  {
+   "name": "Mysore",
+   "t": 0.54772,
+   "lat": 12.295810399999999,
+   "lon": 76.6393805
+  },
+  {
+   "name": "Hunsur",
+   "t": 0.72138,
+   "lat": 12.3090923,
+   "lon": 76.28327929999999
+  },
+  {
+   "name": "Madikeri",
+   "t": 0.99966,
+   "lat": 12.4244205,
+   "lon": 75.7381856
+  }
  ],
  "region": "Bengaluru Weekend",
  "from": "Bengaluru Karnataka India",

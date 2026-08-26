@@ -16009,12 +16009,42 @@
  ],
  "total_m": 280000,
  "checkpoints": [
-  "Bengaluru",
-  "Mysore",
-  "Gundlupet",
-  "Bandipur",
-  "Sultan Bathery",
-  "Wayanad"
+  {
+   "name": "Bengaluru",
+   "t": 0.00998,
+   "lat": 12.962895699999999,
+   "lon": 77.57754
+  },
+  {
+   "name": "Mysore",
+   "t": 0.50397,
+   "lat": 12.295810399999999,
+   "lon": 76.6393805
+  },
+  {
+   "name": "Gundlupet",
+   "t": 0.70974,
+   "lat": 11.808345899999999,
+   "lon": 76.6927259
+  },
+  {
+   "name": "Bandipur",
+   "t": 0.79891,
+   "lat": 11.778761099999999,
+   "lon": 76.4646806
+  },
+  {
+   "name": "Sultan Bathery",
+   "t": 0.91024,
+   "lat": 11.6629136,
+   "lon": 76.2570217
+  },
+  {
+   "name": "Wayanad",
+   "t": 0.98133,
+   "lat": 11.6993716,
+   "lon": 76.077316
+  }
  ],
  "region": "Bengaluru Weekend",
  "from": "Bengaluru Karnataka India",

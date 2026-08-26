@@ -16009,11 +16009,36 @@
  ],
  "total_m": 240000,
  "checkpoints": [
-  "Bengaluru",
-  "Tumakuru",
-  "Arsikere",
-  "Chikmagalur",
-  "Mullayanagiri"
+  {
+   "name": "Bengaluru",
+   "t": 0.00377,
+   "lat": 12.962895699999999,
+   "lon": 77.57754
+  },
+  {
+   "name": "Tumakuru",
+   "t": 0.26065,
+   "lat": 13.3378762,
+   "lon": 77.117325
+  },
+  {
+   "name": "Arsikere",
+   "t": 0.64275,
+   "lat": 13.3133834,
+   "lon": 76.2565857
+  },
+  {
+   "name": "Chikmagalur",
+   "t": 0.94373,
+   "lat": 13.316144099999999,
+   "lon": 75.7720439
+  },
+  {
+   "name": "Mullayanagiri",
+   "t": 1.0,
+   "lat": 13.3908855,
+   "lon": 75.7213295
+  }
  ],
  "region": "Bengaluru Weekend",
  "from": "Bengaluru Karnataka India",

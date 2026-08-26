@@ -9981,12 +9981,42 @@
  ],
  "total_m": 231030,
  "checkpoints": [
-  "Gokarna",
-  "Honnavar",
-  "Murudeshwar",
-  "Maravanthe",
-  "Udupi",
-  "Mangaluru"
+  {
+   "name": "Gokarna",
+   "t": 0.0,
+   "lat": 14.5478586,
+   "lon": 74.31884099999999
+  },
+  {
+   "name": "Honnavar",
+   "t": 0.22468,
+   "lat": 14.278926199999999,
+   "lon": 74.4468423
+  },
+  {
+   "name": "Murudeshwar",
+   "t": 0.32856,
+   "lat": 14.094614199999999,
+   "lon": 74.48824929999999
+  },
+  {
+   "name": "Maravanthe",
+   "t": 0.53216,
+   "lat": 13.7258321,
+   "lon": 74.64882639999999
+  },
+  {
+   "name": "Udupi",
+   "t": 0.76141,
+   "lat": 13.343918799999999,
+   "lon": 74.74745039999999
+  },
+  {
+   "name": "Mangaluru",
+   "t": 0.99879,
+   "lat": 12.8854777,
+   "lon": 74.8388112
+  }
  ],
  "region": "Karnataka",
  "from": "Gokarna Karnataka India",

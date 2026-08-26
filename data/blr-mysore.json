@@ -9697,11 +9697,36 @@
  ],
  "total_m": 140000,
  "checkpoints": [
-  "Bengaluru",
-  "Ramanagara",
-  "Maddur",
-  "Mandya",
-  "Mysore"
+  {
+   "name": "Bengaluru",
+   "t": 0.01945,
+   "lat": 12.962895699999999,
+   "lon": 77.57754
+  },
+  {
+   "name": "Ramanagara",
+   "t": 0.33431,
+   "lat": 12.720861399999999,
+   "lon": 77.27989629999999
+  },
+  {
+   "name": "Maddur",
+   "t": 0.56184,
+   "lat": 12.5866972,
+   "lon": 77.0453429
+  },
+  {
+   "name": "Mandya",
+   "t": 0.69002,
+   "lat": 12.5218157,
+   "lon": 76.8951488
+  },
+  {
+   "name": "Mysore",
+   "t": 0.99905,
+   "lat": 12.295810399999999,
+   "lon": 76.6393805
+  }
  ],
  "region": "Bengaluru Weekend",
  "from": "Bengaluru Karnataka India",

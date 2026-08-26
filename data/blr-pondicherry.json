@@ -16009,11 +16009,36 @@
  ],
  "total_m": 330000,
  "checkpoints": [
-  "Bengaluru",
-  "Hosur",
-  "Krishnagiri",
-  "Tiruvannamalai",
-  "Pondicherry"
+  {
+   "name": "Bengaluru",
+   "t": 0.00568,
+   "lat": 12.962895699999999,
+   "lon": 77.57754
+  },
+  {
+   "name": "Hosur",
+   "t": 0.12843,
+   "lat": 12.740912699999999,
+   "lon": 77.8252923
+  },
+  {
+   "name": "Krishnagiri",
+   "t": 0.29426,
+   "lat": 12.5247853,
+   "lon": 78.216004
+  },
+  {
+   "name": "Tiruvannamalai",
+   "t": 0.65931,
+   "lat": 12.2252841,
+   "lon": 79.07469569999999
+  },
+  {
+   "name": "Pondicherry",
+   "t": 1.0,
+   "lat": 11.9415915,
+   "lon": 79.8083133
+  }
  ],
  "region": "Bengaluru Weekend",
  "from": "Bengaluru Karnataka India",

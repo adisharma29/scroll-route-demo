@@ -11397,10 +11397,30 @@
  ],
  "total_m": 152293.9,
  "checkpoints": [
-  "Bengaluru",
-  "Hosur",
-  "Krishnagiri",
-  "Yelagiri"
+  {
+   "name": "Bengaluru",
+   "t": 0.01064,
+   "lat": 12.962895699999999,
+   "lon": 77.57754
+  },
+  {
+   "name": "Hosur",
+   "t": 0.26435,
+   "lat": 12.740912699999999,
+   "lon": 77.8252923
+  },
+  {
+   "name": "Krishnagiri",
+   "t": 0.59966,
+   "lat": 12.5247853,
+   "lon": 78.216004
+  },
+  {
+   "name": "Yelagiri",
+   "t": 0.99897,
+   "lat": 12.585604799999999,
+   "lon": 78.6344666
+  }
  ],
  "region": "Bengaluru Day",
  "from": "Bengaluru Karnataka India",

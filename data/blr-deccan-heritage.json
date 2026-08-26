@@ -16009,12 +16009,42 @@
  ],
  "total_m": 500000,
  "checkpoints": [
-  "Bengaluru",
-  "Hampi",
-  "Gandikota",
-  "Badami",
-  "Aihole",
-  "Pattadakal"
+  {
+   "name": "Bengaluru",
+   "t": 0.00103,
+   "lat": 12.962895699999999,
+   "lon": 77.57754
+  },
+  {
+   "name": "Hampi",
+   "t": 0.31791,
+   "lat": 15.335,
+   "lon": 76.46
+  },
+  {
+   "name": "Gandikota",
+   "t": 0.57635,
+   "lat": 14.814017199999999,
+   "lon": 78.2868652
+  },
+  {
+   "name": "Badami",
+   "t": 0.95535,
+   "lat": 15.918622,
+   "lon": 75.676082
+  },
+  {
+   "name": "Aihole",
+   "t": 0.98751,
+   "lat": 16.019844,
+   "lon": 75.88099
+  },
+  {
+   "name": "Pattadakal",
+   "t": 1.0,
+   "lat": 15.948818099999999,
+   "lon": 75.8163521
+  }
  ],
  "region": "Bengaluru Extended",
  "from": "Bengaluru Karnataka India",

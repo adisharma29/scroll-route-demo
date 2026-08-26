@@ -16009,10 +16009,30 @@
  ],
  "total_m": 350000,
  "checkpoints": [
-  "Bengaluru",
-  "Hassan",
-  "Sakleshpur",
-  "Mangalore"
+  {
+   "name": "Bengaluru",
+   "t": 0.00264,
+   "lat": 12.962895699999999,
+   "lon": 77.57754
+  },
+  {
+   "name": "Hassan",
+   "t": 0.53884,
+   "lat": 13.0033234,
+   "lon": 76.1003894
+  },
+  {
+   "name": "Sakleshpur",
+   "t": 0.65256,
+   "lat": 12.9441511,
+   "lon": 75.78656529999999
+  },
+  {
+   "name": "Mangalore",
+   "t": 0.99111,
+   "lat": 12.8854777,
+   "lon": 74.8388112
+  }
  ],
  "region": "Bengaluru Weekend",
  "from": "Bengaluru Karnataka India",

@@ -16009,13 +16009,48 @@
  ],
  "total_m": 650000,
  "checkpoints": [
-  "Bengaluru",
-  "Salem",
-  "Kochi",
-  "Munnar",
-  "Athirapally",
-  "Alappuzha",
-  "Kumarakom"
+  {
+   "name": "Bengaluru",
+   "t": 0.00125,
+   "lat": 12.962895699999999,
+   "lon": 77.57754
+  },
+  {
+   "name": "Salem",
+   "t": 0.19231,
+   "lat": 11.6751854,
+   "lon": 78.1222336
+  },
+  {
+   "name": "Kochi",
+   "t": 0.56818,
+   "lat": 9.9312328,
+   "lon": 76.26730409999999
+  },
+  {
+   "name": "Munnar",
+   "t": 0.69576,
+   "lat": 10.088933299999999,
+   "lon": 77.05952479999999
+  },
+  {
+   "name": "Athirapally",
+   "t": 0.84365,
+   "lat": 10.2907988,
+   "lon": 76.5155834
+  },
+  {
+   "name": "Alappuzha",
+   "t": 0.96051,
+   "lat": 9.498066699999999,
+   "lon": 76.3388484
+  },
+  {
+   "name": "Kumarakom",
+   "t": 1.0,
+   "lat": 9.5854,
+   "lon": 76.4232
+  }
  ],
  "region": "Bengaluru Extended",
  "from": "Bengaluru Karnataka India",

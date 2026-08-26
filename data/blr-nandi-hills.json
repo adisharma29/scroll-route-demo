@@ -3809,9 +3809,24 @@
  ],
  "total_m": 70730.8,
  "checkpoints": [
-  "Bengaluru",
-  "Devanahalli",
-  "Nandi Hills"
+  {
+   "name": "Bengaluru",
+   "t": 0.00913,
+   "lat": 12.962895699999999,
+   "lon": 77.57754
+  },
+  {
+   "name": "Devanahalli",
+   "t": 0.5019,
+   "lat": 13.2437197,
+   "lon": 77.7172413
+  },
+  {
+   "name": "Nandi Hills",
+   "t": 0.70826,
+   "lat": 13.370128399999999,
+   "lon": 77.6736554
+  }
  ],
  "region": "Bengaluru Day",
  "from": "Bengaluru Karnataka India",

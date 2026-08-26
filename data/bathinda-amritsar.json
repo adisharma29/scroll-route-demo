@@ -4905,10 +4905,30 @@
  ],
  "total_m": 189345,
  "checkpoints": [
-  "Bathinda",
-  "Faridkot",
-  "Tarn Taran",
-  "Amritsar"
+  {
+   "name": "Bathinda",
+   "t": 0.0,
+   "lat": 30.210994,
+   "lon": 74.9454745
+  },
+  {
+   "name": "Faridkot",
+   "t": 0.28451,
+   "lat": 30.593204,
+   "lon": 74.8273184
+  },
+  {
+   "name": "Tarn Taran",
+   "t": 0.85314,
+   "lat": 31.4538668,
+   "lon": 74.9267599
+  },
+  {
+   "name": "Amritsar",
+   "t": 0.99924,
+   "lat": 31.6339793,
+   "lon": 74.8722642
+  }
  ],
  "region": "Punjab",
  "from": "Bathinda Punjab India",

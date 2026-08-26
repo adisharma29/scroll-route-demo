@@ -3913,8 +3913,18 @@
  ],
  "total_m": 47262.3,
  "checkpoints": [
-  "Bengaluru",
-  "Ramanagara"
+  {
+   "name": "Bengaluru",
+   "t": 0.06637,
+   "lat": 12.962895699999999,
+   "lon": 77.57754
+  },
+  {
+   "name": "Ramanagara",
+   "t": 0.92437,
+   "lat": 12.720861399999999,
+   "lon": 77.27989629999999
+  }
  ],
  "region": "Bengaluru Day",
  "from": "Bengaluru Karnataka India",

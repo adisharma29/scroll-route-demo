@@ -6925,9 +6925,24 @@
  ],
  "total_m": 110000,
  "checkpoints": [
-  "Bengaluru",
-  "Maddur",
-  "Kokkarebellur"
+  {
+   "name": "Bengaluru",
+   "t": 0.02339,
+   "lat": 12.962895699999999,
+   "lon": 77.57754
+  },
+  {
+   "name": "Maddur",
+   "t": 0.68295,
+   "lat": 12.5866972,
+   "lon": 77.0453429
+  },
+  {
+   "name": "Kokkarebellur",
+   "t": 0.68888,
+   "lat": 12.510459899999999,
+   "lon": 77.0878038
+  }
  ],
  "region": "Bengaluru Day",
  "from": "Bengaluru Karnataka India",

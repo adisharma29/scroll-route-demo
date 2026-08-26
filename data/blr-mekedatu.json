@@ -8833,9 +8833,24 @@
  ],
  "total_m": 94142.9,
  "checkpoints": [
-  "Bengaluru",
-  "Kanakapura",
-  "Mekedatu"
+  {
+   "name": "Bengaluru",
+   "t": 0.03506,
+   "lat": 12.962895699999999,
+   "lon": 77.57754
+  },
+  {
+   "name": "Kanakapura",
+   "t": 0.60812,
+   "lat": 12.5462442,
+   "lon": 77.4198823
+  },
+  {
+   "name": "Mekedatu",
+   "t": 0.99883,
+   "lat": 12.258198499999999,
+   "lon": 77.4484694
+  }
  ],
  "region": "Bengaluru Day",
  "from": "Bengaluru Karnataka India",

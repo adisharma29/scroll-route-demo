@@ -7101,11 +7101,36 @@
  ],
  "total_m": 49570,
  "checkpoints": [
-  "Bhuntar",
-  "Kasol",
-  "Manikaran",
-  "Pulga",
-  "Tosh"
+  {
+   "name": "Bhuntar",
+   "t": 0.0,
+   "lat": 31.8862368,
+   "lon": 77.1454911
+  },
+  {
+   "name": "Kasol",
+   "t": 0.541,
+   "lat": 32.005739999999996,
+   "lon": 77.29024
+  },
+  {
+   "name": "Manikaran",
+   "t": 0.684,
+   "lat": 32.0267951,
+   "lon": 77.3511063
+  },
+  {
+   "name": "Pulga",
+   "t": 0.92124,
+   "lat": 31.9959083,
+   "lon": 77.4374101
+  },
+  {
+   "name": "Tosh",
+   "t": 0.99895,
+   "lat": 32.0154338,
+   "lon": 77.453704
+  }
  ],
  "region": "Himachal",
  "from": "Bhuntar Himachal Pradesh India",

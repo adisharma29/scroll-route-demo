@@ -11877,11 +11877,36 @@
  ],
  "total_m": 293499,
  "checkpoints": [
-  "Rishikesh",
-  "Devprayag",
-  "Srinagar (Garhwal)",
-  "Joshimath",
-  "Auli"
+  {
+   "name": "Rishikesh",
+   "t": 0.0,
+   "lat": 30.1157619,
+   "lon": 78.28530169999999
+  },
+  {
+   "name": "Devprayag",
+   "t": 0.23964,
+   "lat": 30.1459659,
+   "lon": 78.5993629
+  },
+  {
+   "name": "Srinagar (Garhwal)",
+   "t": 0.47284,
+   "lat": 30.2246751,
+   "lon": 78.7986181
+  },
+  {
+   "name": "Joshimath",
+   "t": 0.96032,
+   "lat": 30.556108899999998,
+   "lon": 79.5616759
+  },
+  {
+   "name": "Auli",
+   "t": 0.99804,
+   "lat": 30.5305181,
+   "lon": 79.5684588
+  }
  ],
  "region": "Uttarakhand",
  "from": "Rishikesh Uttarakhand India",

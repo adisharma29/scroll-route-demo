@@ -4749,9 +4749,24 @@
  ],
  "total_m": 69271,
  "checkpoints": [
-  "Bengaluru",
-  "Tumakuru",
-  "Devarayanadurga"
+  {
+   "name": "Bengaluru",
+   "t": 0.01046,
+   "lat": 12.962895699999999,
+   "lon": 77.57754
+  },
+  {
+   "name": "Tumakuru",
+   "t": 0.9858,
+   "lat": 13.3378762,
+   "lon": 77.117325
+  },
+  {
+   "name": "Devarayanadurga",
+   "t": 0.99457,
+   "lat": 13.374157499999999,
+   "lon": 77.2127134
+  }
  ],
  "region": "Bengaluru Day",
  "from": "Bengaluru Karnataka India",

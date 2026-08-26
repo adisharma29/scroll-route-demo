@@ -12789,13 +12789,48 @@
  ],
  "total_m": 416343,
  "checkpoints": [
-  "Srinagar",
-  "Sonamarg",
-  "Zoji La",
-  "Kargil",
-  "Namika La",
-  "Fotu La",
-  "Leh"
+  {
+   "name": "Srinagar",
+   "t": 0.0,
+   "lat": 34.0836708,
+   "lon": 74.7972825
+  },
+  {
+   "name": "Sonamarg",
+   "t": 0.18969,
+   "lat": 34.303161599999996,
+   "lon": 75.293111
+  },
+  {
+   "name": "Zoji La",
+   "t": 0.24692,
+   "lat": 34.2792403,
+   "lon": 75.4707691
+  },
+  {
+   "name": "Kargil",
+   "t": 0.4807,
+   "lat": 34.5538522,
+   "lon": 76.1348944
+  },
+  {
+   "name": "Namika La",
+   "t": 0.6062,
+   "lat": 34.3834669,
+   "lon": 76.45969389999999
+  },
+  {
+   "name": "Fotu La",
+   "t": 0.69378,
+   "lat": 34.2892888,
+   "lon": 76.7015809
+  },
+  {
+   "name": "Leh",
+   "t": 0.99864,
+   "lat": 34.1525864,
+   "lon": 77.57705349999999
+  }
  ],
  "region": "J&K",
  "from": "Srinagar Jammu Kashmir India",

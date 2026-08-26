@@ -7437,10 +7437,30 @@
  ],
  "total_m": 130961.5,
  "checkpoints": [
-  "Bengaluru",
-  "Mandya",
-  "Srirangapatna",
-  "Ranganathittu"
+  {
+   "name": "Bengaluru",
+   "t": 0.02397,
+   "lat": 12.962895699999999,
+   "lon": 77.57754
+  },
+  {
+   "name": "Mandya",
+   "t": 0.75387,
+   "lat": 12.5218157,
+   "lon": 76.8951488
+  },
+  {
+   "name": "Srirangapatna",
+   "t": 0.97288,
+   "lat": 12.4237094,
+   "lon": 76.6828604
+  },
+  {
+   "name": "Ranganathittu",
+   "t": 0.99877,
+   "lat": 12.4243603,
+   "lon": 76.6563492
+  }
  ],
  "region": "Bengaluru Day",
  "from": "Bengaluru Karnataka India",

@@ -184,7 +184,7 @@ const map = window.__map;
 
 function buildRoute(){
   const L = REVERSED ? LINE.slice().reverse() : LINE;
-  const CP = REVERSED ? CHECKPOINTS.slice().reverse().map((c,i)=>({name:c.name,t:i/(CHECKPOINTS.length-1||1)})) : CHECKPOINTS;
+  const CP = REVERSED ? CHECKPOINTS.slice().reverse().map(c=>({name:c.name,t:c.t!==undefined?(1-c.t):0})) : CHECKPOINTS;
   return {L, CP};
 }
 
@@ -293,7 +293,7 @@ map.on('load',()=>{
     }
     map.getSource('route').setData({type:'Feature',properties:{},geometry:{type:'LineString',coordinates:L}});
     map.getSource('done').setData({type:'Feature',properties:{},geometry:{type:'LineString',coordinates:[L[0]]}});
-    const cp2=CHECKPOINTS.slice().reverse().map((c,i)=>({name:c.name,t:i/(CHECKPOINTS.length-1||1)}));
+    const cp2=CHECKPOINTS.slice().reverse().map(c=>({name:c.name,t:c.t!==undefined?(1-c.t):0}));
     const cf2=cp2.map(function(c){
       const target=c.t*total;
       let k=seg.findIndex(s=>s>=target);
@@ -380,7 +380,7 @@ map.on('load',()=>{
     document.getElementById('bar').style.width=(t*100)+'%';
 
     // Checkpoint toast + milestone panel animation
-    const cpsNow = REVERSED ? CHECKPOINTS.slice().reverse().map((c,i)=>({name:c.name,t:i/(CHECKPOINTS.length-1||1)})) : CHECKPOINTS;
+    const cpsNow = REVERSED ? CHECKPOINTS.slice().reverse().map(c=>({name:c.name,t:c.t!==undefined?(1-c.t):0})) : CHECKPOINTS;
     for(const c of cpsNow){
       if(lastT<c.t&&t>=c.t){
         const el=document.getElementById('cpToast');

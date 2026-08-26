@@ -16005,10 +16005,30 @@
  ],
  "total_m": 450000,
  "checkpoints": [
-  "Bengaluru",
-  "Salem",
-  "Dindigul",
-  "Kodaikanal"
+  {
+   "name": "Bengaluru",
+   "t": 0.00257,
+   "lat": 12.962895699999999,
+   "lon": 77.57754
+  },
+  {
+   "name": "Salem",
+   "t": 0.40116,
+   "lat": 11.6751854,
+   "lon": 78.1222336
+  },
+  {
+   "name": "Dindigul",
+   "t": 0.79005,
+   "lat": 10.361965,
+   "lon": 77.9735844
+  },
+  {
+   "name": "Kodaikanal",
+   "t": 0.99735,
+   "lat": 10.2391086,
+   "lon": 77.4977456
+  }
  ],
  "region": "Bengaluru Weekend",
  "from": "Bengaluru Karnataka India",

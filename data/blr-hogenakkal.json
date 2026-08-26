@@ -8845,10 +8845,30 @@
  ],
  "total_m": 147952.7,
  "checkpoints": [
-  "Bengaluru",
-  "Hosur",
-  "Dharmapuri",
-  "Hogenakkal"
+  {
+   "name": "Bengaluru",
+   "t": 0.01094,
+   "lat": 12.962895699999999,
+   "lon": 77.57754
+  },
+  {
+   "name": "Hosur",
+   "t": 0.27175,
+   "lat": 12.740912699999999,
+   "lon": 77.8252923
+  },
+  {
+   "name": "Dharmapuri",
+   "t": 0.76903,
+   "lat": 12.1210997,
+   "lon": 78.1582143
+  },
+  {
+   "name": "Hogenakkal",
+   "t": 0.99751,
+   "lat": 12.1209565,
+   "lon": 77.7772478
+  }
  ],
  "region": "Bengaluru Day",
  "from": "Bengaluru Karnataka India",

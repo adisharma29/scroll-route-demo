@@ -8453,9 +8453,24 @@
  ],
  "total_m": 43952,
  "checkpoints": [
-  "Mussoorie",
-  "Thatyur",
-  "Devalsari"
+  {
+   "name": "Mussoorie",
+   "t": 0.0,
+   "lat": 30.4547465,
+   "lon": 78.081985
+  },
+  {
+   "name": "Thatyur",
+   "t": 0.75658,
+   "lat": 30.495780399999997,
+   "lon": 78.1628562
+  },
+  {
+   "name": "Devalsari",
+   "t": 0.99895,
+   "lat": 30.544701,
+   "lon": 78.1921967
+  }
  ],
  "region": "Uttarakhand",
  "from": "Mussoorie Uttarakhand India",

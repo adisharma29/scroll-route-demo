@@ -16009,11 +16009,36 @@
  ],
  "total_m": 220000,
  "checkpoints": [
-  "Bengaluru",
-  "Hassan",
-  "Belur",
-  "Halebidu",
-  "Shravanabelagola"
+  {
+   "name": "Bengaluru",
+   "t": 0.0028,
+   "lat": 12.962895699999999,
+   "lon": 77.57754
+  },
+  {
+   "name": "Hassan",
+   "t": 0.56994,
+   "lat": 13.0033234,
+   "lon": 76.1003894
+  },
+  {
+   "name": "Belur",
+   "t": 0.70525,
+   "lat": 13.166286999999999,
+   "lon": 75.8669422
+  },
+  {
+   "name": "Halebidu",
+   "t": 0.76525,
+   "lat": 13.2129844,
+   "lon": 75.9942162
+  },
+  {
+   "name": "Shravanabelagola",
+   "t": 0.99742,
+   "lat": 12.851896,
+   "lon": 76.4807385
+  }
  ],
  "region": "Bengaluru Weekend",
  "from": "Bengaluru Karnataka India",

@@ -16009,10 +16009,30 @@
  ],
  "total_m": 480000,
  "checkpoints": [
-  "Bengaluru",
-  "Hubli",
-  "Karwar",
-  "Gokarna"
+  {
+   "name": "Bengaluru",
+   "t": 0.00163,
+   "lat": 12.962895699999999,
+   "lon": 77.57754
+  },
+  {
+   "name": "Hubli",
+   "t": 0.65911,
+   "lat": 15.364708299999998,
+   "lon": 75.1239547
+  },
+  {
+   "name": "Karwar",
+   "t": 0.92661,
+   "lat": 14.8073777,
+   "lon": 74.129898
+  },
+  {
+   "name": "Gokarna",
+   "t": 1.0,
+   "lat": 14.5478586,
+   "lon": 74.31884099999999
+  }
  ],
  "region": "Bengaluru Weekend",
  "from": "Bengaluru Karnataka India",
