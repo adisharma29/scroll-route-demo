@@ -8132,56 +8132,74 @@
   "Shimla": {
    "img": "img/spiti-circuit/shimla.jpg",
    "desc": "Shimla, also known as Simla, is the capital and the largest city of the northern Indian state of Himachal Pradesh. In 1864, Shimla was declared the summer capital of British India. After independence, the city became the capital of East Punjab and wa",
-   "wiki": "Shimla"
+   "wiki": "Shimla",
+   "source": "wikipedia"
   },
   "Narkanda": {
    "img": "img/spiti-circuit/narkanda.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "After Manali, I stopped at Narkanda and Dehradun before finally reaching Mussoorie for the first time on this trip. **Accommodation:** * Killar - Hotel Shivaye - \u20b91.4k * Narkanda - Hotel Wonder Hill - \u20b9800 Thank you for your attention to this matter.",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Rampur": {
    "img": "img/spiti-circuit/rampur.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Shimla / Rampur : Flash floods over the Ganvi khad stream have completely washed away a temporary bridge. Trip to Nainital Hi everyone, It's my first time in India and in this sub and hope you can help me (: I'm currently solo traveling in India and ",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Recong Peo": {
    "img": "img/spiti-circuit/recong_peo.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "The administrative centre of Kinnaur district on the Hindustan-Tibet Road, roughly halfway between Shimla and the Spiti border. Travellers use it as the gateway to Kalpa (a few km uphill) and the starting point for the Tabo/Nako leg east. (sourced from r/SoloTravel_India Kalpa trip report)",
+   "wiki": "",
+   "source": "reddit"
   },
   "Chitkul": {
    "img": "img/spiti-circuit/chitkul.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "The last inhabited village near the Indo-Tibet border in the Baspa Valley, around 18 km from Sangla. Road trippers come for the riverside walks, the ancient Mathi temple, and the famous 'Hindustan ka aakhri dhaba' (last dhaba of India). (sourced from r/SoloTravel_India trip report)",
+   "wiki": "",
+   "source": "reddit"
   },
   "Nako": {
    "img": "img/spiti-circuit/nako.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "A village on the Kinnaur\u2013Spiti road with a small lake and an 11th-century monastery, used as an overnight halt between Kalpa and Tabo. It sits at ~3,600 m and is the last major settlement before the Spiti valley proper. (sourced from r/india_tourism Spiti itinerary)",
+   "wiki": "",
+   "source": "reddit"
   },
   "Tabo": {
    "img": "img/spiti-circuit/tabo.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Tabo is home to the famous Tabo Monastery, known as the 'Ajanta of the Himalayas' for its ancient murals \u2014 one of the most important monastic complexes in the region. It sits on the Spiti river and is a key overnight stop on the Kinnaur\u2013Spiti road. (sourced from r/india_tourism Spiti itinerary)",
+   "wiki": "",
+   "source": "reddit"
   },
   "Kaza": {
    "img": "img/spiti-circuit/kaza.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Surviving Kaza at -26\u00b0C \ud83e\udd76 | Stargazing \ud83e\udd29 |Himalayan Dogs | Is This India\u2019s Arctic? I recently made it to Kaza in Spiti Valley, and honestly, it didn\u2019t feel like India anymore \u2014 as I stepped into the Cold Desert. The Milky Way over Kaza is just unreal",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Chandratal": {
    "img": "img/spiti-circuit/chandratal.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "A crescent-shaped high-altitude lake (~14,100 ft) in the Spiti region, reached by a rough track off the Kunzum Pass road. Known as 'Moon Lake' for its crescent shape, it is a favourite camping spot; the final stretch from the parking area is a short walk. (sourced from r/india_tourism Spiti itinerary)",
+   "wiki": "",
+   "source": "reddit"
   },
   "Manali": {
    "img": "img/spiti-circuit/manali.jpg",
    "desc": "Manali is a resort town, near Kullu town in the Kullu district in the Indian state of Himachal Pradesh. It is situated at the northern end of the Kullu Valley, formed by the Beas River. The town is located in the Kullu district, approximately 270 kil",
-   "wiki": "Manali,_Himachal_Pradesh"
+   "wiki": "Manali,_Himachal_Pradesh",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Shimla": "Shimla, also known as Simla, is the capital and the largest city of the northern Indian state of Himachal Pradesh. In 1864, Shimla was declared the summer capital of British India. After independence, the city became the capital of East Punjab and wa",
+  "Narkanda": "After Manali, I stopped at Narkanda and Dehradun before finally reaching Mussoorie for the first time on this trip. **Accommodation:** * Killar - Hotel Shivaye - \u20b91.4k * Narkanda - Hotel Wonder Hill - \u20b9800 Thank you for your attention to this matter.",
+  "Rampur": "Shimla / Rampur : Flash floods over the Ganvi khad stream have completely washed away a temporary bridge. Trip to Nainital Hi everyone, It's my first time in India and in this sub and hope you can help me (: I'm currently solo traveling in India and ",
+  "Recong Peo": "The administrative centre of Kinnaur district on the Hindustan-Tibet Road, roughly halfway between Shimla and the Spiti border. Travellers use it as the gateway to Kalpa (a few km uphill) and the starting point for the Tabo/Nako leg east. (sourced from r/SoloTravel_India Kalpa trip report)",
+  "Chitkul": "The last inhabited village near the Indo-Tibet border in the Baspa Valley, around 18 km from Sangla. Road trippers come for the riverside walks, the ancient Mathi temple, and the famous 'Hindustan ka aakhri dhaba' (last dhaba of India). (sourced from r/SoloTravel_India trip report)",
+  "Nako": "A village on the Kinnaur\u2013Spiti road with a small lake and an 11th-century monastery, used as an overnight halt between Kalpa and Tabo. It sits at ~3,600 m and is the last major settlement before the Spiti valley proper. (sourced from r/india_tourism Spiti itinerary)",
+  "Tabo": "Tabo is home to the famous Tabo Monastery, known as the 'Ajanta of the Himalayas' for its ancient murals \u2014 one of the most important monastic complexes in the region. It sits on the Spiti river and is a key overnight stop on the Kinnaur\u2013Spiti road. (sourced from r/india_tourism Spiti itinerary)",
+  "Kaza": "Surviving Kaza at -26\u00b0C \ud83e\udd76 | Stargazing \ud83e\udd29 |Himalayan Dogs | Is This India\u2019s Arctic? I recently made it to Kaza in Spiti Valley, and honestly, it didn\u2019t feel like India anymore \u2014 as I stepped into the Cold Desert. The Milky Way over Kaza is just unreal",
+  "Chandratal": "A crescent-shaped high-altitude lake (~14,100 ft) in the Spiti region, reached by a rough track off the Kunzum Pass road. Known as 'Moon Lake' for its crescent shape, it is a favourite camping spot; the final stretch from the parking area is a short walk. (sourced from r/india_tourism Spiti itinerary)",
   "Manali": "Manali is a resort town, near Kullu town in the Kullu district in the Indian state of Himachal Pradesh. It is situated at the northern end of the Kullu Valley, formed by the Beas River. The town is located in the Kullu district, approximately 270 kil"
  }
 }

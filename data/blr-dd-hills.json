@@ -4760,20 +4760,25 @@
   "Bengaluru": {
    "img": "img/blr-dd-hills/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Tumakuru": {
    "img": "img/blr-dd-hills/tumakuru.png",
-   "desc": "",
-   "wiki": ""
+   "desc": "Sources told\u00a0*Moneycontrol*\u00a0that the proposed rail corridors are: Bengaluru\u2013Hoskote\u2013Kolar (65 km), Bengaluru\u2013Mysuru (145 km), Bengaluru\u2013Tumakuru (60 km). The proposal highlights the untapped economic potential of cities such as Kolar, Mysuru, Tumakur",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Devarayanadurga": {
    "img": "img/blr-dd-hills/devarayanadurga.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Buchanan had documented crucible steel production at two sites in the Chitradurga district, Devarayanadurga and Chinnarayanadurga, and his account was unusually precise, including measured drawings that allow a reasonably confident reconstruction of ",
+   "wiki": "",
+   "source": "wikipedia"
   }
  },
  "milestones": {
-  "Bengaluru": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in "
+  "Bengaluru": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
+  "Tumakuru": "Sources told\u00a0*Moneycontrol*\u00a0that the proposed rail corridors are: Bengaluru\u2013Hoskote\u2013Kolar (65 km), Bengaluru\u2013Mysuru (145 km), Bengaluru\u2013Tumakuru (60 km). The proposal highlights the untapped economic potential of cities such as Kolar, Mysuru, Tumakur",
+  "Devarayanadurga": "Buchanan had documented crucible steel production at two sites in the Chitradurga district, Devarayanadurga and Chinnarayanadurga, and his account was unusually precise, including measured drawings that allow a reasonably confident reconstruction of "
  }
 }

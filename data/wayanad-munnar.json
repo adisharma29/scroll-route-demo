@@ -7812,42 +7812,53 @@
  "milestone_info": {
   "Wayanad": {
    "img": "img/wayanad-munnar/wayanad.jpg",
-   "desc": "Wayanad district, or Wynad, is a district in the north-east of the Indian state of Kerala, with its administrative headquarters at the municipality of Kalpetta. It is the only plateau in Kerala. The Wayanad Plateau forms a continuation of the Mysore ",
-   "wiki": "Wayanad"
+   "desc": "A lush highland district in northern Kerala with waterfalls, caves, wildlife sanctuaries and spice estates, reached from Bengaluru via Bandipur/Tholpetty. Popular stops include Chembra Peak, Soochipara Falls and the Edakkal Caves. (sourced from r/india_tourism Wayanad threads)",
+   "wiki": "Wayanad",
+   "source": "reddit"
   },
   "Kalpetta": {
    "img": "img/wayanad-munnar/kalpetta.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "The district headquarters of Wayanad and a common overnight stop on the Bengaluru\u2013Wayanad\u2013Munnar circuit, right after the Bandipur forest drive. It is the base for visiting Chembra Peak, Soochipara Falls and the surrounding tea/coffee estates. (sourced from r/india_tourism Wayanad threads)",
+   "wiki": "",
+   "source": "reddit"
   },
   "Sulthan Bathery": {
    "img": "img/wayanad-munnar/sulthan_bathery.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "The main town in north-east Wayanad, on the Bengaluru\u2013Wayanad road just past the Bandipur forest. It is the usual fuel/lunch stop before the climb into Wayanad proper and the base for the Edakkal Caves visit. (sourced from r/india_tourism Wayanad threads)",
+   "wiki": "",
+   "source": "reddit"
   },
   "Calicut": {
    "img": "img/wayanad-munnar/calicut.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "I traveled from Thrissur to Calicut yesterday. From Kuttipuram till Calicut, NH66 was complete, barring a couple of places like the Kuriyad area. Rajeev Gandhi Memorial Trophy for the Best College, Calicut 13.",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Palakkad": {
    "img": "img/wayanad-munnar/palakkad.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "\ud83d\ude80 REPORTING TRAVEL GUIDE #14: PALAKKAD INSTITUTE OF MEDICAL SCIENCES (PIMS), WALAYAR Got Palakkad Institute of Medical Sciences (PIMS) allotted? PIMS is located along the Palakkad\u2013Coimbatore highway (NH 544), making road connectivity much easier than",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Marayoor": {
    "img": "img/wayanad-munnar/marayoor.jpg",
    "desc": "Marayur or Marayoor is a town in Devikulam taluk of Idukki district in the southwestern Indian state of Kerala. It is located 42 kilometers north of Munnar on SH 17 connecting Munnar with Udumalpet, Tamil Nadu. Marayur is situated at around 990 metre",
-   "wiki": "Marayoor"
+   "wiki": "Marayoor",
+   "source": "wikipedia"
   },
   "Munnar": {
    "img": "img/wayanad-munnar/munnar.jpg",
    "desc": "Munnar is a town located in the Idukki district of the southwestern Indian state of Kerala. Munnar is situated at around 1,600 metres (5,200\u00a0ft) above mean sea level, in the Western Ghats mountain range. This ancient plantation settlement, dominated ",
-   "wiki": "Munnar"
+   "wiki": "Munnar",
+   "source": "wikipedia"
   }
  },
  "milestones": {
-  "Wayanad": "Wayanad district, or Wynad, is a district in the north-east of the Indian state of Kerala, with its administrative headquarters at the municipality of Kalpetta. It is the only plateau in Kerala. The Wayanad Plateau forms a continuation of the Mysore ",
+  "Wayanad": "A lush highland district in northern Kerala with waterfalls, caves, wildlife sanctuaries and spice estates, reached from Bengaluru via Bandipur/Tholpetty. Popular stops include Chembra Peak, Soochipara Falls and the Edakkal Caves. (sourced from r/india_tourism Wayanad threads)",
+  "Kalpetta": "The district headquarters of Wayanad and a common overnight stop on the Bengaluru\u2013Wayanad\u2013Munnar circuit, right after the Bandipur forest drive. It is the base for visiting Chembra Peak, Soochipara Falls and the surrounding tea/coffee estates. (sourced from r/india_tourism Wayanad threads)",
+  "Sulthan Bathery": "The main town in north-east Wayanad, on the Bengaluru\u2013Wayanad road just past the Bandipur forest. It is the usual fuel/lunch stop before the climb into Wayanad proper and the base for the Edakkal Caves visit. (sourced from r/india_tourism Wayanad threads)",
+  "Calicut": "I traveled from Thrissur to Calicut yesterday. From Kuttipuram till Calicut, NH66 was complete, barring a couple of places like the Kuriyad area. Rajeev Gandhi Memorial Trophy for the Best College, Calicut 13.",
+  "Palakkad": "\ud83d\ude80 REPORTING TRAVEL GUIDE #14: PALAKKAD INSTITUTE OF MEDICAL SCIENCES (PIMS), WALAYAR Got Palakkad Institute of Medical Sciences (PIMS) allotted? PIMS is located along the Palakkad\u2013Coimbatore highway (NH 544), making road connectivity much easier than",
   "Marayoor": "Marayur or Marayoor is a town in Devikulam taluk of Idukki district in the southwestern Indian state of Kerala. It is located 42 kilometers north of Munnar on SH 17 connecting Munnar with Udumalpet, Tamil Nadu. Marayur is situated at around 990 metre",
   "Munnar": "Munnar is a town located in the Idukki district of the southwestern Indian state of Kerala. Munnar is situated at around 1,600 metres (5,200\u00a0ft) above mean sea level, in the Western Ghats mountain range. This ancient plantation settlement, dominated "
  }

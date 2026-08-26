@@ -6544,17 +6544,20 @@
   "Bengaluru": {
    "img": "img/blr-savandurga/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Magadi": {
    "img": "img/blr-savandurga/magadi.jpg",
    "desc": "Magadi is a town and taluk located in Bengaluru South District, Karnataka, India.",
-   "wiki": "Magadi"
+   "wiki": "Magadi",
+   "source": "wikipedia"
   },
   "Savandurga": {
    "img": "img/blr-savandurga/savandurga.jpg",
    "desc": "Savandurga is a hill 60 km west of Bengaluru, Karnataka, off the Magadi road in India. It is the largest monolith hills in Asia. The hill rises to 1226 m above mean sea level and forms a part of the Deccan Plateau. It consists of peninsular gneiss, g",
-   "wiki": "Savandurga"
+   "wiki": "Savandurga",
+   "source": "wikipedia"
   }
  },
  "milestones": {

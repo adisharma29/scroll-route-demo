@@ -16027,22 +16027,26 @@
   "Bengaluru": {
    "img": "img/blr-kabini/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Mysore": {
    "img": "img/blr-kabini/mysore.jpg",
    "desc": "Mysore, officially Mysuru, is a city in the southern Indian state of Karnataka. It is the administrative headquarters of Mysore district and Mysore division. As the traditional seat of the Wadiyar dynasty, the city functioned as the capital of the Ki",
-   "wiki": "Mysore"
+   "wiki": "Mysore",
+   "source": "wikipedia"
   },
   "HD Kote": {
    "img": "img/blr-kabini/hd_kote.jpg",
    "desc": "Heggadadevanakote or H.D.Kote is a town and a taluk headquarters in Mysore district in the Indian state of Karnataka. Kakana kote forest lies in Heggadadevana kote taluk. H.D Kote city is divided into 13 wards for which elections are held every 5 yea",
-   "wiki": "Heggadadevanakote"
+   "wiki": "Heggadadevanakote",
+   "source": "wikipedia"
   },
   "Kabini": {
    "img": "img/blr-kabini/kabini.jpg",
    "desc": "The Kabini River is one of the major tributaries of the river Cauvery in southern India, It originates in Wayanad district of Kerala state by the confluence of the Panamaram River and the Mananthavady River. It flows eastward through Wayanad district",
-   "wiki": "Kabini_River"
+   "wiki": "Kabini_River",
+   "source": "wikipedia"
   }
  },
  "milestones": {

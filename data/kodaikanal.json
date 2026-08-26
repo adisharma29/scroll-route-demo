@@ -9701,17 +9701,20 @@
   "Madurai": {
    "img": "img/kodaikanal/madurai.jpg",
    "desc": "Madurai is a major tier II city in the Indian state of Tamil Nadu. It is the cultural capital of Tamil Nadu and the administrative headquarters of Madurai district, which is governed by the Madurai Municipal Corporation established on 1 November 1866",
-   "wiki": "Madurai"
+   "wiki": "Madurai",
+   "source": "wikipedia"
   },
   "Palani": {
    "img": "img/kodaikanal/palani.png",
    "desc": "Palani or Pazhani is a town in Dindigul district of Tamil Nadu state in India. It is located about 60 kilometres (37\u00a0mi) west of Dindigul, 106 kilometres (66\u00a0mi) south-east of Coimbatore, 122 kilometres (76\u00a0mi) north-west of Madurai, 67 kilometres (4",
-   "wiki": "Palani"
+   "wiki": "Palani",
+   "source": "wikipedia"
   },
   "Kodaikanal": {
    "img": "img/kodaikanal/kodaikanal.jpg",
    "desc": "Kodaikanal is a town and hill station in Dindigul district in the state of Tamil Nadu, India. It is situated at an altitude of 2,225\u00a0m (7,300\u00a0ft) in the Palani Hills of the Western Ghats. Kodaikanal was established in 1845 to serve as a refuge from t",
-   "wiki": "Kodaikanal"
+   "wiki": "Kodaikanal",
+   "source": "wikipedia"
   }
  },
  "milestones": {

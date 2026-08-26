@@ -8857,22 +8857,26 @@
   "Bengaluru": {
    "img": "img/blr-hogenakkal/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Hosur": {
    "img": "img/blr-hogenakkal/hosur.jpg",
    "desc": "Hosur is an industrial city located in the Tamil Nadu state of India. Hosur is one of the 21 municipal corporations in Tamil Nadu. It is located on the bank of the river River Ponnaiyar, 40 kilometres (25\u00a0mi) southeast of Bengaluru and 306 kilometres",
-   "wiki": "Hosur"
+   "wiki": "Hosur",
+   "source": "wikipedia"
   },
   "Dharmapuri": {
    "img": "img/blr-hogenakkal/dharmapuri.jpg",
    "desc": "Dharmapuri is a town in the north western part of Tamil Nadu, India. It serves as the administrative headquarters of Dharmapuri district which is the first district created in Tamil Nadu after the independence of India by splitting it from then Salem",
-   "wiki": "Dharmapuri"
+   "wiki": "Dharmapuri",
+   "source": "wikipedia"
   },
   "Hogenakkal": {
    "img": "img/blr-hogenakkal/hogenakkal.jpg",
    "desc": "Hogenakkal Falls is a waterfall in South India on the Kaveri river on the border between Dharmapuri district of Tamil Nadu and Chamrajnagar district of Karnataka. It is located 46\u00a0km (29\u00a0mi) from Dharmapuri and 199\u00a0km (124\u00a0mi) from Chamrajnagar. The ",
-   "wiki": "Hogenakkal_Falls"
+   "wiki": "Hogenakkal_Falls",
+   "source": "wikipedia"
   }
  },
  "milestones": {

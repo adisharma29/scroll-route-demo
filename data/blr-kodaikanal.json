@@ -16023,22 +16023,26 @@
   "Bengaluru": {
    "img": "img/blr-kodaikanal/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Salem": {
    "img": "img/blr-kodaikanal/salem.jpg",
    "desc": "Salem is a city in the Indian state of Tamil Nadu. It is located on the banks of the Thirumanimutharu River and surrounded by the Eastern Ghats. It is the fifth largest city in the state as per the 2011 census. It is the administrative capital of Sal",
-   "wiki": "Salem,_Tamil_Nadu"
+   "wiki": "Salem,_Tamil_Nadu",
+   "source": "wikipedia"
   },
   "Dindigul": {
    "img": "img/blr-kodaikanal/dindigul.jpg",
    "desc": "Dindigul is a city in the Indian state of Tamil Nadu. It is the administrative headquarters of the Dindigul district. Dindigul City is Located in the Southwest Region of Tamil Nadu. Dindigul is an ancient settlement region and has been ruled at diffe",
-   "wiki": "Dindigul"
+   "wiki": "Dindigul",
+   "source": "wikipedia"
   },
   "Kodaikanal": {
    "img": "img/blr-kodaikanal/kodaikanal.jpg",
    "desc": "Kodaikanal is a town and hill station in Dindigul district in the state of Tamil Nadu, India. It is situated at an altitude of 2,225\u00a0m (7,300\u00a0ft) in the Palani Hills of the Western Ghats. Kodaikanal was established in 1845 to serve as a refuge from t",
-   "wiki": "Kodaikanal"
+   "wiki": "Kodaikanal",
+   "source": "wikipedia"
   }
  },
  "milestones": {

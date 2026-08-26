@@ -12424,37 +12424,44 @@
   "Delhi": {
    "img": "img/rajasthan-triangle/delhi.jpg",
    "desc": "Delhi, officially the National Capital Territory (NCT) of Delhi, is a megacity and a union territory of India containing New Delhi, the capital of India. Straddling the Yamuna river, but spread chiefly to the west, or beyond its right bank, Delhi sha",
-   "wiki": "Delhi"
+   "wiki": "Delhi",
+   "source": "wikipedia"
   },
   "Jaipur": {
    "img": "img/rajasthan-triangle/jaipur.jpg",
    "desc": "Jaipur is the capital and the largest city of the north-western Indian state of Rajasthan. As of 2011, the city had a population of 3.1 million, making it the tenth most populous city in the country. Located 268\u00a0km from the national capital New Delhi",
-   "wiki": "Jaipur"
+   "wiki": "Jaipur",
+   "source": "wikipedia"
   },
   "Ajmer": {
    "img": "img/rajasthan-triangle/ajmer.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Delhi \u2192 Ajmer with kids (via Jaipur flight + taxi) \u2013 Travel and itinerary advice Hi everyone, We are planning a family trip from Delhi to Ajmer with kids. We do not want to travel the entire distance by road, so the plan is to fly from Delhi to Jaipu",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Jodhpur": {
    "img": "img/rajasthan-triangle/jodhpur.jpg",
    "desc": "Jodhpur is the second-largest city of the north-western Indian state of Rajasthan, after its capital Jaipur. As of 2025, the city has a population of 1.6 million. It serves as the administrative headquarters of the Jodhpur district and Jodhpur divisi",
-   "wiki": "Jodhpur"
+   "wiki": "Jodhpur",
+   "source": "wikipedia"
   },
   "Jaisalmer": {
    "img": "img/rajasthan-triangle/jaisalmer.jpg",
    "desc": "Jaisalmer, nicknamed The Golden City, is a city in the north-western Indian state of Rajasthan, located 575 kilometres (357\u00a0mi) west of the state capital Jaipur, in the heart of the Thar Desert. It serves as the administrative headquarters of Jaisalm",
-   "wiki": "Jaisalmer"
+   "wiki": "Jaisalmer",
+   "source": "wikipedia"
   },
   "Udaipur": {
    "img": "img/rajasthan-triangle/udaipur.jpg",
    "desc": "Udaipur is a city in the north-western Indian state of Rajasthan, about 415\u00a0km (258\u00a0mi) south of the state capital Jaipur. It serves as the administrative headquarters of Udaipur district. It is the historic capital of the kingdom of Mewar in the for",
-   "wiki": "Udaipur"
+   "wiki": "Udaipur",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Delhi": "Delhi, officially the National Capital Territory (NCT) of Delhi, is a megacity and a union territory of India containing New Delhi, the capital of India. Straddling the Yamuna river, but spread chiefly to the west, or beyond its right bank, Delhi sha",
   "Jaipur": "Jaipur is the capital and the largest city of the north-western Indian state of Rajasthan. As of 2011, the city had a population of 3.1 million, making it the tenth most populous city in the country. Located 268\u00a0km from the national capital New Delhi",
+  "Ajmer": "Delhi \u2192 Ajmer with kids (via Jaipur flight + taxi) \u2013 Travel and itinerary advice Hi everyone, We are planning a family trip from Delhi to Ajmer with kids. We do not want to travel the entire distance by road, so the plan is to fly from Delhi to Jaipu",
   "Jodhpur": "Jodhpur is the second-largest city of the north-western Indian state of Rajasthan, after its capital Jaipur. As of 2025, the city has a population of 1.6 million. It serves as the administrative headquarters of the Jodhpur district and Jodhpur divisi",
   "Jaisalmer": "Jaisalmer, nicknamed The Golden City, is a city in the north-western Indian state of Rajasthan, located 575 kilometres (357\u00a0mi) west of the state capital Jaipur, in the heart of the Thar Desert. It serves as the administrative headquarters of Jaisalm",
   "Udaipur": "Udaipur is a city in the north-western Indian state of Rajasthan, about 415\u00a0km (258\u00a0mi) south of the state capital Jaipur. It serves as the administrative headquarters of Udaipur district. It is the historic capital of the kingdom of Mewar in the for"

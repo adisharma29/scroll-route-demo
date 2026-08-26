@@ -8904,38 +8904,45 @@
   "Khajuraho": {
    "img": "img/mp-heritage-safari/khajuraho.jpg",
    "desc": "Khajuraho is a city, near Chhatarpur in Chhatarpur district of the Indian state of Madhya Pradesh, which was the early as well as religious capital of Chandel Empire of Jejakabhukti. Chandela emperors established this city and named it Kharjuravahaka",
-   "wiki": "Khajuraho"
+   "wiki": "Khajuraho",
+   "source": "wikipedia"
   },
   "Orchha": {
    "img": "img/mp-heritage-safari/orchha.jpg",
    "desc": "Orchha is a city near the city of Niwari in the Niwari district of Madhya Pradesh state, India. The city was established by a Bundela Rajput ruler Rudra Pratap Singh some time after 1501, as the seat of an eponymous former princely state including pa",
-   "wiki": "Orchha"
+   "wiki": "Orchha",
+   "source": "wikipedia"
   },
   "Jhansi": {
    "img": "img/mp-heritage-safari/jhansi.jpg",
    "desc": "Jhansi is a historic city in the Indian state of Uttar Pradesh. (Toshan) Balwant Nagar was the old name of Jhansi. It lies in the region of Bundelkhand, on the banks of the Pahuj River, in the extreme south of Uttar Pradesh. Jhansi is the administrat",
-   "wiki": "Jhansi"
+   "wiki": "Jhansi",
+   "source": "wikipedia"
   },
   "Jabalpur": {
    "img": "img/mp-heritage-safari/jabalpur.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "I\u2019m Deep Rajak, a 24-year-old travel enthusiast from Jabalpur, MP, and I\u2019ve been bitten by the adventure bug! - Factory townships \u2014 Kanpur, Pune, Jabalpur, Ishapore. Jawaharlal Nehru Krishi Vishwavidyalaya, Jabalpur 95.",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Kanha": {
    "img": "img/mp-heritage-safari/kanha.jpg",
    "desc": "Kanha Tiger Reserve, also known as Kanha\u2013Kisli National Park, is one of the tiger reserves of India and the largest national park of the state of Madhya Pradesh. It covers an area of 940\u00a0km2 (360\u00a0sq\u00a0mi) in the two districts Mandla and Balaghat.\nThe p",
-   "wiki": "Kanha_National_Park"
+   "wiki": "Kanha_National_Park",
+   "source": "wikipedia"
   },
   "Bandhavgarh": {
    "img": "img/mp-heritage-safari/bandhavgarh.jpg",
    "desc": "Bandhavgarh National Park is a national park of India, located in the Umaria district of Madhya Pradesh. It spreads over an area of 105\u00a0km2 (41\u00a0sq\u00a0mi) and was declared a national park in 1968. It became Tiger Reserve in 1993 with a core area of 716\u00a0k",
-   "wiki": "Bandhavgarh_National_Park"
+   "wiki": "Bandhavgarh_National_Park",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Khajuraho": "Khajuraho is a city, near Chhatarpur in Chhatarpur district of the Indian state of Madhya Pradesh, which was the early as well as religious capital of Chandel Empire of Jejakabhukti. Chandela emperors established this city and named it Kharjuravahaka",
   "Orchha": "Orchha is a city near the city of Niwari in the Niwari district of Madhya Pradesh state, India. The city was established by a Bundela Rajput ruler Rudra Pratap Singh some time after 1501, as the seat of an eponymous former princely state including pa",
   "Jhansi": "Jhansi is a historic city in the Indian state of Uttar Pradesh. (Toshan) Balwant Nagar was the old name of Jhansi. It lies in the region of Bundelkhand, on the banks of the Pahuj River, in the extreme south of Uttar Pradesh. Jhansi is the administrat",
+  "Jabalpur": "I\u2019m Deep Rajak, a 24-year-old travel enthusiast from Jabalpur, MP, and I\u2019ve been bitten by the adventure bug! - Factory townships \u2014 Kanpur, Pune, Jabalpur, Ishapore. Jawaharlal Nehru Krishi Vishwavidyalaya, Jabalpur 95.",
   "Kanha": "Kanha Tiger Reserve, also known as Kanha\u2013Kisli National Park, is one of the tiger reserves of India and the largest national park of the state of Madhya Pradesh. It covers an area of 940\u00a0km2 (360\u00a0sq\u00a0mi) in the two districts Mandla and Balaghat.\nThe p",
   "Bandhavgarh": "Bandhavgarh National Park is a national park of India, located in the Umaria district of Madhya Pradesh. It spreads over an area of 105\u00a0km2 (41\u00a0sq\u00a0mi) and was declared a national park in 1968. It became Tiger Reserve in 1993 with a core area of 716\u00a0k"
  }

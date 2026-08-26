@@ -5446,21 +5446,25 @@
   "Bengaluru": {
    "img": "img/blr-muthyala-maduvu/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Anekal": {
    "img": "img/blr-muthyala-maduvu/anekal.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "According to C-DOT's own institutional timeline, the first 256P RAX was commissioned in March 1992 in Anekal in the Bangalore Telecom District, with the Transfer of Technology for the 256P RAX formally announced in July 1992. Realise that I don't wan",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Muthyala Maduvu": {
    "img": "img/blr-muthyala-maduvu/muthyala_maduvu.jpg",
    "desc": "Muthyalamaduvu is a tourist attraction located near Anekal, Bengaluru Urban, Karnataka. The place is also known as Pearl Valley.",
-   "wiki": "Muthyala_Maduvu"
+   "wiki": "Muthyala_Maduvu",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Bengaluru": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
+  "Anekal": "According to C-DOT's own institutional timeline, the first 256P RAX was commissioned in March 1992 in Anekal in the Bangalore Telecom District, with the Transfer of Technology for the 256P RAX formally announced in July 1992. Realise that I don't wan",
   "Muthyala Maduvu": "Muthyalamaduvu is a tourist attraction located near Anekal, Bengaluru Urban, Karnataka. The place is also known as Pearl Valley."
  }
 }

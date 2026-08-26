@@ -6623,32 +6623,38 @@
   "Srinagar": {
    "img": "img/kashmir-circuit/srinagar.jpg",
    "desc": "Srinagar is a city in Indian-administered Jammu and Kashmir in the disputed Kashmir region. It is the largest city and summer capital of Jammu and Kashmir, which is an Indian-administered union territory. It lies in the Kashmir Valley along the banks",
-   "wiki": "Srinagar"
+   "wiki": "Srinagar",
+   "source": "wikipedia"
   },
   "Gulmarg": {
    "img": "img/kashmir-circuit/gulmarg.jpg",
    "desc": "Gulmarg is a hill station and a notified area committee in Baramulla district of the Indian union territory of Jammu and Kashmir. It is located in the Indian-administered part of Kashmir, close to the Line of Control that serves as the de facto borde",
-   "wiki": "Gulmarg"
+   "wiki": "Gulmarg",
+   "source": "wikipedia"
   },
   "Tangmarg": {
    "img": "img/kashmir-circuit/tangmarg.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Terrain mix: big open alpine bowls and faces up high, a lot of exposed, wind-affected ridgeline, and once you drop in elevation, dense pine glades (Khilanmarg and the forests around Kongdoori/Tangmarg are the classic tree-skiing zones). The journey p",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Pahalgam": {
    "img": "img/kashmir-circuit/pahalgam.jpg",
    "desc": "Pahalgam or Pahalgom is a town in Anantnag district of the Indian union territory of Jammu and Kashmir in the disputed Kashmir region. It is located on the banks of Lidder River at an altitude of 2,200\u00a0m (7,200\u00a0ft) in the Vale of Kashmir. Pahalgam is",
-   "wiki": "Pahalgam"
+   "wiki": "Pahalgam",
+   "source": "wikipedia"
   },
   "Sonamarg": {
    "img": "img/kashmir-circuit/sonamarg.jpg",
    "desc": "Sonamarg or Sonmarg, known as Sonamarag in Kashmiri, is a hill station located in the Ganderbal District of Jammu and Kashmir, India in the disputed Kashmir region. It is located about 62 kilometers from Ganderbal Town and 80 kilometres (50\u00a0mi) north",
-   "wiki": "Sonmarg"
+   "wiki": "Sonmarg",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Srinagar": "Srinagar is a city in Indian-administered Jammu and Kashmir in the disputed Kashmir region. It is the largest city and summer capital of Jammu and Kashmir, which is an Indian-administered union territory. It lies in the Kashmir Valley along the banks",
   "Gulmarg": "Gulmarg is a hill station and a notified area committee in Baramulla district of the Indian union territory of Jammu and Kashmir. It is located in the Indian-administered part of Kashmir, close to the Line of Control that serves as the de facto borde",
+  "Tangmarg": "Terrain mix: big open alpine bowls and faces up high, a lot of exposed, wind-affected ridgeline, and once you drop in elevation, dense pine glades (Khilanmarg and the forests around Kongdoori/Tangmarg are the classic tree-skiing zones). The journey p",
   "Pahalgam": "Pahalgam or Pahalgom is a town in Anantnag district of the Indian union territory of Jammu and Kashmir in the disputed Kashmir region. It is located on the banks of Lidder River at an altitude of 2,200\u00a0m (7,200\u00a0ft) in the Vale of Kashmir. Pahalgam is",
   "Sonamarg": "Sonamarg or Sonmarg, known as Sonamarag in Kashmiri, is a hill station located in the Ganderbal District of Jammu and Kashmir, India in the disputed Kashmir region. It is located about 62 kilometers from Ganderbal Town and 80 kilometres (50\u00a0mi) north"
  }

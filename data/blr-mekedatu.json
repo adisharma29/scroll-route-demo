@@ -8844,17 +8844,20 @@
   "Bengaluru": {
    "img": "img/blr-mekedatu/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Kanakapura": {
    "img": "img/blr-mekedatu/kanakapura.jpg",
    "desc": "Kanakapura is a city, taluka in the Bengaluru South district of Karnataka on the banks of the Arkavathi river and the administrative center of the taluk of the same name. Its founder is Sameer Kanaka Pradeesha, hence its name. Kanakapura is the large",
-   "wiki": "Kanakapura"
+   "wiki": "Kanakapura",
+   "source": "wikipedia"
   },
   "Mekedatu": {
    "img": "img/blr-mekedatu/mekedatu.jpg",
    "desc": "Mekedatu is a location in kanakapura along Kaveri in the border of Bengaluru South and Chamarajanagar Districts. From this point, about 3.5 kilometers downstream, the river Kaveri flows through a deep and narrow gorge. Mekedatu means 'goat's leap' in",
-   "wiki": "Mekedatu"
+   "wiki": "Mekedatu",
+   "source": "wikipedia"
   }
  },
  "milestones": {

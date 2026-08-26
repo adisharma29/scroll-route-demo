@@ -10612,37 +10612,45 @@
   "Dehradun": {
    "img": "img/dehradun-gangotri/dehradun.jpg",
    "desc": "Dehradun, also known as Dehra Doon is the capital and most populous city of the Indian state of Uttarakhand. It is the administrative headquarters of Dehradun district and the headquarters of the Garhwal division. Dehradun has served as the state's i",
-   "wiki": "Dehradun"
+   "wiki": "Dehradun",
+   "source": "wikipedia"
   },
   "Mussoorie": {
    "img": "img/dehradun-gangotri/mussoorie.jpg",
    "desc": "Mussoorie is a hill station and a municipal board in the Dehradun district of the Indian state of Uttarakhand. It is about 26 kilometres (16\u00a0mi) from the state Winter capital Dehradun and 289\u00a0km (180\u00a0mi) north of the national capital of New Delhi. Th",
-   "wiki": "Mussoorie"
+   "wiki": "Mussoorie",
+   "source": "wikipedia"
   },
   "Yamunotri": {
    "img": "img/dehradun-gangotri/yamunotri.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "# Day 3 \u2013 Yamunotri Trek Drive to Janki Chatti and trek 6 km to **Yamunotri Temple**. * **The**\u00a0**Bizarexpedition**\u00a0**Edge:**\u00a0Our\u00a0**Char Dham Yatra** packages (Yamunotri, Gangotri,\u00a0Kedarnath, and Badrinath) are designed for the modern pilgrim. Please",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Uttarkashi": {
    "img": "img/dehradun-gangotri/uttarkashi.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "*Best Places to Visit in Uttarakhand* Nag Tibba, Kedarnath, Abbott Mount, Chopta, Mukteshwar, Almora, Chakrata, Ranikhet, Uttarkashi, Tehri and Munishiyari. Quick Trek Facts  \ud83d\udccd Region: Uttarkashi, Uttarakhand \ud83e\udd7e Difficulty: Difficult \ud83d\udccf Highest Altitud",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Harsil": {
    "img": "img/dehradun-gangotri/harsil.png",
    "desc": "Harshil is a village, tourist hill station and army area located on the banks of the Bhagirathi River, on the way to Gangotri, a Hindu pilgrimage site in Uttarkashi district of the Indian state of Uttarakhand.",
-   "wiki": "Harsil"
+   "wiki": "Harsil",
+   "source": "wikipedia"
   },
   "Gangotri": {
    "img": "img/dehradun-gangotri/gangotri.jpg",
    "desc": "Gangotri is a town and a Nagar Panchayat (municipality) in Uttarkashi district in the state of Uttarakhand, India. It is 99\u00a0km from Uttarkashi, the main district headquarter. It is a Hindu pilgrim town on the banks of the river Bhagirathi \u2013 the origi",
-   "wiki": "Gangotri"
+   "wiki": "Gangotri",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Dehradun": "Dehradun, also known as Dehra Doon is the capital and most populous city of the Indian state of Uttarakhand. It is the administrative headquarters of Dehradun district and the headquarters of the Garhwal division. Dehradun has served as the state's i",
   "Mussoorie": "Mussoorie is a hill station and a municipal board in the Dehradun district of the Indian state of Uttarakhand. It is about 26 kilometres (16\u00a0mi) from the state Winter capital Dehradun and 289\u00a0km (180\u00a0mi) north of the national capital of New Delhi. Th",
+  "Yamunotri": "# Day 3 \u2013 Yamunotri Trek Drive to Janki Chatti and trek 6 km to **Yamunotri Temple**. * **The**\u00a0**Bizarexpedition**\u00a0**Edge:**\u00a0Our\u00a0**Char Dham Yatra** packages (Yamunotri, Gangotri,\u00a0Kedarnath, and Badrinath) are designed for the modern pilgrim. Please",
+  "Uttarkashi": "*Best Places to Visit in Uttarakhand* Nag Tibba, Kedarnath, Abbott Mount, Chopta, Mukteshwar, Almora, Chakrata, Ranikhet, Uttarkashi, Tehri and Munishiyari. Quick Trek Facts  \ud83d\udccd Region: Uttarkashi, Uttarakhand \ud83e\udd7e Difficulty: Difficult \ud83d\udccf Highest Altitud",
   "Harsil": "Harshil is a village, tourist hill station and army area located on the banks of the Bhagirathi River, on the way to Gangotri, a Hindu pilgrimage site in Uttarkashi district of the Indian state of Uttarakhand.",
   "Gangotri": "Gangotri is a town and a Nagar Panchayat (municipality) in Uttarkashi district in the state of Uttarakhand, India. It is 99\u00a0km from Uttarkashi, the main district headquarter. It is a Hindu pilgrim town on the banks of the river Bhagirathi \u2013 the origi"
  }

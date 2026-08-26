@@ -11812,22 +11812,26 @@
   "Bengaluru": {
    "img": "img/blr-bandipur/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Mysore": {
    "img": "img/blr-bandipur/mysore.jpg",
    "desc": "Mysore, officially Mysuru, is a city in the southern Indian state of Karnataka. It is the administrative headquarters of Mysore district and Mysore division. As the traditional seat of the Wadiyar dynasty, the city functioned as the capital of the Ki",
-   "wiki": "Mysore"
+   "wiki": "Mysore",
+   "source": "wikipedia"
   },
   "Gundlupet": {
    "img": "img/blr-bandipur/gundlupet.jpg",
    "desc": "Gundlupet is a municipal town situated in the Chamarajanagar district of Karnataka, India.",
-   "wiki": "Gundlupet"
+   "wiki": "Gundlupet",
+   "source": "wikipedia"
   },
   "Bandipur": {
    "img": "img/blr-bandipur/bandipur.jpg",
    "desc": "Bandipur National Park is a national park covering 1,456.3\u00a0km2 (562.3\u00a0sq\u00a0mi) in Chamarajnagar district in the Indian state of Karnataka. It was established as a tiger reserve under Project Tiger in 1973.\nIt is part of the Nilgiri Biosphere Reserve si",
-   "wiki": "Bandipur_National_Park"
+   "wiki": "Bandipur_National_Park",
+   "source": "wikipedia"
   }
  },
  "milestones": {

@@ -12805,37 +12805,44 @@
   "Srinagar": {
    "img": "img/srinagar-leh/srinagar.jpg",
    "desc": "Srinagar is a city in Indian-administered Jammu and Kashmir in the disputed Kashmir region. It is the largest city and summer capital of Jammu and Kashmir, which is an Indian-administered union territory. It lies in the Kashmir Valley along the banks",
-   "wiki": "Srinagar"
+   "wiki": "Srinagar",
+   "source": "wikipedia"
   },
   "Sonamarg": {
    "img": "img/srinagar-leh/sonamarg.jpg",
    "desc": "Sonamarg or Sonmarg, known as Sonamarag in Kashmiri, is a hill station located in the Ganderbal District of Jammu and Kashmir, India in the disputed Kashmir region. It is located about 62 kilometers from Ganderbal Town and 80 kilometres (50\u00a0mi) north",
-   "wiki": "Sonmarg"
+   "wiki": "Sonmarg",
+   "source": "wikipedia"
   },
   "Zoji La": {
    "img": "img/srinagar-leh/zoji_la.jpg",
    "desc": "Zoji La is a high mountain pass in the Himalayas. It is located in the Ganderbal district of Jammu and Kashmir and the Kargil district of Ladakh, both union territories of India. This pass connects the Kashmir Valley to its west with the Dras and Sur",
-   "wiki": "Zoji_La"
+   "wiki": "Zoji_La",
+   "source": "wikipedia"
   },
   "Kargil": {
    "img": "img/srinagar-leh/kargil.jpg",
    "desc": "Kargil or Kargyil is a city and headqurter of eponymous district, tehsil, and community development block in Indian-administered Ladakh in the disputed Kashmir region. It is the joint capital of Ladakh, an Indian-administered union territory, and the",
-   "wiki": "Kargil"
+   "wiki": "Kargil",
+   "source": "wikipedia"
   },
   "Namika La": {
    "img": "img/srinagar-leh/namika_la.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Day 9: Leh to Kargil via Lamayuru, Lamayuru monastery, the \"moon land view\" (lunar-like landscape), Mulbek stone carving statue, Namika La pass, Futu La pass.",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Fotu La": {
    "img": "img/srinagar-leh/fotu_la.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "It runs at an elevation of approximately 3,528 metres, and is the second highest pass after Fotu La.",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Leh": {
    "img": "img/srinagar-leh/leh.jpg",
    "desc": "Leh is a city in Indian-administered Ladakh in the disputed Kashmir region. It is the largest city and the joint capital of Ladakh. Leh, located in the Leh district, has been the capital of Ladakh since the medieval period and was historically capita",
-   "wiki": "Leh"
+   "wiki": "Leh",
+   "source": "wikipedia"
   }
  },
  "milestones": {
@@ -12843,6 +12850,8 @@
   "Sonamarg": "Sonamarg or Sonmarg, known as Sonamarag in Kashmiri, is a hill station located in the Ganderbal District of Jammu and Kashmir, India in the disputed Kashmir region. It is located about 62 kilometers from Ganderbal Town and 80 kilometres (50\u00a0mi) north",
   "Zoji La": "Zoji La is a high mountain pass in the Himalayas. It is located in the Ganderbal district of Jammu and Kashmir and the Kargil district of Ladakh, both union territories of India. This pass connects the Kashmir Valley to its west with the Dras and Sur",
   "Kargil": "Kargil or Kargyil is a city and headqurter of eponymous district, tehsil, and community development block in Indian-administered Ladakh in the disputed Kashmir region. It is the joint capital of Ladakh, an Indian-administered union territory, and the",
+  "Namika La": "Day 9: Leh to Kargil via Lamayuru, Lamayuru monastery, the \"moon land view\" (lunar-like landscape), Mulbek stone carving statue, Namika La pass, Futu La pass.",
+  "Fotu La": "It runs at an elevation of approximately 3,528 metres, and is the second highest pass after Fotu La.",
   "Leh": "Leh is a city in Indian-administered Ladakh in the disputed Kashmir region. It is the largest city and the joint capital of Ladakh. Leh, located in the Leh district, has been the capital of Ladakh since the medieval period and was historically capita"
  }
 }

@@ -16022,13 +16022,15 @@
  "milestone_info": {
   "Itanagar": {
    "img": "img/arunachal-ziro-mechuka/itanagar.png",
-   "desc": "",
-   "wiki": ""
+   "desc": "**Hospital in Itanagar**: You've some big issue. Rajiv Gandhi University, Itanagar, Arunachal Pradesh 15. Rajiv Gandhi Stadium, Nahariagun, Itanagar 39.",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Ziro": {
    "img": "img/arunachal-ziro-mechuka/ziro.jpg",
    "desc": "Ziro is a town in and the district headquarters of the Lower Subansiri district of the Indian state of Arunachal Pradesh. The part of the town which is the centre of economic activities and where the administrative offices are located is called Hapol",
-   "wiki": "Ziro"
+   "wiki": "Ziro",
+   "source": "wikipedia"
   },
   "Daporijo": {
    "img": "img/arunachal-ziro-mechuka/daporijo.png",
@@ -16037,16 +16039,21 @@
   },
   "Along": {
    "img": "img/arunachal-ziro-mechuka/along.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Along the way, I\u2019ve built a wonderful and supportive community that means the world to me. Aminul Islam, likely being naive, was influenced by Mr Mohsin Naqvi, the current ACC president, who persuaded him to go along. I usually don\u2019t have a fixed iti",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Mechuka": {
    "img": "img/arunachal-ziro-mechuka/mechuka.jpg",
-   "desc": "",
-   "wiki": "Mechukha"
+   "desc": "Mechuka in West Siang district - this one has almost zero tourist infrastructure which means you actually stay with locals. Mechuka, Harsil valley, Munsiyari, Shoja, Khasi Hills, Dzukou Valley, Tawang. Went to Tawang(Bumla Pass, Holy Waterfalls), Mec",
+   "wiki": "Mechukha",
+   "source": "wikipedia"
   }
  },
  "milestones": {
-  "Ziro": "Ziro is a town in and the district headquarters of the Lower Subansiri district of the Indian state of Arunachal Pradesh. The part of the town which is the centre of economic activities and where the administrative offices are located is called Hapol"
+  "Itanagar": "**Hospital in Itanagar**: You've some big issue. Rajiv Gandhi University, Itanagar, Arunachal Pradesh 15. Rajiv Gandhi Stadium, Nahariagun, Itanagar 39.",
+  "Ziro": "Ziro is a town in and the district headquarters of the Lower Subansiri district of the Indian state of Arunachal Pradesh. The part of the town which is the centre of economic activities and where the administrative offices are located is called Hapol",
+  "Along": "Along the way, I\u2019ve built a wonderful and supportive community that means the world to me. Aminul Islam, likely being naive, was influenced by Mr Mohsin Naqvi, the current ACC president, who persuaded him to go along. I usually don\u2019t have a fixed iti",
+  "Mechuka": "Mechuka in West Siang district - this one has almost zero tourist infrastructure which means you actually stay with locals. Mechuka, Harsil valley, Munsiyari, Shoja, Khasi Hills, Dzukou Valley, Tawang. Went to Tawang(Bumla Pass, Holy Waterfalls), Mec"
  }
 }

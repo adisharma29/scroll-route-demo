@@ -8812,37 +8812,45 @@
   "Ahmedabad": {
    "img": "img/sou-gir-diu/ahmedabad.jpg",
    "desc": "Ahmedabad, also spelt Amdavad and historically known as Karnavati, is the most populous city in the Indian state of Gujarat. It is the administrative headquarters of the Ahmedabad district and the seat of the Gujarat High Court. Ahmedabad's populatio",
-   "wiki": "Ahmedabad"
+   "wiki": "Ahmedabad",
+   "source": "wikipedia"
   },
   "Statue of Unity": {
    "img": "img/sou-gir-diu/statue_of_unity.jpg",
    "desc": "\nThe Statue of Unity is the world's tallest statue, with a height of 182 metres, located in Narmada valley, near Kevadia in the state of Gujarat, India. It depicts Indian politician and independence activist Sardar Patel (1875\u20131950), who was the firs",
-   "wiki": "Statue_of_Unity"
+   "wiki": "Statue_of_Unity",
+   "source": "wikipedia"
   },
   "Rajpipla": {
    "img": "img/sou-gir-diu/rajpipla.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "According to this account, Bawa Ghor arrived at Rajpipla, where he learnt of the availability of agate in the region and became interested in the trade and manufacture of beads. First, his name is attached to the hills in Rajpipla \u2014 the Bawa Ghor Hil",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Junagadh": {
    "img": "img/sou-gir-diu/junagadh.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Top Best Junagadh Tourist Places List With Photos - India Ka Safar Travel With Us And Explore India > With the Election Commission mandating that no voter should &quot;Ordinarily travel more than 2km to reach the booth&quot;, every election time a po",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Gir National Park": {
    "img": "img/sou-gir-diu/gir_national_park.jpg",
    "desc": "Gir National Park and Wildlife Sanctuary, also known as Sasan Gir, is a national park and wildlife sanctuary in Gujarat, India. It was established in 1965 in the erstwhile Nawab of Junagarh's private hunting area, with a total area of 1,410.30\u00a0km2 (5",
-   "wiki": "Gir_National_Park"
+   "wiki": "Gir_National_Park",
+   "source": "wikipedia"
   },
   "Diu": {
    "img": "img/sou-gir-diu/diu.jpg",
    "desc": "Diu, also known as Diu Town, is a medieval fortified town in Diu district in the union territory of Dadra and Nagar Haveli and Daman and Diu, India. Diu district is the tenth least populated district of India. The town of Diu lies at the eastern end ",
-   "wiki": "Diu,_Daman_and_Diu"
+   "wiki": "Diu,_Daman_and_Diu",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Ahmedabad": "Ahmedabad, also spelt Amdavad and historically known as Karnavati, is the most populous city in the Indian state of Gujarat. It is the administrative headquarters of the Ahmedabad district and the seat of the Gujarat High Court. Ahmedabad's populatio",
   "Statue of Unity": "\nThe Statue of Unity is the world's tallest statue, with a height of 182 metres, located in Narmada valley, near Kevadia in the state of Gujarat, India. It depicts Indian politician and independence activist Sardar Patel (1875\u20131950), who was the firs",
+  "Rajpipla": "According to this account, Bawa Ghor arrived at Rajpipla, where he learnt of the availability of agate in the region and became interested in the trade and manufacture of beads. First, his name is attached to the hills in Rajpipla \u2014 the Bawa Ghor Hil",
+  "Junagadh": "Top Best Junagadh Tourist Places List With Photos - India Ka Safar Travel With Us And Explore India > With the Election Commission mandating that no voter should &quot;Ordinarily travel more than 2km to reach the booth&quot;, every election time a po",
   "Gir National Park": "Gir National Park and Wildlife Sanctuary, also known as Sasan Gir, is a national park and wildlife sanctuary in Gujarat, India. It was established in 1965 in the erstwhile Nawab of Junagarh's private hunting area, with a total area of 1,410.30\u00a0km2 (5",
   "Diu": "Diu, also known as Diu Town, is a medieval fortified town in Diu district in the union territory of Dadra and Nagar Haveli and Daman and Diu, India. Diu district is the tenth least populated district of India. The town of Diu lies at the eastern end "
  }

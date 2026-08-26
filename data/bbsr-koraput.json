@@ -12575,12 +12575,14 @@
   "Bhubaneswar": {
    "img": "img/bbsr-koraput/bhubaneswar.jpg",
    "desc": "Bhubaneswar is the capital and the largest city of the Indian state of Odisha. It is located in the Khordha district. The suburban region, especially the old town, was historically often depicted as Chakra Khetra and Ekamra Khetra. Bhubaneswar is dub",
-   "wiki": "Bhubaneswar"
+   "wiki": "Bhubaneswar",
+   "source": "wikipedia"
   },
   "Cuttack": {
    "img": "img/bbsr-koraput/cuttack.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "This will include state capital Bhubaneswar, twin city Cuttack and important industrial townships. **Rohit Sharma, Player of the Series**:\u00a0It was a decider and we wanted to win this game and especially here in Cuttack, it's a good batting track. Ther",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Phulbani": {
    "img": "img/bbsr-koraput/phulbani.jpg",
@@ -12595,11 +12597,13 @@
   "Koraput": {
    "img": "img/bbsr-koraput/koraput.jpg",
    "desc": "Koraput is a town and a Municipality in Koraput district in the Indian state of Odisha. Koraput town is the district headquarter of Koraput district.",
-   "wiki": "Koraput"
+   "wiki": "Koraput",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Bhubaneswar": "Bhubaneswar is the capital and the largest city of the Indian state of Odisha. It is located in the Khordha district. The suburban region, especially the old town, was historically often depicted as Chakra Khetra and Ekamra Khetra. Bhubaneswar is dub",
+  "Cuttack": "This will include state capital Bhubaneswar, twin city Cuttack and important industrial townships. **Rohit Sharma, Player of the Series**:\u00a0It was a decider and we wanted to win this game and especially here in Cuttack, it's a good batting track. Ther",
   "Koraput": "Koraput is a town and a Municipality in Koraput district in the Indian state of Odisha. Koraput town is the district headquarter of Koraput district."
  }
 }

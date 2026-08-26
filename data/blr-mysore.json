@@ -9716,27 +9716,32 @@
   "Bengaluru": {
    "img": "img/blr-mysore/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Ramanagara": {
    "img": "img/blr-mysore/ramanagara.jpg",
    "desc": "Ramanagara is a city, taluka in the Indian state of Karnataka. It is approximately 50 kilometres from Bengaluru.",
-   "wiki": "Ramanagara"
+   "wiki": "Ramanagara",
+   "source": "wikipedia"
   },
   "Maddur": {
    "img": "img/blr-mysore/maddur.jpg",
    "desc": "Maddur may refer to:Maddur, Mahbubnagar, Telangana, India\nMaddur, Mandya, Karnataka, India\nMaddur railway bridge collapse, 1897\nMaddur, Ranga Reddy, Telangana, India",
-   "wiki": "Maddur"
+   "wiki": "Maddur",
+   "source": "wikipedia"
   },
   "Mandya": {
    "img": "img/blr-mysore/mandya.jpg",
    "desc": "Mandya is a city, also taluka in the state of Karnataka. It is the headquarters of Mandya district. It is also called Sugar City because sugarcane is a major crop grown here, and sugar factories contribute to the major economic output. The district o",
-   "wiki": "Mandya"
+   "wiki": "Mandya",
+   "source": "wikipedia"
   },
   "Mysore": {
    "img": "img/blr-mysore/mysore.jpg",
    "desc": "Mysore, officially Mysuru, is a city in the southern Indian state of Karnataka. It is the administrative headquarters of Mysore district and Mysore division. As the traditional seat of the Wadiyar dynasty, the city functioned as the capital of the Ki",
-   "wiki": "Mysore"
+   "wiki": "Mysore",
+   "source": "wikipedia"
   }
  },
  "milestones": {

@@ -16027,28 +16027,32 @@
   "Bengaluru": {
    "img": "img/blr-gokarna/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Hubli": {
    "img": "img/blr-gokarna/hubli.jpg",
    "desc": "Hubli, officially Hubballi, is a city in the Indian state of Karnataka. The twin cities Hubli\u2013Dharwad form the second largest municipality and urban agglomeration of Karnataka in terms of area and population and the largest city in North Karnataka. H",
-   "wiki": "Hubli"
+   "wiki": "Hubli",
+   "source": "wikipedia"
   },
   "Karwar": {
    "img": "img/blr-gokarna/karwar.jpg",
    "desc": "Karwar is a coastal city, taluka and the administrative headquarters of Uttara Kannada district, formerly part of the Bombay Presidency, located at the mouth of the Kali river along the Konkan Coast in the present-day state of Karnataka, India.",
-   "wiki": "Karwar"
+   "wiki": "Karwar",
+   "source": "wikipedia"
   },
   "Gokarna": {
    "img": "img/blr-gokarna/gokarna.jpg",
-   "desc": "Gokarna may refer to:",
-   "wiki": "Gokarna"
+   "desc": "A laid-back coastal town in Karnataka's Uttara Kannada district, famous for Om Beach, the Mahabaleshwar Temple and a string of beaches along the Arabian Sea. Popular with backpackers and road trippers, it sits roughly halfway down the western coast between Goa and Mangalore. (Wikipedia extract)",
+   "wiki": "Gokarna",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Bengaluru": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
   "Hubli": "Hubli, officially Hubballi, is a city in the Indian state of Karnataka. The twin cities Hubli\u2013Dharwad form the second largest municipality and urban agglomeration of Karnataka in terms of area and population and the largest city in North Karnataka. H",
   "Karwar": "Karwar is a coastal city, taluka and the administrative headquarters of Uttara Kannada district, formerly part of the Bombay Presidency, located at the mouth of the Kali river along the Konkan Coast in the present-day state of Karnataka, India.",
-  "Gokarna": "Gokarna may refer to:"
+  "Gokarna": "A laid-back coastal town in Karnataka's Uttara Kannada district, famous for Om Beach, the Mahabaleshwar Temple and a string of beaches along the Arabian Sea. Popular with backpackers and road trippers, it sits roughly halfway down the western coast between Goa and Mangalore. (Wikipedia extract)"
  }
 }

@@ -6170,26 +6170,31 @@
   "Amritsar": {
    "img": "img/amritsar-chandigarh/amritsar.jpg",
    "desc": "Amritsar, also known as Ambarsar, is the second-largest city in the Indian state of Punjab, after Ludhiana. Located in the Majha region, it is a major cultural, transportation and economic centre. The city is the administrative headquarters of the Am",
-   "wiki": "Amritsar"
+   "wiki": "Amritsar",
+   "source": "wikipedia"
   },
   "Wagah Border": {
    "img": "img/amritsar-chandigarh/wagah_border.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "The India\u2013Pakistan border crossing near Amritsar, famous for the daily Beating Retreat ceremony where Indian and Pakistani guards march in a highly choreographed display. It is about a 30-km drive from Amritsar and a standard stop on the Punjab circuit. (sourced from r/india_tourism border posts)",
+   "wiki": "",
+   "source": "reddit"
   },
   "Bathinda": {
    "img": "img/amritsar-chandigarh/bathinda.jpg",
    "desc": "Bathinda is a city and municipal corporation in Punjab, India. The city is the administrative headquarters of Bathinda district. It is located in northwestern India in the Malwa region, 227\u00a0km (141\u00a0mi) west of the capital city of Chandigarh and is th",
-   "wiki": "Bathinda"
+   "wiki": "Bathinda",
+   "source": "wikipedia"
   },
   "Chandigarh": {
    "img": "img/amritsar-chandigarh/chandigarh.jpg",
    "desc": "Chandigarh is a city and union territory in northwestern India, serving as a shared capital for the states of Punjab and Haryana. Situated near the foothills of the Shivalik range of Himalayas, it borders Haryana to the east and Punjab in the remaini",
-   "wiki": "Chandigarh"
+   "wiki": "Chandigarh",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Amritsar": "Amritsar, also known as Ambarsar, is the second-largest city in the Indian state of Punjab, after Ludhiana. Located in the Majha region, it is a major cultural, transportation and economic centre. The city is the administrative headquarters of the Am",
+  "Wagah Border": "The India\u2013Pakistan border crossing near Amritsar, famous for the daily Beating Retreat ceremony where Indian and Pakistani guards march in a highly choreographed display. It is about a 30-km drive from Amritsar and a standard stop on the Punjab circuit. (sourced from r/india_tourism border posts)",
   "Bathinda": "Bathinda is a city and municipal corporation in Punjab, India. The city is the administrative headquarters of Bathinda district. It is located in northwestern India in the Malwa region, 227\u00a0km (141\u00a0mi) west of the capital city of Chandigarh and is th",
   "Chandigarh": "Chandigarh is a city and union territory in northwestern India, serving as a shared capital for the states of Punjab and Haryana. Situated near the foothills of the Shivalik range of Himalayas, it borders Haryana to the east and Punjab in the remaini"
  }

@@ -5391,31 +5391,39 @@
   "Mumbai": {
    "img": "img/mumbai-ajanta-ellora/mumbai.jpg",
    "desc": "Mumbai, also known as Bombay, is the capital city of the Indian state of Maharashtra. It is the financial capital and the most populous city proper of India, with an estimated population of 12.5 million (1.25\u00a0crore). Mumbai is the centre of the Mumba",
-   "wiki": "Mumbai"
+   "wiki": "Mumbai",
+   "source": "wikipedia"
   },
   "Aurangabad": {
    "img": "img/mumbai-ajanta-ellora/aurangabad.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Our Family Road Trip from Pune to Aurangabad \u2013 Day 1: Grishneshwar Jyotirlinga + Ellora Caves in Tata Safari! Any tips for Ajanta on Day 2 Last weekend, we (me, wife, and kid) took our Tata Safari for a quick family road trip from Pune to Aurangabad.",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Ellora Caves": {
    "img": "img/mumbai-ajanta-ellora/ellora_caves.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Ajanta and Ellora Caves, Maharashtra** \u2014 Rock-cut Buddhist, Hindu and Jain caves carved between the second century BC and the eleventh century AD, containing paintings and sculptures so detailed and so preserved that standing inside them feels closer",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Ajanta Caves": {
    "img": "img/mumbai-ajanta-ellora/ajanta_caves.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "I\u2019d love to potentially see the Taj Mahal and the Ajanta Caves on my trip but would love advice on which other cities and landmarks to visit on my way from my starting city to Nepal. Next heading south to see the Ellora/Ajanta caves and then on to so",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Nashik": {
    "img": "img/mumbai-ajanta-ellora/nashik.jpg",
    "desc": "Nashik, formerly Nasik, is a city in the northern region of the Indian state of Maharashtra situated on the banks of the river Godavari, about 165\u00a0km (103\u00a0mi) northeast of the state capital Mumbai. The city lies in the Nashik Metropolitan Region. It ",
-   "wiki": "Nashik"
+   "wiki": "Nashik",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Mumbai": "Mumbai, also known as Bombay, is the capital city of the Indian state of Maharashtra. It is the financial capital and the most populous city proper of India, with an estimated population of 12.5 million (1.25\u00a0crore). Mumbai is the centre of the Mumba",
+  "Aurangabad": "Our Family Road Trip from Pune to Aurangabad \u2013 Day 1: Grishneshwar Jyotirlinga + Ellora Caves in Tata Safari! Any tips for Ajanta on Day 2 Last weekend, we (me, wife, and kid) took our Tata Safari for a quick family road trip from Pune to Aurangabad.",
+  "Ellora Caves": "Ajanta and Ellora Caves, Maharashtra** \u2014 Rock-cut Buddhist, Hindu and Jain caves carved between the second century BC and the eleventh century AD, containing paintings and sculptures so detailed and so preserved that standing inside them feels closer",
+  "Ajanta Caves": "I\u2019d love to potentially see the Taj Mahal and the Ajanta Caves on my trip but would love advice on which other cities and landmarks to visit on my way from my starting city to Nepal. Next heading south to see the Ellora/Ajanta caves and then on to so",
   "Nashik": "Nashik, formerly Nasik, is a city in the northern region of the Indian state of Maharashtra situated on the banks of the river Godavari, about 165\u00a0km (103\u00a0mi) northeast of the state capital Mumbai. The city lies in the Nashik Metropolitan Region. It "
  }
 }

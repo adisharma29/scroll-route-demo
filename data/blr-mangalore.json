@@ -16027,22 +16027,26 @@
   "Bengaluru": {
    "img": "img/blr-mangalore/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Hassan": {
    "img": "img/blr-mangalore/hassan.jpg",
    "desc": "Hassan or H\u0101sana is a city, taluk and district headquarter of Hassan district in Karnataka state of India. It is a prominent city, located in the South-Western region of Karnataka and serves as a centre for agriculture, Heritage tourism and trade. It",
-   "wiki": "Hassan,_Karnataka"
+   "wiki": "Hassan,_Karnataka",
+   "source": "wikipedia"
   },
   "Sakleshpur": {
    "img": "img/blr-mangalore/sakleshpur.jpg",
    "desc": "Sakleshpur or Sakaleshapura, is a town and taluk in Hassan district in the Indian state of Karnataka. The town is located on the banks of Hemavati River and it lies in the Western Ghats range. The distance from Hassan city to Sakleshpur is approximat",
-   "wiki": "Sakleshpur"
+   "wiki": "Sakleshpur",
+   "source": "wikipedia"
   },
   "Mangalore": {
    "img": "img/blr-mangalore/mangalore.jpg",
    "desc": "Mangaluru, formerly called Mangalore, is a major industrial port city in the Indian state of Karnataka and on the west coast of India. It is located between the Arabian Sea and the Western Ghats about 352\u00a0km (219\u00a0mi) west of Bengaluru, the state capi",
-   "wiki": "Mangaluru"
+   "wiki": "Mangaluru",
+   "source": "wikipedia"
   }
  },
  "milestones": {

@@ -11891,30 +11891,39 @@
   "Rishikesh": {
    "img": "img/rishikesh-auli/rishikesh.jpg",
    "desc": "Rishikesh or Hrishikesh is a municipal corporation and tehsil of the Dehradun district of the Indian state Uttarakhand. It is situated on the right bank of the Ganges river and is a pilgrimage town for Hindus associated with famous sages and yogis. T",
-   "wiki": "Rishikesh"
+   "wiki": "Rishikesh",
+   "source": "wikipedia"
   },
   "Devprayag": {
    "img": "img/rishikesh-auli/devprayag.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Two weeks in Rishikesh, full mix - morning yoga, conscious-party scene at night (cacao, ecstatic dance, sound healing, kirtan at ECHOS), proper adventure in between (Jumpin Heights bungee + Aquaterra rafting), and the quiet stuff most people miss (Va",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Srinagar (Garhwal)": {
    "img": "img/rishikesh-auli/srinagar_(garhwal).jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Planning to relocate to Srinagar Garhwal (HNBGU area). I'm a 23-year-old from Madhya Pradesh and I'm seriously considering relocating to Srinagar Garhwal for the next phase of my life. I'd be grateful if you could share your experiences, especially r",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Joshimath": {
    "img": "img/rishikesh-auli/joshimath.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "The base town for the Valley of Flowers and Hemkund treks on the Badrinath highway, sitting just before the climb to the high valleys. Road trippers stop here before continuing towards Auli (a few km beyond) or up to Badrinath. (sourced from r/SoloTravel_India Uttarakhand posts)",
+   "wiki": "",
+   "source": "reddit"
   },
   "Auli": {
    "img": "img/rishikesh-auli/auli.jpg",
-   "desc": "",
-   "wiki": "Auli,_Uttarakhand"
+   "desc": "A high-altitude ski resort in Uttarakhand reachable by cable car from Joshimath, at roughly 2,800 m. It is known for the best ski slopes in India, views of Nanda Devi and Trishul, and the long gondola ride up from Joshimath. (sourced from r/SoloTravel_India Uttarakhand threads)",
+   "wiki": "Auli,_Uttarakhand",
+   "source": "reddit"
   }
  },
  "milestones": {
-  "Rishikesh": "Rishikesh or Hrishikesh is a municipal corporation and tehsil of the Dehradun district of the Indian state Uttarakhand. It is situated on the right bank of the Ganges river and is a pilgrimage town for Hindus associated with famous sages and yogis. T"
+  "Rishikesh": "Rishikesh or Hrishikesh is a municipal corporation and tehsil of the Dehradun district of the Indian state Uttarakhand. It is situated on the right bank of the Ganges river and is a pilgrimage town for Hindus associated with famous sages and yogis. T",
+  "Devprayag": "Two weeks in Rishikesh, full mix - morning yoga, conscious-party scene at night (cacao, ecstatic dance, sound healing, kirtan at ECHOS), proper adventure in between (Jumpin Heights bungee + Aquaterra rafting), and the quiet stuff most people miss (Va",
+  "Srinagar (Garhwal)": "Planning to relocate to Srinagar Garhwal (HNBGU area). I'm a 23-year-old from Madhya Pradesh and I'm seriously considering relocating to Srinagar Garhwal for the next phase of my life. I'd be grateful if you could share your experiences, especially r",
+  "Joshimath": "The base town for the Valley of Flowers and Hemkund treks on the Badrinath highway, sitting just before the climb to the high valleys. Road trippers stop here before continuing towards Auli (a few km beyond) or up to Badrinath. (sourced from r/SoloTravel_India Uttarakhand posts)",
+  "Auli": "A high-altitude ski resort in Uttarakhand reachable by cable car from Joshimath, at roughly 2,800 m. It is known for the best ski slopes in India, views of Nanda Devi and Trishul, and the long gondola ride up from Joshimath. (sourced from r/SoloTravel_India Uttarakhand threads)"
  }
 }

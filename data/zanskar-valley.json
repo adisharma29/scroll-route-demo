@@ -16024,12 +16024,14 @@
   "Kargil": {
    "img": "img/zanskar-valley/kargil.jpg",
    "desc": "Kargil or Kargyil is a city and headqurter of eponymous district, tehsil, and community development block in Indian-administered Ladakh in the disputed Kashmir region. It is the joint capital of Ladakh, an Indian-administered union territory, and the",
-   "wiki": "Kargil"
+   "wiki": "Kargil",
+   "source": "wikipedia"
   },
   "Sankoo": {
    "img": "img/zanskar-valley/sankoo.png",
-   "desc": "",
-   "wiki": ""
+   "desc": "Day 10: Kargil to Rangdum via Lankarche, Sankoo, Purtikche, beautiful Suru valley, Parkachik Glacier View Point, Rangdum valley.",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Panikhar": {
    "img": "img/zanskar-valley/panikhar.jpg",
@@ -16038,22 +16040,28 @@
   },
   "Shinku La": {
    "img": "img/zanskar-valley/shinku_la.jpg",
-   "desc": "",
-   "wiki": "Shinkula_Pass"
+   "desc": "A high mountain pass (~16,600 ft) on the Zanskar\u2013Lahaul road, one of the highest motorable passes in the region. It is a highlight of the Leh\u2013Padum\u2013Manali circuit; road condition and snow reports are posted regularly on travel threads. (sourced from r/SoloTravel_India pass-status posts)",
+   "wiki": "Shinkula_Pass",
+   "source": "reddit"
   },
   "Rangdum": {
    "img": "img/zanskar-valley/rangdum.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Day 10: Kargil to Rangdum via Lankarche, Sankoo, Purtikche, beautiful Suru valley, Parkachik Glacier View Point, Rangdum valley. Day 11: Rangdum to Padum via Penzi La pass, Drang Drung Glacier View Point, Stod Valley, Phey, Sani Lake, Sani Monastery,",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Padum": {
    "img": "img/zanskar-valley/padum.jpg",
    "desc": "Padum, is a town and the administrative headquarter of the Zanskar district of Ladakh in India. Named after the Buddhist guru Padmasambhava, it was historically one of the two main capitals of the Zanskar Kingdom, the other being Zangla.",
-   "wiki": "Padum"
+   "wiki": "Padum",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Kargil": "Kargil or Kargyil is a city and headqurter of eponymous district, tehsil, and community development block in Indian-administered Ladakh in the disputed Kashmir region. It is the joint capital of Ladakh, an Indian-administered union territory, and the",
+  "Sankoo": "Day 10: Kargil to Rangdum via Lankarche, Sankoo, Purtikche, beautiful Suru valley, Parkachik Glacier View Point, Rangdum valley.",
+  "Shinku La": "A high mountain pass (~16,600 ft) on the Zanskar\u2013Lahaul road, one of the highest motorable passes in the region. It is a highlight of the Leh\u2013Padum\u2013Manali circuit; road condition and snow reports are posted regularly on travel threads. (sourced from r/SoloTravel_India pass-status posts)",
+  "Rangdum": "Day 10: Kargil to Rangdum via Lankarche, Sankoo, Purtikche, beautiful Suru valley, Parkachik Glacier View Point, Rangdum valley. Day 11: Rangdum to Padum via Penzi La pass, Drang Drung Glacier View Point, Stod Valley, Phey, Sani Lake, Sani Monastery,",
   "Padum": "Padum, is a town and the administrative headquarter of the Zanskar district of Ladakh in India. Named after the Buddhist guru Padmasambhava, it was historically one of the two main capitals of the Zanskar Kingdom, the other being Zangla."
  }
 }

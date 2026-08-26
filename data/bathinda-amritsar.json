@@ -4918,7 +4918,8 @@
   "Bathinda": {
    "img": "img/bathinda-amritsar/bathinda.jpg",
    "desc": "Bathinda is a city and municipal corporation in Punjab, India. The city is the administrative headquarters of Bathinda district. It is located in northwestern India in the Malwa region, 227\u00a0km (141\u00a0mi) west of the capital city of Chandigarh and is th",
-   "wiki": "Bathinda"
+   "wiki": "Bathinda",
+   "source": "wikipedia"
   },
   "Faridkot": {
    "img": "img/bathinda-amritsar/faridkot.jpg",
@@ -4927,17 +4928,20 @@
   },
   "Tarn Taran": {
    "img": "img/bathinda-amritsar/tarn_taran.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "# The Author: Bh\u0101\u012b Santokh Singh Santokh Singh was born on 8 October 1787 in the village of Sarai N\u016brudd\u012bn (also rendered Nurudin), roughly seven kilometres northwest of Tarn Taran in the Amritsar district of the Punjab, to Bh\u0101\u012b Dev\u0101 Singh and Bibi R",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Amritsar": {
    "img": "img/bathinda-amritsar/amritsar.jpg",
    "desc": "Amritsar, also known as Ambarsar, is the second-largest city in the Indian state of Punjab, after Ludhiana. Located in the Majha region, it is a major cultural, transportation and economic centre. The city is the administrative headquarters of the Am",
-   "wiki": "Amritsar"
+   "wiki": "Amritsar",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Bathinda": "Bathinda is a city and municipal corporation in Punjab, India. The city is the administrative headquarters of Bathinda district. It is located in northwestern India in the Malwa region, 227\u00a0km (141\u00a0mi) west of the capital city of Chandigarh and is th",
+  "Tarn Taran": "# The Author: Bh\u0101\u012b Santokh Singh Santokh Singh was born on 8 October 1787 in the village of Sarai N\u016brudd\u012bn (also rendered Nurudin), roughly seven kilometres northwest of Tarn Taran in the Amritsar district of the Punjab, to Bh\u0101\u012b Dev\u0101 Singh and Bibi R",
   "Amritsar": "Amritsar, also known as Ambarsar, is the second-largest city in the Indian state of Punjab, after Ludhiana. Located in the Majha region, it is a major cultural, transportation and economic centre. The city is the administrative headquarters of the Am"
  }
 }

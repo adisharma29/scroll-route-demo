@@ -13278,33 +13278,40 @@
  "milestone_info": {
   "Mysuru": {
    "img": "img/ooty-coonoor/mysuru.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "The former capital of the Wadiyar dynasty, dominated by the grand Mysuru Palace that blends Indo-Saracenic, Rajput, Hindu and Gothic styles. Road trippers from Bengaluru make it the classic first stop for the overnight palace light-up. (sourced from r/travel Top 10 Places in Mysuru)",
+   "wiki": "",
+   "source": "reddit"
   },
   "Bandipur": {
    "img": "img/ooty-coonoor/bandipur.jpg",
    "desc": "Bandipur National Park is a national park covering 1,456.3\u00a0km2 (562.3\u00a0sq\u00a0mi) in Chamarajnagar district in the Indian state of Karnataka. It was established as a tiger reserve under Project Tiger in 1973.\nIt is part of the Nilgiri Biosphere Reserve si",
-   "wiki": "Bandipur_National_Park"
+   "wiki": "Bandipur_National_Park",
+   "source": "wikipedia"
   },
   "Ooty": {
    "img": "img/ooty-coonoor/ooty.jpg",
    "desc": "Ooty is a town and seat of the Nilgiris district in the Indian state of Tamil Nadu. It is located at an altitude of 2,240\u00a0m (7,350\u00a0ft), in the Nilgiri Mountains, which forms part of the Western Ghats, and is known by the epithet \"Queen of hill statio",
-   "wiki": "Ooty"
+   "wiki": "Ooty",
+   "source": "wikipedia"
   },
   "Doddabetta": {
    "img": "img/ooty-coonoor/doddabetta.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "**Popular attractions:**  Ooty Lake, Botanical Gardens, Doddabetta Peak. **Day 3:**  Morning - Visit Doddabetta Peak for panoramic views. Worst time for Doddabetta views (cloud cover).",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Coonoor": {
    "img": "img/ooty-coonoor/coonoor.jpg",
    "desc": "Coonoor or Kunnur, is a taluk and a municipal town of the Nilgiris District in the Indian state of Tamil Nadu. As of 2011, the town had a population of 45,494. The town, located in the Nilgiri plateau, is at the head of the Coonoor Ghat, the principa",
-   "wiki": "Coonoor"
+   "wiki": "Coonoor",
+   "source": "wikipedia"
   }
  },
  "milestones": {
+  "Mysuru": "The former capital of the Wadiyar dynasty, dominated by the grand Mysuru Palace that blends Indo-Saracenic, Rajput, Hindu and Gothic styles. Road trippers from Bengaluru make it the classic first stop for the overnight palace light-up. (sourced from r/travel Top 10 Places in Mysuru)",
   "Bandipur": "Bandipur National Park is a national park covering 1,456.3\u00a0km2 (562.3\u00a0sq\u00a0mi) in Chamarajnagar district in the Indian state of Karnataka. It was established as a tiger reserve under Project Tiger in 1973.\nIt is part of the Nilgiri Biosphere Reserve si",
   "Ooty": "Ooty is a town and seat of the Nilgiris district in the Indian state of Tamil Nadu. It is located at an altitude of 2,240\u00a0m (7,350\u00a0ft), in the Nilgiri Mountains, which forms part of the Western Ghats, and is known by the epithet \"Queen of hill statio",
+  "Doddabetta": "**Popular attractions:**  Ooty Lake, Botanical Gardens, Doddabetta Peak. **Day 3:**  Morning - Visit Doddabetta Peak for panoramic views. Worst time for Doddabetta views (cloud cover).",
   "Coonoor": "Coonoor or Kunnur, is a taluk and a municipal town of the Nilgiris District in the Indian state of Tamil Nadu. As of 2011, the town had a population of 45,494. The town, located in the Nilgiri plateau, is at the head of the Coonoor Ghat, the principa"
  }
 }

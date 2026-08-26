@@ -11409,22 +11409,26 @@
   "Bengaluru": {
    "img": "img/blr-yelagiri/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Hosur": {
    "img": "img/blr-yelagiri/hosur.jpg",
    "desc": "Hosur is an industrial city located in the Tamil Nadu state of India. Hosur is one of the 21 municipal corporations in Tamil Nadu. It is located on the bank of the river River Ponnaiyar, 40 kilometres (25\u00a0mi) southeast of Bengaluru and 306 kilometres",
-   "wiki": "Hosur"
+   "wiki": "Hosur",
+   "source": "wikipedia"
   },
   "Krishnagiri": {
    "img": "img/blr-yelagiri/krishnagiri.jpg",
    "desc": "Krishnagiri is a town in the state of Tamil Nadu, India, and it serves as the administrative headquarters of Krishnagiri District formed in 2004. It is located at the bottom of Krishnadevaraya Hills, and the city is fully surrounded by hill rocks. It",
-   "wiki": "Krishnagiri"
+   "wiki": "Krishnagiri",
+   "source": "wikipedia"
   },
   "Yelagiri": {
    "img": "img/blr-yelagiri/yelagiri.jpg",
    "desc": "Yelagiri, also spelled Elagiri, is a hill station located in Tirupathur district of Tamil Nadu, India. Located at an altitude of 1,410\u00a0m (4,630\u00a0ft), it forms a part of the Eastern Ghats mountain range. The hills consist of 14 hamlets spread across an",
-   "wiki": "Yelagiri"
+   "wiki": "Yelagiri",
+   "source": "wikipedia"
   }
  },
  "milestones": {

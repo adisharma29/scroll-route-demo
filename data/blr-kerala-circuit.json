@@ -16030,37 +16030,44 @@
   "Bengaluru": {
    "img": "img/blr-kerala-circuit/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Salem": {
    "img": "img/blr-kerala-circuit/salem.jpg",
    "desc": "Salem is a city in the Indian state of Tamil Nadu. It is located on the banks of the Thirumanimutharu River and surrounded by the Eastern Ghats. It is the fifth largest city in the state as per the 2011 census. It is the administrative capital of Sal",
-   "wiki": "Salem,_Tamil_Nadu"
+   "wiki": "Salem,_Tamil_Nadu",
+   "source": "wikipedia"
   },
   "Kochi": {
    "img": "img/blr-kerala-circuit/kochi.jpg",
    "desc": "Kochi, formerly known as Cochin, is a major port city along the Malabar Coast of India bordering the Laccadive Sea. It is part of the district of Ernakulam in the state of Kerala. The city is also commonly referred to as Ernakulam, which is its centr",
-   "wiki": "Kochi"
+   "wiki": "Kochi",
+   "source": "wikipedia"
   },
   "Munnar": {
    "img": "img/blr-kerala-circuit/munnar.jpg",
    "desc": "Munnar is a town located in the Idukki district of the southwestern Indian state of Kerala. Munnar is situated at around 1,600 metres (5,200\u00a0ft) above mean sea level, in the Western Ghats mountain range. This ancient plantation settlement, dominated ",
-   "wiki": "Munnar"
+   "wiki": "Munnar",
+   "source": "wikipedia"
   },
   "Athirapally": {
    "img": "img/blr-kerala-circuit/athirapally.jpg",
    "desc": "Athirappilly Falls is situated in Athirappilly Panchayat in Chalakudy Taluk of Thrissur District in Kerala, India on the Chalakudy River, which originates from the upper reaches of the Western Ghats at the entrance to the Sholayar ranges. It is the l",
-   "wiki": "Athirappilly_Falls"
+   "wiki": "Athirappilly_Falls",
+   "source": "wikipedia"
   },
   "Alappuzha": {
    "img": "img/blr-kerala-circuit/alappuzha.jpg",
    "desc": "Alappuzha or Alleppey is a municipality and town on the Laccadive Sea in the southern Indian state of Kerala. It is the district headquarters of the Alappuzha District, and is located about 130\u00a0km (80.8\u00a0mi) north of the state capital Thiruvananthapur",
-   "wiki": "Alappuzha"
+   "wiki": "Alappuzha",
+   "source": "wikipedia"
   },
   "Kumarakom": {
    "img": "img/blr-kerala-circuit/kumarakom.jpg",
    "desc": "Kumarakom is a tourism destination near the city of Kottayam in Kerala, India. It is near the Vembanad Lake, the largest lake in the state of Kerala. In January 2023 The New York Times mentioned Kumarakom's backwater tourism.",
-   "wiki": "Kumarakom"
+   "wiki": "Kumarakom",
+   "source": "wikipedia"
   }
  },
  "milestones": {

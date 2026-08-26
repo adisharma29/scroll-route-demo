@@ -16028,27 +16028,32 @@
   "Bengaluru": {
    "img": "img/blr-hampi/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Chitradurga": {
    "img": "img/blr-hampi/chitradurga.jpg",
    "desc": "Chitradurga is a city and the headquarters of Chitradurga district, which is located on the valley of the Vedavati river in the central part of the Indian state of Karnataka. Chitradurga is a place with historical significance and a major tourist hub",
-   "wiki": "Chitradurga"
+   "wiki": "Chitradurga",
+   "source": "wikipedia"
   },
   "Bellary": {
    "img": "img/blr-hampi/bellary.jpg",
    "desc": "Ballari is a city in the Ballari district in state of Karnataka, India.",
-   "wiki": "Bellary"
+   "wiki": "Bellary",
+   "source": "wikipedia"
   },
   "Hospet": {
    "img": "img/blr-hampi/hospet.jpg",
    "desc": "Hospet is the largest and fastest-growing industrial city and district headquarters of the Vijayanagara district in the Indian state of Karnataka. Hospet is known as \"the steel city of Karnataka\". It is located on the bank of the Tungabhadra River an",
-   "wiki": "Hospet"
+   "wiki": "Hospet",
+   "source": "wikipedia"
   },
   "Hampi": {
    "img": "img/blr-hampi/hampi.jpg",
    "desc": "Hampi or Hampe, also referred to as the Group of Monuments at Hampi, is a UNESCO World Heritage Site located in the town of Hampi in Vijayanagara district, east-central Karnataka, India. Hampi predates the Vijayanagara Empire; it is mentioned in the ",
-   "wiki": "Hampi"
+   "wiki": "Hampi",
+   "source": "wikipedia"
   }
  },
  "milestones": {

@@ -6942,12 +6942,14 @@
   "Bengaluru": {
    "img": "img/blr-kokkarebellur/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Maddur": {
    "img": "img/blr-kokkarebellur/maddur.jpg",
    "desc": "Maddur may refer to:Maddur, Mahbubnagar, Telangana, India\nMaddur, Mandya, Karnataka, India\nMaddur railway bridge collapse, 1897\nMaddur, Ranga Reddy, Telangana, India",
-   "wiki": "Maddur"
+   "wiki": "Maddur",
+   "source": "wikipedia"
   },
   "Kokkarebellur": {
    "img": "img/blr-kokkarebellur/kokkarebellur.jpg",

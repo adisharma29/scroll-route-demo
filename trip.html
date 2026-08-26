@@ -146,6 +146,7 @@ function buildMilestoneCards(){
     const info = MILESTONE_INFO[cp.name] || {};
     const ms = MILESTONES[cp.name] || info.desc || '';
     const img = info.img || '';
+    const src = info.source || (info.desc ? (info.wiki ? 'wikipedia' : '') : '');
     const card = document.createElement('div');
     card.className='milestone-card';
     card.id='ms-'+i;
@@ -155,7 +156,10 @@ function buildMilestoneCards(){
     html += '<div class="body">';
     html += '<div class="mn">'+cp.name+'</div>';
     if(ms) html += '<div class="md">'+ms+'</div>';
-    html += '<div class="mk">~'+Math.round(cp.t * TOTALKM)+' km from start</div>';
+    html += '<div class="mk">~'+Math.round(cp.t * TOTALKM)+' km from start';
+    if(src === 'reddit') html += ' · sourced from Reddit';
+    else if(src === 'wikipedia') html += ' · Wikipedia (CC)';
+    html += '</div>';
     html += '</div>';
     card.innerHTML = html;
     inner.appendChild(card);

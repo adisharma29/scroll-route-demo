@@ -9138,7 +9138,8 @@
   "Ahmedabad": {
    "img": "img/ahmedabad-udaipur/ahmedabad.jpg",
    "desc": "Ahmedabad, also spelt Amdavad and historically known as Karnavati, is the most populous city in the Indian state of Gujarat. It is the administrative headquarters of the Ahmedabad district and the seat of the Gujarat High Court. Ahmedabad's populatio",
-   "wiki": "Ahmedabad"
+   "wiki": "Ahmedabad",
+   "source": "wikipedia"
   },
   "Himmatnagar": {
    "img": "img/ahmedabad-udaipur/himmatnagar.jpg",
@@ -9153,7 +9154,8 @@
   "Udaipur": {
    "img": "img/ahmedabad-udaipur/udaipur.jpg",
    "desc": "Udaipur is a city in the north-western Indian state of Rajasthan, about 415\u00a0km (258\u00a0mi) south of the state capital Jaipur. It serves as the administrative headquarters of Udaipur district. It is the historic capital of the kingdom of Mewar in the for",
-   "wiki": "Udaipur"
+   "wiki": "Udaipur",
+   "source": "wikipedia"
   }
  },
  "milestones": {

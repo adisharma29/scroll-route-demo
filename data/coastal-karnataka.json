@@ -9995,38 +9995,47 @@
  "milestone_info": {
   "Gokarna": {
    "img": "img/coastal-karnataka/gokarna.jpg",
-   "desc": "Gokarna may refer to:",
-   "wiki": "Gokarna"
+   "desc": "A laid-back coastal town in Karnataka's Uttara Kannada district, famous for Om Beach, the Mahabaleshwar Temple and a string of beaches along the Arabian Sea. Popular with backpackers and road trippers, it sits roughly halfway down the western coast between Goa and Mangalore. (Wikipedia extract)",
+   "wiki": "Gokarna",
+   "source": "wikipedia"
   },
   "Honnavar": {
    "img": "img/coastal-karnataka/honnavar.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Wanna visit beautiful places Hi I am 23F I have visited -  Nandi hills Shivagange Devarayana Durga Hills Mandagiri Hills Badami, Aihole, Pattadkallu, Yalgur, Mahakoot Sidalpadi Gokarna, Murdeshwar, Honnavar Goa Dandeli Matheran Skandagiri Kolakumalai",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Murudeshwar": {
    "img": "img/coastal-karnataka/murudeshwar.jpg",
    "desc": "Murdeshwar or Murudeshwara is a town in Uttara Kannada district in the state of Karnataka, India, and lies on the coast of the Arabian Sea. It contains the world's third tallest Shiva statue, as well as the Murudeshwara Temple. The town has a railway",
-   "wiki": "Murdeshwar"
+   "wiki": "Murdeshwar",
+   "source": "wikipedia"
   },
   "Maravanthe": {
    "img": "img/coastal-karnataka/maravanthe.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Took a ride on the Maravanthe Beach road and stopped every 15 mins to take pictures courtesy of my auto bhaiya. Manipal \u2192 Maravanthe \u2192 Murudeshwar \u2192 Gokarna ~250 km  3.",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Udupi": {
    "img": "img/coastal-karnataka/udupi.jpg",
    "desc": "Udupi is a city in the Indian state of Karnataka. It is the administrative headquarters and taluka of Udupi district, and one of the fastest-growing cities in Karnataka. Udupi is one of the top tourist attractions in Karnataka and has various educati",
-   "wiki": "Udupi"
+   "wiki": "Udupi",
+   "source": "wikipedia"
   },
   "Mangaluru": {
    "img": "img/coastal-karnataka/mangaluru.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Kerala to get India\u2019s first VB sleeper on Thiruvananthapuram-Mangaluru route Src : https://timesofindia.indiatimes.com/life-style/travel/destinations/kerala-to-get-indias-first-vande-bharat-sleeper-train-on-thiruvananthapuram-mangaluru-route/articles",
+   "wiki": "",
+   "source": "wikipedia"
   }
  },
  "milestones": {
-  "Gokarna": "Gokarna may refer to:",
+  "Gokarna": "A laid-back coastal town in Karnataka's Uttara Kannada district, famous for Om Beach, the Mahabaleshwar Temple and a string of beaches along the Arabian Sea. Popular with backpackers and road trippers, it sits roughly halfway down the western coast between Goa and Mangalore. (Wikipedia extract)",
+  "Honnavar": "Wanna visit beautiful places Hi I am 23F I have visited -  Nandi hills Shivagange Devarayana Durga Hills Mandagiri Hills Badami, Aihole, Pattadkallu, Yalgur, Mahakoot Sidalpadi Gokarna, Murdeshwar, Honnavar Goa Dandeli Matheran Skandagiri Kolakumalai",
   "Murudeshwar": "Murdeshwar or Murudeshwara is a town in Uttara Kannada district in the state of Karnataka, India, and lies on the coast of the Arabian Sea. It contains the world's third tallest Shiva statue, as well as the Murudeshwara Temple. The town has a railway",
-  "Udupi": "Udupi is a city in the Indian state of Karnataka. It is the administrative headquarters and taluka of Udupi district, and one of the fastest-growing cities in Karnataka. Udupi is one of the top tourist attractions in Karnataka and has various educati"
+  "Maravanthe": "Took a ride on the Maravanthe Beach road and stopped every 15 mins to take pictures courtesy of my auto bhaiya. Manipal \u2192 Maravanthe \u2192 Murudeshwar \u2192 Gokarna ~250 km  3.",
+  "Udupi": "Udupi is a city in the Indian state of Karnataka. It is the administrative headquarters and taluka of Udupi district, and one of the fastest-growing cities in Karnataka. Udupi is one of the top tourist attractions in Karnataka and has various educati",
+  "Mangaluru": "Kerala to get India\u2019s first VB sleeper on Thiruvananthapuram-Mangaluru route Src : https://timesofindia.indiatimes.com/life-style/travel/destinations/kerala-to-get-indias-first-vande-bharat-sleeper-train-on-thiruvananthapuram-mangaluru-route/articles"
  }
 }

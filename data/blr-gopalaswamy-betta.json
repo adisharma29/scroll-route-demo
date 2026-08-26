@@ -12135,22 +12135,26 @@
   "Bengaluru": {
    "img": "img/blr-gopalaswamy-betta/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Mysore": {
    "img": "img/blr-gopalaswamy-betta/mysore.jpg",
    "desc": "Mysore, officially Mysuru, is a city in the southern Indian state of Karnataka. It is the administrative headquarters of Mysore district and Mysore division. As the traditional seat of the Wadiyar dynasty, the city functioned as the capital of the Ki",
-   "wiki": "Mysore"
+   "wiki": "Mysore",
+   "source": "wikipedia"
   },
   "Nanjangud": {
    "img": "img/blr-gopalaswamy-betta/nanjangud.jpg",
    "desc": "Nanjangud, officially known as Nanjanagudu, is a town and taluka in the Indian state of Karnataka. It lies on the banks of the river Kabini, 23 km from the city of Mysore. Nanjangud is famous for its Srikanteshwara Temple. Nanjangud is also called th",
-   "wiki": "Nanjangud"
+   "wiki": "Nanjangud",
+   "source": "wikipedia"
   },
   "Gopalaswamy Betta": {
    "img": "img/blr-gopalaswamy-betta/gopalaswamy_betta.jpg",
    "desc": "Himavad Gopalaswamy Betta, is a hill located in the Gundlupete Taluk, Chamarajanagar district of the state of Karnataka, India at a height of 1450m and is extensively wooded. It is also the highest peak in the Bandipur National Park. It lies in the c",
-   "wiki": "Himavad_Gopalaswamy_Betta"
+   "wiki": "Himavad_Gopalaswamy_Betta",
+   "source": "wikipedia"
   }
  },
  "milestones": {

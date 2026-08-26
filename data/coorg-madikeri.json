@@ -10089,17 +10089,20 @@
   "Bengaluru": {
    "img": "img/coorg-madikeri/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Mysuru": {
    "img": "img/coorg-madikeri/mysuru.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "The former capital of the Wadiyar dynasty, dominated by the grand Mysuru Palace that blends Indo-Saracenic, Rajput, Hindu and Gothic styles. Road trippers from Bengaluru make it the classic first stop for the overnight palace light-up. (sourced from r/travel Top 10 Places in Mysuru)",
+   "wiki": "",
+   "source": "reddit"
   },
   "Kushalnagar": {
    "img": "img/coorg-madikeri/kushalnagar.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "The main town on the Mysore\u2013Coorg road, ~35 km from Madikeri. Road trippers heading to Coorg usually stop here for brunch and to visit the Namdroling Monastery (Golden Temple), one of the largest Tibetan monasteries in India. (sourced from r/coorg trip planning threads)",
+   "wiki": "",
+   "source": "reddit"
   },
   "Gonikoppal": {
    "img": "img/coorg-madikeri/gonikoppal.jpg",
@@ -10109,21 +10112,28 @@
   "Madikeri": {
    "img": "img/coorg-madikeri/madikeri.jpg",
    "desc": "Madikeri, earlier called as Mercara is city and headquarters of Kodagu district in the Karnataka state of India. It is recognised as one of the world's eight \"hottest hotspots\" of biological diversity and is also a UNESCO World Heritage Site. The cit",
-   "wiki": "Madikeri"
+   "wiki": "Madikeri",
+   "source": "wikipedia"
   },
   "Abbey Falls": {
    "img": "img/coorg-madikeri/abbey_falls.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Taken at Koti Abbey Falls, Coorg, India. Take a stroll through **Abbey Falls**, enjoy a scenic drive around **Raja\u2019s Seat**, and relish a private coffee-tasting experience. \u2022\tCoorg: Coffee plantations, Abbey Falls.",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Dubare": {
    "img": "img/coorg-madikeri/dubare.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Also, since it was dusshera long weekend, places like Dubare Elephant Camp were jam-packed.",
+   "wiki": "",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Bengaluru": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-  "Madikeri": "Madikeri, earlier called as Mercara is city and headquarters of Kodagu district in the Karnataka state of India. It is recognised as one of the world's eight \"hottest hotspots\" of biological diversity and is also a UNESCO World Heritage Site. The cit"
+  "Mysuru": "The former capital of the Wadiyar dynasty, dominated by the grand Mysuru Palace that blends Indo-Saracenic, Rajput, Hindu and Gothic styles. Road trippers from Bengaluru make it the classic first stop for the overnight palace light-up. (sourced from r/travel Top 10 Places in Mysuru)",
+  "Kushalnagar": "The main town on the Mysore\u2013Coorg road, ~35 km from Madikeri. Road trippers heading to Coorg usually stop here for brunch and to visit the Namdroling Monastery (Golden Temple), one of the largest Tibetan monasteries in India. (sourced from r/coorg trip planning threads)",
+  "Madikeri": "Madikeri, earlier called as Mercara is city and headquarters of Kodagu district in the Karnataka state of India. It is recognised as one of the world's eight \"hottest hotspots\" of biological diversity and is also a UNESCO World Heritage Site. The cit",
+  "Abbey Falls": "Taken at Koti Abbey Falls, Coorg, India. Take a stroll through **Abbey Falls**, enjoy a scenic drive around **Raja\u2019s Seat**, and relish a private coffee-tasting experience. \u2022\tCoorg: Coffee plantations, Abbey Falls.",
+  "Dubare": "Also, since it was dusshera long weekend, places like Dubare Elephant Camp were jam-packed."
  }
 }

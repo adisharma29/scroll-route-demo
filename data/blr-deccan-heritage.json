@@ -16029,32 +16029,38 @@
   "Bengaluru": {
    "img": "img/blr-deccan-heritage/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Hampi": {
    "img": "img/blr-deccan-heritage/hampi.jpg",
    "desc": "Hampi or Hampe, also referred to as the Group of Monuments at Hampi, is a UNESCO World Heritage Site located in the town of Hampi in Vijayanagara district, east-central Karnataka, India. Hampi predates the Vijayanagara Empire; it is mentioned in the ",
-   "wiki": "Hampi"
+   "wiki": "Hampi",
+   "source": "wikipedia"
   },
   "Gandikota": {
    "img": "img/blr-deccan-heritage/gandikota.jpg",
    "desc": "Gandikota is a village and historical fort on the right bank of the Penna river, 15\u00a0km from Jammalamadugu in Kadapa district, Andhra Pradesh, India. The fort was the centre of power for various dynasties, such as the Kalyani Chalukyas, Pemmasani Naya",
-   "wiki": "Gandikota"
+   "wiki": "Gandikota",
+   "source": "wikipedia"
   },
   "Badami": {
    "img": "img/blr-deccan-heritage/badami.jpg",
    "desc": "B\u0101d\u0101mi, formerly known as V\u0101t\u0101pi, is a town and headquarters of a taluk by the same name, in the Bagalkot district of Karnataka, India. It was the regal capital of the Badami Chalukyas from 540 to 757. It is famous for its rock cut monuments such as ",
-   "wiki": "Badami"
+   "wiki": "Badami",
+   "source": "wikipedia"
   },
   "Aihole": {
    "img": "img/blr-deccan-heritage/aihole.jpg",
    "desc": "Aihole (\u0c90\u0cb9\u0cca\u0cb3\u0cc6), also referred to as Aivalli, Ahivolal or Aryapura, is a historic site of ancient and medieval-era Buddhist, Hindu and Jain monuments in Karnataka, India that dates from the sixth century through the twelfth century CE. Most of the sur",
-   "wiki": "Aihole"
+   "wiki": "Aihole",
+   "source": "wikipedia"
   },
   "Pattadakal": {
    "img": "img/blr-deccan-heritage/pattadakal.jpg",
    "desc": "Pattadakal (Pattadakallu), also called Raktapura, is a complex of 7th and 8th century CE Hindu and Jain temples in northern Karnataka, India. Located on the west bank of the Malaprabha River in Bagalkot district, this UNESCO World Heritage Site is 23",
-   "wiki": "Pattadakal"
+   "wiki": "Pattadakal",
+   "source": "wikipedia"
   }
  },
  "milestones": {

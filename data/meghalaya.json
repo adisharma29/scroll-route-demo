@@ -10967,33 +10967,39 @@
   "Guwahati": {
    "img": "img/meghalaya/guwahati.jpg",
    "desc": "Guwahati, formerly known as Gauhati, is the largest city of the Indian state of Assam, and also the largest metropolis in northeastern India. Dispur, the capital of Assam, is in the circuit city region located within Guwahati and is the seat of the G",
-   "wiki": "Guwahati"
+   "wiki": "Guwahati",
+   "source": "wikipedia"
   },
   "Shillong": {
    "img": "img/meghalaya/shillong.jpg",
    "desc": "Shillong, the capital of Meghalaya, India, is a hill station and the headquarters of the East Khasi Hills district. It is the 330th most populous city in India, with a population of 143,229 according to the 2011 census. It is said that the rolling hi",
-   "wiki": "Shillong"
+   "wiki": "Shillong",
+   "source": "wikipedia"
   },
   "Cherrapunji": {
    "img": "img/meghalaya/cherrapunji.jpg",
    "desc": "Cherrapunji, also known as Sohra, is a sub-divisional town in the East Khasi Hills district in the Indian state of Meghalaya. It was the traditional capital of ka hima Sohra.",
-   "wiki": "Cherrapunji"
+   "wiki": "Cherrapunji",
+   "source": "wikipedia"
   },
   "Mawsynram": {
    "img": "img/meghalaya/mawsynram.jpg",
    "desc": "Mawsynram is a town in the East Khasi Hills district of Meghalaya state in Northeastern India, 69\u00a0km (43\u00a0mi) from Shillong, the state capital. Mawsynram receives the highest rainfall in India. It is reportedly the wettest place on Earth, with an aver",
-   "wiki": "Mawsynram"
+   "wiki": "Mawsynram",
+   "source": "wikipedia"
   },
   "Mawlynnong": {
    "img": "img/meghalaya/mawlynnong.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "I am thinking of North East - specially Mawlynnong and Dawki. [Travel] - Mawlynnong: Exploring the cleanest village in India | The Independent Our rough plan is: * **Meghalaya:** Shillong + Dawki + Mawlynnong, basically the main highlights * **Arunac",
+   "wiki": "",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Guwahati": "Guwahati, formerly known as Gauhati, is the largest city of the Indian state of Assam, and also the largest metropolis in northeastern India. Dispur, the capital of Assam, is in the circuit city region located within Guwahati and is the seat of the G",
   "Shillong": "Shillong, the capital of Meghalaya, India, is a hill station and the headquarters of the East Khasi Hills district. It is the 330th most populous city in India, with a population of 143,229 according to the 2011 census. It is said that the rolling hi",
   "Cherrapunji": "Cherrapunji, also known as Sohra, is a sub-divisional town in the East Khasi Hills district in the Indian state of Meghalaya. It was the traditional capital of ka hima Sohra.",
-  "Mawsynram": "Mawsynram is a town in the East Khasi Hills district of Meghalaya state in Northeastern India, 69\u00a0km (43\u00a0mi) from Shillong, the state capital. Mawsynram receives the highest rainfall in India. It is reportedly the wettest place on Earth, with an aver"
+  "Mawsynram": "Mawsynram is a town in the East Khasi Hills district of Meghalaya state in Northeastern India, 69\u00a0km (43\u00a0mi) from Shillong, the state capital. Mawsynram receives the highest rainfall in India. It is reportedly the wettest place on Earth, with an aver",
+  "Mawlynnong": "I am thinking of North East - specially Mawlynnong and Dawki. [Travel] - Mawlynnong: Exploring the cleanest village in India | The Independent Our rough plan is: * **Meghalaya:** Shillong + Dawki + Mawlynnong, basically the main highlights * **Arunac"
  }
 }

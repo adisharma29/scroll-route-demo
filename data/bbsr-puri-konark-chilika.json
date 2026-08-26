@@ -3642,27 +3642,32 @@
   "Bhubaneswar": {
    "img": "img/bbsr-puri-konark-chilika/bhubaneswar.jpg",
    "desc": "Bhubaneswar is the capital and the largest city of the Indian state of Odisha. It is located in the Khordha district. The suburban region, especially the old town, was historically often depicted as Chakra Khetra and Ekamra Khetra. Bhubaneswar is dub",
-   "wiki": "Bhubaneswar"
+   "wiki": "Bhubaneswar",
+   "source": "wikipedia"
   },
   "Puri": {
    "img": "img/bbsr-puri-konark-chilika/puri.jpg",
    "desc": "Puri most commonly refers to:Puri (city), a city in Odisha\u200c, India\u200c.\nPuri (food), a deep-fried bread made from wheat in India",
-   "wiki": "Puri"
+   "wiki": "Puri",
+   "source": "wikipedia"
   },
   "Konark": {
    "img": "img/bbsr-puri-konark-chilika/konark.jpg",
    "desc": "Konark is a medium-sized town in the Puri district in the state of Odisha, India. It lies on the coast by the Bay of Bengal, 65 kilometres from the state capital Bhubaneswar. It is the site of the 13th-century Sun Temple, also known as the Black Pago",
-   "wiki": "Konark"
+   "wiki": "Konark",
+   "source": "wikipedia"
   },
   "Chilika Lake (Satapada)": {
    "img": "img/bbsr-puri-konark-chilika/chilika_lake_(satapada).jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Also, if we would like to spend the night around Chilika lake/more countryside places - is it easy to find rooms and maybe hop on boat in the morning directly when we are there ?",
+   "wiki": "",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Bhubaneswar": "Bhubaneswar is the capital and the largest city of the Indian state of Odisha. It is located in the Khordha district. The suburban region, especially the old town, was historically often depicted as Chakra Khetra and Ekamra Khetra. Bhubaneswar is dub",
   "Puri": "Puri most commonly refers to:Puri (city), a city in Odisha\u200c, India\u200c.\nPuri (food), a deep-fried bread made from wheat in India",
-  "Konark": "Konark is a medium-sized town in the Puri district in the state of Odisha, India. It lies on the coast by the Bay of Bengal, 65 kilometres from the state capital Bhubaneswar. It is the site of the 13th-century Sun Temple, also known as the Black Pago"
+  "Konark": "Konark is a medium-sized town in the Puri district in the state of Odisha, India. It lies on the coast by the Bay of Bengal, 65 kilometres from the state capital Bhubaneswar. It is the site of the 13th-century Sun Temple, also known as the Black Pago",
+  "Chilika Lake (Satapada)": "Also, if we would like to spend the night around Chilika lake/more countryside places - is it easy to find rooms and maybe hop on boat in the morning directly when we are there ?"
  }
 }

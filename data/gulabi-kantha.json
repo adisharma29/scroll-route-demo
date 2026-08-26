@@ -16022,12 +16022,14 @@
   "Dehradun": {
    "img": "img/gulabi-kantha/dehradun.jpg",
    "desc": "Dehradun, also known as Dehra Doon is the capital and most populous city of the Indian state of Uttarakhand. It is the administrative headquarters of Dehradun district and the headquarters of the Garhwal division. Dehradun has served as the state's i",
-   "wiki": "Dehradun"
+   "wiki": "Dehradun",
+   "source": "wikipedia"
   },
   "Mussoorie": {
    "img": "img/gulabi-kantha/mussoorie.jpg",
    "desc": "Mussoorie is a hill station and a municipal board in the Dehradun district of the Indian state of Uttarakhand. It is about 26 kilometres (16\u00a0mi) from the state Winter capital Dehradun and 289\u00a0km (180\u00a0mi) north of the national capital of New Delhi. Th",
-   "wiki": "Mussoorie"
+   "wiki": "Mussoorie",
+   "source": "wikipedia"
   },
   "Hanol": {
    "img": "img/gulabi-kantha/hanol.jpg",
@@ -16036,12 +16038,14 @@
   },
   "Gulabi Kantha": {
    "img": "img/gulabi-kantha/gulabi_kantha.png",
-   "desc": "",
-   "wiki": ""
+   "desc": "[OC] [1080 X 1350] Shot this in Gulabi Kantha, Uttarakhand, India [OC] [1080 X 1350] Took this one while hiking Gulabi Kantha (Uttarakhand, India) [OC] [1080 X 1350] Saw this one cloud floating at the top of the peak during my trek to Gulabi Kantha (",
+   "wiki": "",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Dehradun": "Dehradun, also known as Dehra Doon is the capital and most populous city of the Indian state of Uttarakhand. It is the administrative headquarters of Dehradun district and the headquarters of the Garhwal division. Dehradun has served as the state's i",
-  "Mussoorie": "Mussoorie is a hill station and a municipal board in the Dehradun district of the Indian state of Uttarakhand. It is about 26 kilometres (16\u00a0mi) from the state Winter capital Dehradun and 289\u00a0km (180\u00a0mi) north of the national capital of New Delhi. Th"
+  "Mussoorie": "Mussoorie is a hill station and a municipal board in the Dehradun district of the Indian state of Uttarakhand. It is about 26 kilometres (16\u00a0mi) from the state Winter capital Dehradun and 289\u00a0km (180\u00a0mi) north of the national capital of New Delhi. Th",
+  "Gulabi Kantha": "[OC] [1080 X 1350] Shot this in Gulabi Kantha, Uttarakhand, India [OC] [1080 X 1350] Took this one while hiking Gulabi Kantha (Uttarakhand, India) [OC] [1080 X 1350] Saw this one cloud floating at the top of the peak during my trek to Gulabi Kantha ("
  }
 }

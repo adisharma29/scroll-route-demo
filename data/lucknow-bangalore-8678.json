@@ -16026,42 +16026,50 @@
   "Lucknow": {
    "img": "img/lucknow-bangalore-8678/lucknow.jpg",
    "desc": "Lucknow is a metropolis and the second largest city of the Indian state of Uttar Pradesh where it serves as the capital and the administrative headquarters of the eponymous district and division. The city had a population of 2.8 million according to ",
-   "wiki": "Lucknow"
+   "wiki": "Lucknow",
+   "source": "wikipedia"
   },
   "Jhansi": {
    "img": "img/lucknow-bangalore-8678/jhansi.jpg",
    "desc": "Jhansi is a historic city in the Indian state of Uttar Pradesh. (Toshan) Balwant Nagar was the old name of Jhansi. It lies in the region of Bundelkhand, on the banks of the Pahuj River, in the extreme south of Uttar Pradesh. Jhansi is the administrat",
-   "wiki": "Jhansi"
+   "wiki": "Jhansi",
+   "source": "wikipedia"
   },
   "Jaisalmer": {
    "img": "img/lucknow-bangalore-8678/jaisalmer.jpg",
    "desc": "Jaisalmer, nicknamed The Golden City, is a city in the north-western Indian state of Rajasthan, located 575 kilometres (357\u00a0mi) west of the state capital Jaipur, in the heart of the Thar Desert. It serves as the administrative headquarters of Jaisalm",
-   "wiki": "Jaisalmer"
+   "wiki": "Jaisalmer",
+   "source": "wikipedia"
   },
   "Jodhpur": {
    "img": "img/lucknow-bangalore-8678/jodhpur.jpg",
    "desc": "Jodhpur is the second-largest city of the north-western Indian state of Rajasthan, after its capital Jaipur. As of 2025, the city has a population of 1.6 million. It serves as the administrative headquarters of the Jodhpur district and Jodhpur divisi",
-   "wiki": "Jodhpur"
+   "wiki": "Jodhpur",
+   "source": "wikipedia"
   },
   "Ahmedabad": {
    "img": "img/lucknow-bangalore-8678/ahmedabad.jpg",
    "desc": "Ahmedabad, also spelt Amdavad and historically known as Karnavati, is the most populous city in the Indian state of Gujarat. It is the administrative headquarters of the Ahmedabad district and the seat of the Gujarat High Court. Ahmedabad's populatio",
-   "wiki": "Ahmedabad"
+   "wiki": "Ahmedabad",
+   "source": "wikipedia"
   },
   "Mumbai": {
    "img": "img/lucknow-bangalore-8678/mumbai.jpg",
    "desc": "Mumbai, also known as Bombay, is the capital city of the Indian state of Maharashtra. It is the financial capital and the most populous city proper of India, with an estimated population of 12.5 million (1.25\u00a0crore). Mumbai is the centre of the Mumba",
-   "wiki": "Mumbai"
+   "wiki": "Mumbai",
+   "source": "wikipedia"
   },
   "Mangaluru": {
    "img": "img/lucknow-bangalore-8678/mangaluru.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Kerala to get India\u2019s first VB sleeper on Thiruvananthapuram-Mangaluru route Src : https://timesofindia.indiatimes.com/life-style/travel/destinations/kerala-to-get-indias-first-vande-bharat-sleeper-train-on-thiruvananthapuram-mangaluru-route/articles",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Bengaluru": {
    "img": "img/lucknow-bangalore-8678/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   }
  },
  "milestones": {
@@ -16071,6 +16079,7 @@
   "Jodhpur": "Jodhpur is the second-largest city of the north-western Indian state of Rajasthan, after its capital Jaipur. As of 2025, the city has a population of 1.6 million. It serves as the administrative headquarters of the Jodhpur district and Jodhpur divisi",
   "Ahmedabad": "Ahmedabad, also spelt Amdavad and historically known as Karnavati, is the most populous city in the Indian state of Gujarat. It is the administrative headquarters of the Ahmedabad district and the seat of the Gujarat High Court. Ahmedabad's populatio",
   "Mumbai": "Mumbai, also known as Bombay, is the capital city of the Indian state of Maharashtra. It is the financial capital and the most populous city proper of India, with an estimated population of 12.5 million (1.25\u00a0crore). Mumbai is the centre of the Mumba",
+  "Mangaluru": "Kerala to get India\u2019s first VB sleeper on Thiruvananthapuram-Mangaluru route Src : https://timesofindia.indiatimes.com/life-style/travel/destinations/kerala-to-get-indias-first-vande-bharat-sleeper-train-on-thiruvananthapuram-mangaluru-route/articles",
   "Bengaluru": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in "
  }
 }

@@ -9663,32 +9663,39 @@
   "Nainital": {
    "img": "img/kumaon-circuit/nainital.jpg",
    "desc": "Nainital, formerly anglicized as Naini Tal, is a town and headquarters of Nainital district of Kumaon division, Uttarakhand, India. It is the judicial capital of Uttarakhand, the High Court of the state being located there and is the headquarters of ",
-   "wiki": "Nainital"
+   "wiki": "Nainital",
+   "source": "wikipedia"
   },
   "Bhimtal": {
    "img": "img/kumaon-circuit/bhimtal.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "A lake town in the Kumaon hills, larger than Naini Lake, with an island aquarium in the middle. It sits on the Nainital\u2013Ranikhet\u2013Almora circuit and is a common overnight stop on Kumaon road trips. (sourced from r/SoloTravel_India Uttarakhand threads)",
+   "wiki": "",
+   "source": "reddit"
   },
   "Ranikhet": {
    "img": "img/kumaon-circuit/ranikhet.jpg",
    "desc": "Ranikhet is a hill station and cantonment town, near Almora Town in Almora district in the Indian state of Uttarakhand. It is the home of the Military Hospital, Kumaon Regiment (KRC) and Naga Regiment and is maintained by the Indian Army.",
-   "wiki": "Ranikhet"
+   "wiki": "Ranikhet",
+   "source": "wikipedia"
   },
   "Kausani": {
    "img": "img/kumaon-circuit/kausani.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "A quiet hill station in the Kumaon hills famous for its panoramic 300-km view of the Himalayan peaks including Nanda Devi and Trishul, often described as 'Switzerland of India'. It sits on the Almora\u2013Baijnath road and is a favourite slow-travel base. (sourced from r/SoloTravel_India Uttarakhand threads)",
+   "wiki": "",
+   "source": "reddit"
   },
   "Almora": {
    "img": "img/kumaon-circuit/almora.jpg",
    "desc": "Almora is a municipal corporation and a cantonment town in the state of Uttarakhand, India. It is the administrative headquarters of Almora district. Almora is located on a ridge at the southern edge of the Kumaon Hills of the Himalaya range. The Kos",
-   "wiki": "Almora"
+   "wiki": "Almora",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Nainital": "Nainital, formerly anglicized as Naini Tal, is a town and headquarters of Nainital district of Kumaon division, Uttarakhand, India. It is the judicial capital of Uttarakhand, the High Court of the state being located there and is the headquarters of ",
+  "Bhimtal": "A lake town in the Kumaon hills, larger than Naini Lake, with an island aquarium in the middle. It sits on the Nainital\u2013Ranikhet\u2013Almora circuit and is a common overnight stop on Kumaon road trips. (sourced from r/SoloTravel_India Uttarakhand threads)",
   "Ranikhet": "Ranikhet is a hill station and cantonment town, near Almora Town in Almora district in the Indian state of Uttarakhand. It is the home of the Military Hospital, Kumaon Regiment (KRC) and Naga Regiment and is maintained by the Indian Army.",
+  "Kausani": "A quiet hill station in the Kumaon hills famous for its panoramic 300-km view of the Himalayan peaks including Nanda Devi and Trishul, often described as 'Switzerland of India'. It sits on the Almora\u2013Baijnath road and is a favourite slow-travel base. (sourced from r/SoloTravel_India Uttarakhand threads)",
   "Almora": "Almora is a municipal corporation and a cantonment town in the state of Uttarakhand, India. It is the administrative headquarters of Almora district. Almora is located on a ridge at the southern edge of the Kumaon Hills of the Himalaya range. The Kos"
  }
 }

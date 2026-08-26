@@ -16028,34 +16028,39 @@
   "Bengaluru": {
    "img": "img/blr-agumbe-gokarna/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Shivamogga": {
    "img": "img/blr-agumbe-gokarna/shivamogga.jpg",
    "desc": "Shimoga, officially Shivamogga, is a city, taluka and the district headquarters of Shimoga district in the Karnataka state of India. The city lies on the banks of the Tunga River. Being the gateway for the hilly region of the Western Ghats, the city ",
-   "wiki": "Shivamogga"
+   "wiki": "Shivamogga",
+   "source": "wikipedia"
   },
   "Agumbe": {
    "img": "img/blr-agumbe-gokarna/agumbe.jpg",
    "desc": "Agumbe is a village situated in the Thirthahalli taluka of Shivamogga district, Karnataka, India. It is nestled in the thickly forested Malenadu region of the Western Ghats mountain range. Owing to its high rainfall, it has received the epithet of \"T",
-   "wiki": "Agumbe"
+   "wiki": "Agumbe",
+   "source": "wikipedia"
   },
   "Gokarna": {
    "img": "img/blr-agumbe-gokarna/gokarna.jpg",
-   "desc": "Gokarna may refer to:",
-   "wiki": "Gokarna"
+   "desc": "A laid-back coastal town in Karnataka's Uttara Kannada district, famous for Om Beach, the Mahabaleshwar Temple and a string of beaches along the Arabian Sea. Popular with backpackers and road trippers, it sits roughly halfway down the western coast between Goa and Mangalore. (Wikipedia extract)",
+   "wiki": "Gokarna",
+   "source": "wikipedia"
   },
   "Udupi": {
    "img": "img/blr-agumbe-gokarna/udupi.jpg",
    "desc": "Udupi is a city in the Indian state of Karnataka. It is the administrative headquarters and taluka of Udupi district, and one of the fastest-growing cities in Karnataka. Udupi is one of the top tourist attractions in Karnataka and has various educati",
-   "wiki": "Udupi"
+   "wiki": "Udupi",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Bengaluru": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
   "Shivamogga": "Shimoga, officially Shivamogga, is a city, taluka and the district headquarters of Shimoga district in the Karnataka state of India. The city lies on the banks of the Tunga River. Being the gateway for the hilly region of the Western Ghats, the city ",
   "Agumbe": "Agumbe is a village situated in the Thirthahalli taluka of Shivamogga district, Karnataka, India. It is nestled in the thickly forested Malenadu region of the Western Ghats mountain range. Owing to its high rainfall, it has received the epithet of \"T",
-  "Gokarna": "Gokarna may refer to:",
+  "Gokarna": "A laid-back coastal town in Karnataka's Uttara Kannada district, famous for Om Beach, the Mahabaleshwar Temple and a string of beaches along the Arabian Sea. Popular with backpackers and road trippers, it sits roughly halfway down the western coast between Goa and Mangalore. (Wikipedia extract)",
   "Udupi": "Udupi is a city in the Indian state of Karnataka. It is the administrative headquarters and taluka of Udupi district, and one of the fastest-growing cities in Karnataka. Udupi is one of the top tourist attractions in Karnataka and has various educati"
  }
 }

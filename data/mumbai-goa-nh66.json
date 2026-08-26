@@ -8748,22 +8748,26 @@
   "Mumbai": {
    "img": "img/mumbai-goa-nh66/mumbai.jpg",
    "desc": "Mumbai, also known as Bombay, is the capital city of the Indian state of Maharashtra. It is the financial capital and the most populous city proper of India, with an estimated population of 12.5 million (1.25\u00a0crore). Mumbai is the centre of the Mumba",
-   "wiki": "Mumbai"
+   "wiki": "Mumbai",
+   "source": "wikipedia"
   },
   "Panvel": {
    "img": "img/mumbai-goa-nh66/panvel.png",
-   "desc": "",
-   "wiki": ""
+   "desc": "Jaldi jaldi bol diya, ab niklo Panvel \ud83d\ude2d **Source:**\u00a0RS USQ No 3346 Answered on 21 Aug 2025  Download data from\u00a0[**Dataful**](https://dataful.in/collections/20/). The land zoning and planning itself will take 5 years, at present Deva bhau has lot of s",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Alibaug": {
    "img": "img/mumbai-goa-nh66/alibaug.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Travelling to Alibaug next week Hello all, will be travelling to Alibaug next weekend planning to go via ferry from Gateway of India. While this is possible between Mumbai and Mandwa / Alibaug, how will this be possible on the short Versova - Madh ho",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Ratnagiri": {
    "img": "img/mumbai-goa-nh66/ratnagiri.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "74.* Even after his conditional release from prison and subsequent internment in Ratnagiri, Savarkar remained under strict government surveillance. He recommended that the District Magistrate of Ratnagiri investigate the matter and seek an explanatio",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Sawantwadi": {
    "img": "img/mumbai-goa-nh66/sawantwadi.jpg",
@@ -8773,11 +8777,15 @@
   "Goa": {
    "img": "img/mumbai-goa-nh66/goa.jpg",
    "desc": "Goa is a state on the southwestern coast of India within the Konkan region. It is geographically separated from the Deccan highlands by the Western Ghats. It is bordered by the Indian states of Maharashtra to the north and Karnataka to the east and s",
-   "wiki": "Goa"
+   "wiki": "Goa",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Mumbai": "Mumbai, also known as Bombay, is the capital city of the Indian state of Maharashtra. It is the financial capital and the most populous city proper of India, with an estimated population of 12.5 million (1.25\u00a0crore). Mumbai is the centre of the Mumba",
+  "Panvel": "Jaldi jaldi bol diya, ab niklo Panvel \ud83d\ude2d **Source:**\u00a0RS USQ No 3346 Answered on 21 Aug 2025  Download data from\u00a0[**Dataful**](https://dataful.in/collections/20/). The land zoning and planning itself will take 5 years, at present Deva bhau has lot of s",
+  "Alibaug": "Travelling to Alibaug next week Hello all, will be travelling to Alibaug next weekend planning to go via ferry from Gateway of India. While this is possible between Mumbai and Mandwa / Alibaug, how will this be possible on the short Versova - Madh ho",
+  "Ratnagiri": "74.* Even after his conditional release from prison and subsequent internment in Ratnagiri, Savarkar remained under strict government surveillance. He recommended that the District Magistrate of Ratnagiri investigate the matter and seek an explanatio",
   "Goa": "Goa is a state on the southwestern coast of India within the Konkan region. It is geographically separated from the Deccan highlands by the Western Ghats. It is bordered by the Indian states of Maharashtra to the north and Karnataka to the east and s"
  }
 }

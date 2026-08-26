@@ -7910,17 +7910,20 @@
   "Bengaluru": {
    "img": "img/blr-penukonda/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Hindupur": {
    "img": "img/blr-penukonda/hindupur.jpg",
    "desc": "Hindupur, also known as Hindupuram(in Telugu: \u0c39\u0c3f\u0c02\u0c26\u0c42\u0c2a\u0c41\u0c30\u0c02) is the largest city in Sri Sathya Sai district of the Indian state of Andhra Pradesh. It is located near the Andhra\u2013Karnataka border and is the headquarters of Hindupuram mandalam. Hindupuram i",
-   "wiki": "Hindupur"
+   "wiki": "Hindupur",
+   "source": "wikipedia"
   },
   "Penukonda": {
    "img": "img/blr-penukonda/penukonda.jpg",
    "desc": "Penukonda also called Penugonda is a town in the Sri Sathya Sai district of Andhra Pradesh, India. It is 70\u00a0km away from Anantapur town.",
-   "wiki": "Penukonda"
+   "wiki": "Penukonda",
+   "source": "wikipedia"
   }
  },
  "milestones": {

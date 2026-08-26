@@ -16019,30 +16019,39 @@
   "Leh": {
    "img": "img/leh-tso-moriri/leh.jpg",
    "desc": "Leh is a city in Indian-administered Ladakh in the disputed Kashmir region. It is the largest city and the joint capital of Ladakh. Leh, located in the Leh district, has been the capital of Ladakh since the medieval period and was historically capita",
-   "wiki": "Leh"
+   "wiki": "Leh",
+   "source": "wikipedia"
   },
   "Chumathang": {
    "img": "img/leh-tso-moriri/chumathang.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "A small settlement on the Indus river between Leh and Hanle, known for its natural hot springs. It is the standard tea/fuel stop on the Leh\u2013Hanle\u2013Tso Moriri drive and sits right on the river for most of the way. (sourced from r/CarsIndia Ladakh trip report)",
+   "wiki": "",
+   "source": "reddit"
   },
   "Mahe Bridge": {
    "img": "img/leh-tso-moriri/mahe_bridge.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "The bridge over the Mahe river on the Leh\u2013Hanle\u2013Tso Moriri road, the point where the drive turns towards Karzok. Road trippers stop here for a coffee/snack break before the final stretch to Tso Moriri. (sourced from r/CarsIndia Ladakh trip report)",
+   "wiki": "",
+   "source": "reddit"
   },
   "Tso Moriri": {
    "img": "img/leh-tso-moriri/tso_moriri.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "A high-altitude lake (~15,000 ft) in the Changthang region, reached from Leh via Mahe Bridge and the Karzok village. Travellers call the lake's west viewpoint 'the most beautiful landscape' they have seen, and the lake changes to a stunning white after snow. (sourced from r/CarsIndia Ladakh trip report)",
+   "wiki": "",
+   "source": "reddit"
   },
   "Chumur": {
    "img": "img/leh-tso-moriri/chumur.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "**Goals:** * Explore the remote corners of Ladakh like Umling La, Chumur and Demchok, plus places I missed during my 2019 motorbike trip (I was camping in Hanle valley, completely oblivious, when Article 370 was revoked), like Zanskar valley. **Hanle",
+   "wiki": "",
+   "source": "wikipedia"
   }
  },
  "milestones": {
-  "Leh": "Leh is a city in Indian-administered Ladakh in the disputed Kashmir region. It is the largest city and the joint capital of Ladakh. Leh, located in the Leh district, has been the capital of Ladakh since the medieval period and was historically capita"
+  "Leh": "Leh is a city in Indian-administered Ladakh in the disputed Kashmir region. It is the largest city and the joint capital of Ladakh. Leh, located in the Leh district, has been the capital of Ladakh since the medieval period and was historically capita",
+  "Chumathang": "A small settlement on the Indus river between Leh and Hanle, known for its natural hot springs. It is the standard tea/fuel stop on the Leh\u2013Hanle\u2013Tso Moriri drive and sits right on the river for most of the way. (sourced from r/CarsIndia Ladakh trip report)",
+  "Mahe Bridge": "The bridge over the Mahe river on the Leh\u2013Hanle\u2013Tso Moriri road, the point where the drive turns towards Karzok. Road trippers stop here for a coffee/snack break before the final stretch to Tso Moriri. (sourced from r/CarsIndia Ladakh trip report)",
+  "Tso Moriri": "A high-altitude lake (~15,000 ft) in the Changthang region, reached from Leh via Mahe Bridge and the Karzok village. Travellers call the lake's west viewpoint 'the most beautiful landscape' they have seen, and the lake changes to a stunning white after snow. (sourced from r/CarsIndia Ladakh trip report)",
+  "Chumur": "**Goals:** * Explore the remote corners of Ladakh like Umling La, Chumur and Demchok, plus places I missed during my 2019 motorbike trip (I was camping in Hanle valley, completely oblivious, when Article 370 was revoked), like Zanskar valley. **Hanle"
  }
 }

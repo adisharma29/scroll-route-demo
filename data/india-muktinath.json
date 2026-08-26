@@ -12502,31 +12502,38 @@
  "milestone_info": {
   "Gorakhpur": {
    "img": "img/india-muktinath/gorakhpur.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Nepal Itinerary Check + Travel Advice Needed (Kathmandu, Pokhara, Gorakhpur exit) Hey everyone! Is it realistic to reach Gorakhpur airport by 4 PM if I arrive at the border around 9 AM? Planning a trip and searching for reliable Travel Agents in Gora",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Sunauli": {
    "img": "img/india-muktinath/sunauli.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Hello fellow redditors, I am travelling to (Pokhara) Nepal from India via Sunauli border this week. I plan to take a bus from bhairawa or sunauli to reach Pokhara. We traveled from India by train to Gorakhpur, crossed through the Sunauli border, and ",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Pokhara": {
    "img": "img/india-muktinath/pokhara.jpg",
    "desc": "Pokhara is a metropolitan city located in central Nepal, which serves as the capital of Gandaki Province. Named the country's \"capital of tourism\" it is the second largest city after Kathmandu, with 600,051 inhabitants living in 120,594 households as",
-   "wiki": "Pokhara"
+   "wiki": "Pokhara",
+   "source": "wikipedia"
   },
   "Jomsom": {
    "img": "img/india-muktinath/jomsom.jpg",
    "desc": "Jomsom, also known as Dzongsam, is the centre of Gharapjhong rural municipality in Mustang district and a former independent village development committee situated at an altitude of about 2,700 metres (8,900\u00a0ft) in Gandaki Province of western Nepal. ",
-   "wiki": "Jomsom"
+   "wiki": "Jomsom",
+   "source": "wikipedia"
   },
   "Muktinath": {
    "img": "img/india-muktinath/muktinath.jpg",
    "desc": "Muktinath is an ancient Vishnu temple located in Mustang, Nepal. The temple of Muktinath, known as 'the lord of liberation', is sacred to both Hindus and Buddhists whom they worship as an abode of Hindu deities Vishnu and Shakti, and Buddhist bodhisa",
-   "wiki": "Muktinath"
+   "wiki": "Muktinath",
+   "source": "wikipedia"
   }
  },
  "milestones": {
+  "Gorakhpur": "Nepal Itinerary Check + Travel Advice Needed (Kathmandu, Pokhara, Gorakhpur exit) Hey everyone! Is it realistic to reach Gorakhpur airport by 4 PM if I arrive at the border around 9 AM? Planning a trip and searching for reliable Travel Agents in Gora",
+  "Sunauli": "Hello fellow redditors, I am travelling to (Pokhara) Nepal from India via Sunauli border this week. I plan to take a bus from bhairawa or sunauli to reach Pokhara. We traveled from India by train to Gorakhpur, crossed through the Sunauli border, and ",
   "Pokhara": "Pokhara is a metropolitan city located in central Nepal, which serves as the capital of Gandaki Province. Named the country's \"capital of tourism\" it is the second largest city after Kathmandu, with 600,051 inhabitants living in 120,594 households as",
   "Jomsom": "Jomsom, also known as Dzongsam, is the centre of Gharapjhong rural municipality in Mustang district and a former independent village development committee situated at an altitude of about 2,700 metres (8,900\u00a0ft) in Gandaki Province of western Nepal. ",
   "Muktinath": "Muktinath is an ancient Vishnu temple located in Mustang, Nepal. The temple of Muktinath, known as 'the lord of liberation', is sacred to both Hindus and Buddhists whom they worship as an abode of Hindu deities Vishnu and Shakti, and Buddhist bodhisa"

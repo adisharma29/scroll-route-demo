@@ -2151,32 +2151,38 @@
   "Kochi": {
    "img": "img/kerala-circuit/kochi.jpg",
    "desc": "Kochi, formerly known as Cochin, is a major port city along the Malabar Coast of India bordering the Laccadive Sea. It is part of the district of Ernakulam in the state of Kerala. The city is also commonly referred to as Ernakulam, which is its centr",
-   "wiki": "Kochi"
+   "wiki": "Kochi",
+   "source": "wikipedia"
   },
   "Munnar": {
    "img": "img/kerala-circuit/munnar.jpg",
    "desc": "Munnar is a town located in the Idukki district of the southwestern Indian state of Kerala. Munnar is situated at around 1,600 metres (5,200\u00a0ft) above mean sea level, in the Western Ghats mountain range. This ancient plantation settlement, dominated ",
-   "wiki": "Munnar"
+   "wiki": "Munnar",
+   "source": "wikipedia"
   },
   "Athirapally Falls": {
    "img": "img/kerala-circuit/athirapally_falls.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "The Athirapally Falls, Wayanad, #Alleppey, Kovalam are some of the Monsoon recommendations for you. The blissful sight of the near 100 feet high shimmering Athirapally falls gushing down to the bottom is no less than mesmerizing.",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Alappuzha": {
    "img": "img/kerala-circuit/alappuzha.jpg",
    "desc": "Alappuzha or Alleppey is a municipality and town on the Laccadive Sea in the southern Indian state of Kerala. It is the district headquarters of the Alappuzha District, and is located about 130\u00a0km (80.8\u00a0mi) north of the state capital Thiruvananthapur",
-   "wiki": "Alappuzha"
+   "wiki": "Alappuzha",
+   "source": "wikipedia"
   },
   "Kumarakom": {
    "img": "img/kerala-circuit/kumarakom.jpg",
    "desc": "Kumarakom is a tourism destination near the city of Kottayam in Kerala, India. It is near the Vembanad Lake, the largest lake in the state of Kerala. In January 2023 The New York Times mentioned Kumarakom's backwater tourism.",
-   "wiki": "Kumarakom"
+   "wiki": "Kumarakom",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Kochi": "Kochi, formerly known as Cochin, is a major port city along the Malabar Coast of India bordering the Laccadive Sea. It is part of the district of Ernakulam in the state of Kerala. The city is also commonly referred to as Ernakulam, which is its centr",
   "Munnar": "Munnar is a town located in the Idukki district of the southwestern Indian state of Kerala. Munnar is situated at around 1,600 metres (5,200\u00a0ft) above mean sea level, in the Western Ghats mountain range. This ancient plantation settlement, dominated ",
+  "Athirapally Falls": "The Athirapally Falls, Wayanad, #Alleppey, Kovalam are some of the Monsoon recommendations for you. The blissful sight of the near 100 feet high shimmering Athirapally falls gushing down to the bottom is no less than mesmerizing.",
   "Alappuzha": "Alappuzha or Alleppey is a municipality and town on the Laccadive Sea in the southern Indian state of Kerala. It is the district headquarters of the Alappuzha District, and is located about 130\u00a0km (80.8\u00a0mi) north of the state capital Thiruvananthapur",
   "Kumarakom": "Kumarakom is a tourism destination near the city of Kottayam in Kerala, India. It is near the Vembanad Lake, the largest lake in the state of Kerala. In January 2023 The New York Times mentioned Kumarakom's backwater tourism."
  }

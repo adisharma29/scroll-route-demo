@@ -135453,42 +135453,50 @@
   "Chennai": {
    "img": "img/chennai-sikkim-bhutan/chennai.jpg",
    "desc": "Chennai, also known as Madras, is the capital and largest city of Tamil Nadu, the southernmost state of India. It is located on the Coromandel Coast of the Bay of Bengal. As per the 2011 Indian census, Chennai is the sixth-most-populous city in India",
-   "wiki": "Chennai"
+   "wiki": "Chennai",
+   "source": "wikipedia"
   },
   "Bhubaneswar": {
    "img": "img/chennai-sikkim-bhutan/bhubaneswar.jpg",
    "desc": "Bhubaneswar is the capital and the largest city of the Indian state of Odisha. It is located in the Khordha district. The suburban region, especially the old town, was historically often depicted as Chakra Khetra and Ekamra Khetra. Bhubaneswar is dub",
-   "wiki": "Bhubaneswar"
+   "wiki": "Bhubaneswar",
+   "source": "wikipedia"
   },
   "Kolkata": {
    "img": "img/chennai-sikkim-bhutan/kolkata.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "The closest airport is Kolkata. Many trains stop at Kharagpur, but if you can't find a direct one, it is very easy to book a train from Howrah Junction (Kolkata) to Kharagpur\u2014same-day bookings are usually possible. Spain Schengen approved in 2 workin",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Siliguri": {
    "img": "img/chennai-sikkim-bhutan/siliguri.jpg",
    "desc": "Siliguri, also known as Shiliguri, is a major tier-II city in West Bengal. It forms the Twin Cities with the neighbouring city of Jalpaiguri. The city spans areas of the Darjeeling and Jalpaiguri districts in the Indian state of West Bengal. Known as",
-   "wiki": "Siliguri"
+   "wiki": "Siliguri",
+   "source": "wikipedia"
   },
   "Gangtok": {
    "img": "img/chennai-sikkim-bhutan/gangtok.jpg",
    "desc": "Gangtok is the capital and the most populous city of the Indian state of Sikkim. The seat of eponymous district, Gangtok is in the eastern Himalayan range, at an elevation of 1,650\u00a0m (5,410\u00a0ft). The city's population of 100,000 consists of the three ",
-   "wiki": "Gangtok"
+   "wiki": "Gangtok",
+   "source": "wikipedia"
   },
   "Phuentsholing": {
    "img": "img/chennai-sikkim-bhutan/phuentsholing.jpg",
    "desc": "Phuntsholing, also spelled as Phuentsholing, is a border town in southern Bhutan and is the administrative seat of Chukha District. The town occupies parts of both Phuentsholing Gewog and Sampheling Gewog.",
-   "wiki": "Phuentsholing"
+   "wiki": "Phuentsholing",
+   "source": "wikipedia"
   },
   "Paro": {
    "img": "img/chennai-sikkim-bhutan/paro.jpg",
    "desc": "Paro may refer to:Matteo Paro, Italian footballer\nParo (robot), a therapeutic robot baby harp seal\nParo, Bhutan\nParo International Airport, Bhutan\nParo District, Bhutan\nParo, Nduga, a district in Nduga Regency, Papua Highland, Indonesia\nParo, Indones",
-   "wiki": "Paro"
+   "wiki": "Paro",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Chennai": "Chennai, also known as Madras, is the capital and largest city of Tamil Nadu, the southernmost state of India. It is located on the Coromandel Coast of the Bay of Bengal. As per the 2011 Indian census, Chennai is the sixth-most-populous city in India",
   "Bhubaneswar": "Bhubaneswar is the capital and the largest city of the Indian state of Odisha. It is located in the Khordha district. The suburban region, especially the old town, was historically often depicted as Chakra Khetra and Ekamra Khetra. Bhubaneswar is dub",
+  "Kolkata": "The closest airport is Kolkata. Many trains stop at Kharagpur, but if you can't find a direct one, it is very easy to book a train from Howrah Junction (Kolkata) to Kharagpur\u2014same-day bookings are usually possible. Spain Schengen approved in 2 workin",
   "Siliguri": "Siliguri, also known as Shiliguri, is a major tier-II city in West Bengal. It forms the Twin Cities with the neighbouring city of Jalpaiguri. The city spans areas of the Darjeeling and Jalpaiguri districts in the Indian state of West Bengal. Known as",
   "Gangtok": "Gangtok is the capital and the most populous city of the Indian state of Sikkim. The seat of eponymous district, Gangtok is in the eastern Himalayan range, at an elevation of 1,650\u00a0m (5,410\u00a0ft). The city's population of 100,000 consists of the three ",
   "Phuentsholing": "Phuntsholing, also spelled as Phuentsholing, is a border town in southern Bhutan and is the administrative seat of Chukha District. The town occupies parts of both Phuentsholing Gewog and Sampheling Gewog.",

@@ -11083,17 +11083,20 @@
   "Vadodara": {
    "img": "img/south-gujarat-forest/vadodara.jpg",
    "desc": "Vadodara, also known as Baroda, is a city on the banks of the Vishwamitri River in the Indian state of Gujarat. It serves as the administrative headquarters of the Vadodara district. The city is named for its abundance of banyan (vad) trees. Vadodara",
-   "wiki": "Vadodara"
+   "wiki": "Vadodara",
+   "source": "wikipedia"
   },
   "Pavagadh": {
    "img": "img/south-gujarat-forest/pavagadh.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Champaner-Pavagadh Archaeological Park A Living Chronicle of Faith Power and Architectural Harmony In the heart of Gujarat\u2019s Panchmahal district, where the flat plains suddenly yield to an ancient volcanic upthrust, stands a landscape that holds with",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Champaner": {
    "img": "img/south-gujarat-forest/champaner.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "The state holds Somnath, Dwarka, Gir's lions, the white Rann, Champaner, and almost nobody outside Gujarat considers it a holiday. Champaner-Pavagadh Archaeological Park A Living Chronicle of Faith Power and Architectural Harmony In the heart of Guja",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Jambughoda": {
    "img": "img/south-gujarat-forest/jambughoda.jpg",
@@ -11103,11 +11106,14 @@
   "Saputara": {
    "img": "img/south-gujarat-forest/saputara.jpg",
    "desc": "Saputara town in the Dang district of Gujarat, India, is a hill station located in the Sahyadris or Western Ghats. It is a well-known tourist destination.",
-   "wiki": "Saputara"
+   "wiki": "Saputara",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Vadodara": "Vadodara, also known as Baroda, is a city on the banks of the Vishwamitri River in the Indian state of Gujarat. It serves as the administrative headquarters of the Vadodara district. The city is named for its abundance of banyan (vad) trees. Vadodara",
+  "Pavagadh": "Champaner-Pavagadh Archaeological Park A Living Chronicle of Faith Power and Architectural Harmony In the heart of Gujarat\u2019s Panchmahal district, where the flat plains suddenly yield to an ancient volcanic upthrust, stands a landscape that holds with",
+  "Champaner": "The state holds Somnath, Dwarka, Gir's lions, the white Rann, Champaner, and almost nobody outside Gujarat considers it a holiday. Champaner-Pavagadh Archaeological Park A Living Chronicle of Faith Power and Architectural Harmony In the heart of Guja",
   "Saputara": "Saputara town in the Dang district of Gujarat, India, is a hill station located in the Sahyadris or Western Ghats. It is a well-known tourist destination."
  }
 }

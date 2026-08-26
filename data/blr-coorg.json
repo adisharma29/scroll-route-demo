@@ -14959,12 +14959,14 @@
   "Bengaluru": {
    "img": "img/blr-coorg/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Mysore": {
    "img": "img/blr-coorg/mysore.jpg",
    "desc": "Mysore, officially Mysuru, is a city in the southern Indian state of Karnataka. It is the administrative headquarters of Mysore district and Mysore division. As the traditional seat of the Wadiyar dynasty, the city functioned as the capital of the Ki",
-   "wiki": "Mysore"
+   "wiki": "Mysore",
+   "source": "wikipedia"
   },
   "Hunsur": {
    "img": "img/blr-coorg/hunsur.jpg",
@@ -14974,7 +14976,8 @@
   "Madikeri": {
    "img": "img/blr-coorg/madikeri.jpg",
    "desc": "Madikeri, earlier called as Mercara is city and headquarters of Kodagu district in the Karnataka state of India. It is recognised as one of the world's eight \"hottest hotspots\" of biological diversity and is also a UNESCO World Heritage Site. The cit",
-   "wiki": "Madikeri"
+   "wiki": "Madikeri",
+   "source": "wikipedia"
   }
  },
  "milestones": {

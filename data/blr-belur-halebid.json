@@ -16028,33 +16028,38 @@
   "Bengaluru": {
    "img": "img/blr-belur-halebid/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Hassan": {
    "img": "img/blr-belur-halebid/hassan.jpg",
    "desc": "Hassan or H\u0101sana is a city, taluk and district headquarter of Hassan district in Karnataka state of India. It is a prominent city, located in the South-Western region of Karnataka and serves as a centre for agriculture, Heritage tourism and trade. It",
-   "wiki": "Hassan,_Karnataka"
+   "wiki": "Hassan,_Karnataka",
+   "source": "wikipedia"
   },
   "Belur": {
    "img": "img/blr-belur-halebid/belur.jpg",
-   "desc": "Belur may refer to:",
-   "wiki": "Belur"
+   "desc": "The site of the 12th-century Chennakeshava Temple, one of the finest examples of Hoysala architecture, built in soapstone with intricate carvings. It is on the Bengaluru\u2013Chikmagalur\u2013Hassan circuit, a couple of hours from Halebidu. (sourced from r/karnataka heritage threads)",
+   "wiki": "Belur",
+   "source": "reddit"
   },
   "Halebidu": {
    "img": "img/blr-belur-halebid/halebidu.jpg",
    "desc": "Halebidu is a Hobli located in Hassan District, Karnataka, India. Historically known as Dw\u0101rasamudra, Halebidu became the regal capital of the Hoysala Empire in the 11th century CE. In the modern era literature it is sometimes referred to as Halebeed",
-   "wiki": "Halebidu"
+   "wiki": "Halebidu",
+   "source": "wikipedia"
   },
   "Shravanabelagola": {
    "img": "img/blr-belur-halebid/shravanabelagola.jpg",
    "desc": "Shravanabelagola is a town located near Channarayapatna taluk of Hassan district in the Indian state of Karnataka and is 144\u00a0km (89\u00a0mi) from Bengaluru. The Gommateshwara Bahubali statue at Shravanabelagola is one of the most important tirthas in Jain",
-   "wiki": "Shravanabelagola"
+   "wiki": "Shravanabelagola",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Bengaluru": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
   "Hassan": "Hassan or H\u0101sana is a city, taluk and district headquarter of Hassan district in Karnataka state of India. It is a prominent city, located in the South-Western region of Karnataka and serves as a centre for agriculture, Heritage tourism and trade. It",
-  "Belur": "Belur may refer to:",
+  "Belur": "The site of the 12th-century Chennakeshava Temple, one of the finest examples of Hoysala architecture, built in soapstone with intricate carvings. It is on the Bengaluru\u2013Chikmagalur\u2013Hassan circuit, a couple of hours from Halebidu. (sourced from r/karnataka heritage threads)",
   "Halebidu": "Halebidu is a Hobli located in Hassan District, Karnataka, India. Historically known as Dw\u0101rasamudra, Halebidu became the regal capital of the Hoysala Empire in the 11th century CE. In the modern era literature it is sometimes referred to as Halebeed",
   "Shravanabelagola": "Shravanabelagola is a town located near Channarayapatna taluk of Hassan district in the Indian state of Karnataka and is 144\u00a0km (89\u00a0mi) from Bengaluru. The Gommateshwara Bahubali statue at Shravanabelagola is one of the most important tirthas in Jain"
  }

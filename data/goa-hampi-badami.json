@@ -11200,32 +11200,38 @@
   "Goa": {
    "img": "img/goa-hampi-badami/goa.jpg",
    "desc": "Goa is a state on the southwestern coast of India within the Konkan region. It is geographically separated from the Deccan highlands by the Western Ghats. It is bordered by the Indian states of Maharashtra to the north and Karnataka to the east and s",
-   "wiki": "Goa"
+   "wiki": "Goa",
+   "source": "wikipedia"
   },
   "Hampi": {
    "img": "img/goa-hampi-badami/hampi.jpg",
    "desc": "Hampi or Hampe, also referred to as the Group of Monuments at Hampi, is a UNESCO World Heritage Site located in the town of Hampi in Vijayanagara district, east-central Karnataka, India. Hampi predates the Vijayanagara Empire; it is mentioned in the ",
-   "wiki": "Hampi"
+   "wiki": "Hampi",
+   "source": "wikipedia"
   },
   "Badami": {
    "img": "img/goa-hampi-badami/badami.jpg",
    "desc": "B\u0101d\u0101mi, formerly known as V\u0101t\u0101pi, is a town and headquarters of a taluk by the same name, in the Bagalkot district of Karnataka, India. It was the regal capital of the Badami Chalukyas from 540 to 757. It is famous for its rock cut monuments such as ",
-   "wiki": "Badami"
+   "wiki": "Badami",
+   "source": "wikipedia"
   },
   "Ellora": {
    "img": "img/goa-hampi-badami/ellora.jpg",
    "desc": "The Ellora Caves are a UNESCO World Heritage Site in Aurangabad, India. It is one of the largest rock-cut cave complexes in the world, with artwork dating from AD 600\u20131000, including Hindu, Buddhist, and Jain caves. The complex is a leading example o",
-   "wiki": "Ellora_Caves"
+   "wiki": "Ellora_Caves",
+   "source": "wikipedia"
   },
   "Nashik": {
    "img": "img/goa-hampi-badami/nashik.jpg",
    "desc": "Nashik, formerly Nasik, is a city in the northern region of the Indian state of Maharashtra situated on the banks of the river Godavari, about 165\u00a0km (103\u00a0mi) northeast of the state capital Mumbai. The city lies in the Nashik Metropolitan Region. It ",
-   "wiki": "Nashik"
+   "wiki": "Nashik",
+   "source": "wikipedia"
   },
   "Surat": {
    "img": "img/goa-hampi-badami/surat.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "I will be in New Delhi (3 days) - Surat (6 days) and north Goa (3 days) I\u2019m a little nervous as I haven\u2019t really travelled this far East before so any advice is more than welcome. * **Maharashtra (4):** * Mumbai (BKC) * Thane * Virar * Boisar **Gujar",
+   "wiki": "",
+   "source": "wikipedia"
   }
  },
  "milestones": {
@@ -11233,6 +11239,7 @@
   "Hampi": "Hampi or Hampe, also referred to as the Group of Monuments at Hampi, is a UNESCO World Heritage Site located in the town of Hampi in Vijayanagara district, east-central Karnataka, India. Hampi predates the Vijayanagara Empire; it is mentioned in the ",
   "Badami": "B\u0101d\u0101mi, formerly known as V\u0101t\u0101pi, is a town and headquarters of a taluk by the same name, in the Bagalkot district of Karnataka, India. It was the regal capital of the Badami Chalukyas from 540 to 757. It is famous for its rock cut monuments such as ",
   "Ellora": "The Ellora Caves are a UNESCO World Heritage Site in Aurangabad, India. It is one of the largest rock-cut cave complexes in the world, with artwork dating from AD 600\u20131000, including Hindu, Buddhist, and Jain caves. The complex is a leading example o",
-  "Nashik": "Nashik, formerly Nasik, is a city in the northern region of the Indian state of Maharashtra situated on the banks of the river Godavari, about 165\u00a0km (103\u00a0mi) northeast of the state capital Mumbai. The city lies in the Nashik Metropolitan Region. It "
+  "Nashik": "Nashik, formerly Nasik, is a city in the northern region of the Indian state of Maharashtra situated on the banks of the river Godavari, about 165\u00a0km (103\u00a0mi) northeast of the state capital Mumbai. The city lies in the Nashik Metropolitan Region. It ",
+  "Surat": "I will be in New Delhi (3 days) - Surat (6 days) and north Goa (3 days) I\u2019m a little nervous as I haven\u2019t really travelled this far East before so any advice is more than welcome. * **Maharashtra (4):** * Mumbai (BKC) * Thane * Virar * Boisar **Gujar"
  }
 }

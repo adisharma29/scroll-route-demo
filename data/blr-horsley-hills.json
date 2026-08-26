@@ -7521,22 +7521,26 @@
   "Bengaluru": {
    "img": "img/blr-horsley-hills/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Chikkaballapur": {
    "img": "img/blr-horsley-hills/chikkaballapur.jpg",
    "desc": "Chikkaballapur or Chikkaball\u0101pura is the district headquarters of the newly created Chikkaballapur district in the state of Karnataka, India, which was carved out from Kolar district. It is located within 3km of Muddenahalli. A $400 million Pharmaceu",
-   "wiki": "Chikkaballapur"
+   "wiki": "Chikkaballapur",
+   "source": "wikipedia"
   },
   "Madanapalle": {
    "img": "img/blr-horsley-hills/madanapalle.jpg",
    "desc": "Madanapalle is a town and district headquarters of Annamayya district of the Indian state of Andhra Pradesh. Madanapalle is headquarters of Madanapalle Mandal, Madanapalle revenue division and PKM Urban Development Authority.",
-   "wiki": "Madanapalle"
+   "wiki": "Madanapalle",
+   "source": "wikipedia"
   },
   "Horsley Hills": {
    "img": "img/blr-horsley-hills/horsley_hills.jpg",
    "desc": "Horsley Hills or Horsleykonda or Yenugulla Mallamma Konda is a series of hills in Andhra Pradesh in Madanapalle Taluka of Annamayya district and is about 9 miles from Madanapalle town. The local name of the hill was Yenugu Mallama Konda after a legen",
-   "wiki": "Horsley_Hills"
+   "wiki": "Horsley_Hills",
+   "source": "wikipedia"
   }
  },
  "milestones": {

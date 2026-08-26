@@ -4950,27 +4950,32 @@
   "Bhubaneswar": {
    "img": "img/versys-650-odisha/bhubaneswar.jpg",
    "desc": "Bhubaneswar is the capital and the largest city of the Indian state of Odisha. It is located in the Khordha district. The suburban region, especially the old town, was historically often depicted as Chakra Khetra and Ekamra Khetra. Bhubaneswar is dub",
-   "wiki": "Bhubaneswar"
+   "wiki": "Bhubaneswar",
+   "source": "wikipedia"
   },
   "Puri": {
    "img": "img/versys-650-odisha/puri.jpg",
    "desc": "Puri most commonly refers to:Puri (city), a city in Odisha\u200c, India\u200c.\nPuri (food), a deep-fried bread made from wheat in India",
-   "wiki": "Puri"
+   "wiki": "Puri",
+   "source": "wikipedia"
   },
   "Konark": {
    "img": "img/versys-650-odisha/konark.jpg",
    "desc": "Konark is a medium-sized town in the Puri district in the state of Odisha, India. It lies on the coast by the Bay of Bengal, 65 kilometres from the state capital Bhubaneswar. It is the site of the 13th-century Sun Temple, also known as the Black Pago",
-   "wiki": "Konark"
+   "wiki": "Konark",
+   "source": "wikipedia"
   },
   "Gopalpur Beach": {
    "img": "img/versys-650-odisha/gopalpur_beach.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "**Log in Harsh Light:** For our Gopalpur beach scenes, we\u2019re dealing with intense white sand and midday sun.",
+   "wiki": "",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Bhubaneswar": "Bhubaneswar is the capital and the largest city of the Indian state of Odisha. It is located in the Khordha district. The suburban region, especially the old town, was historically often depicted as Chakra Khetra and Ekamra Khetra. Bhubaneswar is dub",
   "Puri": "Puri most commonly refers to:Puri (city), a city in Odisha\u200c, India\u200c.\nPuri (food), a deep-fried bread made from wheat in India",
-  "Konark": "Konark is a medium-sized town in the Puri district in the state of Odisha, India. It lies on the coast by the Bay of Bengal, 65 kilometres from the state capital Bhubaneswar. It is the site of the 13th-century Sun Temple, also known as the Black Pago"
+  "Konark": "Konark is a medium-sized town in the Puri district in the state of Odisha, India. It lies on the coast by the Bay of Bengal, 65 kilometres from the state capital Bhubaneswar. It is the site of the 13th-century Sun Temple, also known as the Black Pago",
+  "Gopalpur Beach": "**Log in Harsh Light:** For our Gopalpur beach scenes, we\u2019re dealing with intense white sand and midday sun."
  }
 }

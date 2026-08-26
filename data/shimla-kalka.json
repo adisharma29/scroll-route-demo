@@ -9323,7 +9323,8 @@
   "Shimla": {
    "img": "img/shimla-kalka/shimla.jpg",
    "desc": "Shimla, also known as Simla, is the capital and the largest city of the northern Indian state of Himachal Pradesh. In 1864, Shimla was declared the summer capital of British India. After independence, the city became the capital of East Punjab and wa",
-   "wiki": "Shimla"
+   "wiki": "Shimla",
+   "source": "wikipedia"
   },
   "Taradevi": {
    "img": "img/shimla-kalka/taradevi.jpg",
@@ -9332,22 +9333,27 @@
   },
   "Barog": {
    "img": "img/shimla-kalka/barog.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "A station on the Kalka\u2013Shimla toy train line, one of the few stops on the heritage narrow-gauge railway. The Him Darshan Express from Shimla makes a scheduled stop at Barog; the town is a quiet halt on the NH-5 road between Kalka and Solan. (sourced from r/india_tourism toy train post)",
+   "wiki": "",
+   "source": "reddit"
   },
   "Solan": {
    "img": "img/shimla-kalka/solan.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Solan is a town on the Shimla\u2013Kalka highway in Himachal Pradesh, best known as the gateway to Kasauli and for the historic Dagshai and Karol breweries around it. It is a regular stop on the Kalka\u2013Shimla road trip, about 50 km from Chandigarh. (sourced from Shimla road trip posts)",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Kalka": {
    "img": "img/shimla-kalka/kalka.jpg",
    "desc": "Kalka is a city in the Panchkula district of Haryana, India. It is near Panchkula city. The name of the town is derived from the Hindu goddess Kali. Kalka is situated in the foothills of the Himalayas and is a gateway to Himachal Pradesh; it is locat",
-   "wiki": "Kalka"
+   "wiki": "Kalka",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Shimla": "Shimla, also known as Simla, is the capital and the largest city of the northern Indian state of Himachal Pradesh. In 1864, Shimla was declared the summer capital of British India. After independence, the city became the capital of East Punjab and wa",
+  "Barog": "A station on the Kalka\u2013Shimla toy train line, one of the few stops on the heritage narrow-gauge railway. The Him Darshan Express from Shimla makes a scheduled stop at Barog; the town is a quiet halt on the NH-5 road between Kalka and Solan. (sourced from r/india_tourism toy train post)",
+  "Solan": "Solan is a town on the Shimla\u2013Kalka highway in Himachal Pradesh, best known as the gateway to Kasauli and for the historic Dagshai and Karol breweries around it. It is a regular stop on the Kalka\u2013Shimla road trip, about 50 km from Chandigarh. (sourced from Shimla road trip posts)",
   "Kalka": "Kalka is a city in the Panchkula district of Haryana, India. It is near Panchkula city. The name of the town is derived from the Hindu goddess Kali. Kalka is situated in the foothills of the Himalayas and is a gateway to Himachal Pradesh; it is locat"
  }
 }

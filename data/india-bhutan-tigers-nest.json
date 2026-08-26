@@ -8247,32 +8247,39 @@
   "Siliguri": {
    "img": "img/india-bhutan-tigers-nest/siliguri.jpg",
    "desc": "Siliguri, also known as Shiliguri, is a major tier-II city in West Bengal. It forms the Twin Cities with the neighbouring city of Jalpaiguri. The city spans areas of the Darjeeling and Jalpaiguri districts in the Indian state of West Bengal. Known as",
-   "wiki": "Siliguri"
+   "wiki": "Siliguri",
+   "source": "wikipedia"
   },
   "Phuentsholing": {
    "img": "img/india-bhutan-tigers-nest/phuentsholing.jpg",
    "desc": "Phuntsholing, also spelled as Phuentsholing, is a border town in southern Bhutan and is the administrative seat of Chukha District. The town occupies parts of both Phuentsholing Gewog and Sampheling Gewog.",
-   "wiki": "Phuentsholing"
+   "wiki": "Phuentsholing",
+   "source": "wikipedia"
   },
   "Thimphu": {
    "img": "img/india-bhutan-tigers-nest/thimphu.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "We will visit Thimphu, touch Phobjika and stay at Punakha, and then go to Paro and do trek to Tiger's nest at last. Stayed for 8 days and covered Paro, Thimphu, Punakha, Phobjikha and Phuentsholing - all the usual spots. My first 2 days was in Thimph",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Paro": {
    "img": "img/india-bhutan-tigers-nest/paro.jpg",
    "desc": "Paro may refer to:Matteo Paro, Italian footballer\nParo (robot), a therapeutic robot baby harp seal\nParo, Bhutan\nParo International Airport, Bhutan\nParo District, Bhutan\nParo, Nduga, a district in Nduga Regency, Papua Highland, Indonesia\nParo, Indones",
-   "wiki": "Paro"
+   "wiki": "Paro",
+   "source": "wikipedia"
   },
   "Tiger's Nest": {
    "img": "img/india-bhutan-tigers-nest/tiger's_nest.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "We will visit Thimphu, touch Phobjika and stay at Punakha, and then go to Paro and do trek to Tiger's nest at last. Tiger's Nest was physically demanding but emotionally rewarding, and easily one of those places that lives up to its reputation. Pic 1",
+   "wiki": "",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Siliguri": "Siliguri, also known as Shiliguri, is a major tier-II city in West Bengal. It forms the Twin Cities with the neighbouring city of Jalpaiguri. The city spans areas of the Darjeeling and Jalpaiguri districts in the Indian state of West Bengal. Known as",
   "Phuentsholing": "Phuntsholing, also spelled as Phuentsholing, is a border town in southern Bhutan and is the administrative seat of Chukha District. The town occupies parts of both Phuentsholing Gewog and Sampheling Gewog.",
-  "Paro": "Paro may refer to:Matteo Paro, Italian footballer\nParo (robot), a therapeutic robot baby harp seal\nParo, Bhutan\nParo International Airport, Bhutan\nParo District, Bhutan\nParo, Nduga, a district in Nduga Regency, Papua Highland, Indonesia\nParo, Indones"
+  "Thimphu": "We will visit Thimphu, touch Phobjika and stay at Punakha, and then go to Paro and do trek to Tiger's nest at last. Stayed for 8 days and covered Paro, Thimphu, Punakha, Phobjikha and Phuentsholing - all the usual spots. My first 2 days was in Thimph",
+  "Paro": "Paro may refer to:Matteo Paro, Italian footballer\nParo (robot), a therapeutic robot baby harp seal\nParo, Bhutan\nParo International Airport, Bhutan\nParo District, Bhutan\nParo, Nduga, a district in Nduga Regency, Papua Highland, Indonesia\nParo, Indones",
+  "Tiger's Nest": "We will visit Thimphu, touch Phobjika and stay at Punakha, and then go to Paro and do trek to Tiger's nest at last. Tiger's Nest was physically demanding but emotionally rewarding, and easily one of those places that lives up to its reputation. Pic 1"
  }
 }

@@ -16028,27 +16028,32 @@
   "Bengaluru": {
    "img": "img/blr-pondicherry/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Hosur": {
    "img": "img/blr-pondicherry/hosur.jpg",
    "desc": "Hosur is an industrial city located in the Tamil Nadu state of India. Hosur is one of the 21 municipal corporations in Tamil Nadu. It is located on the bank of the river River Ponnaiyar, 40 kilometres (25\u00a0mi) southeast of Bengaluru and 306 kilometres",
-   "wiki": "Hosur"
+   "wiki": "Hosur",
+   "source": "wikipedia"
   },
   "Krishnagiri": {
    "img": "img/blr-pondicherry/krishnagiri.jpg",
    "desc": "Krishnagiri is a town in the state of Tamil Nadu, India, and it serves as the administrative headquarters of Krishnagiri District formed in 2004. It is located at the bottom of Krishnadevaraya Hills, and the city is fully surrounded by hill rocks. It",
-   "wiki": "Krishnagiri"
+   "wiki": "Krishnagiri",
+   "source": "wikipedia"
   },
   "Tiruvannamalai": {
    "img": "img/blr-pondicherry/tiruvannamalai.jpg",
    "desc": "Tiruvannamalai is a city and the administrative headquarters of Tiruvannamalai district in the Indian state of Tamil Nadu. It is also a Hindu cultural hub and prominent pilgrimage destination, home to the Arulmigu Annamalaiyar Temple situated along t",
-   "wiki": "Tiruvannamalai"
+   "wiki": "Tiruvannamalai",
+   "source": "wikipedia"
   },
   "Pondicherry": {
    "img": "img/blr-pondicherry/pondicherry.jpg",
    "desc": "Pondicherry, officially known as Puducherry, is the capital and most populous city of the Union Territory of Puducherry in India. The city is in the Puducherry district on the southeast coast of India and is surrounded by the Bay of Bengal to the eas",
-   "wiki": "Pondicherry"
+   "wiki": "Pondicherry",
+   "source": "wikipedia"
   }
  },
  "milestones": {

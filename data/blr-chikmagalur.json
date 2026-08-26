@@ -16028,12 +16028,14 @@
   "Bengaluru": {
    "img": "img/blr-chikmagalur/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Tumakuru": {
    "img": "img/blr-chikmagalur/tumakuru.png",
-   "desc": "",
-   "wiki": ""
+   "desc": "Sources told\u00a0*Moneycontrol*\u00a0that the proposed rail corridors are: Bengaluru\u2013Hoskote\u2013Kolar (65 km), Bengaluru\u2013Mysuru (145 km), Bengaluru\u2013Tumakuru (60 km). The proposal highlights the untapped economic potential of cities such as Kolar, Mysuru, Tumakur",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Arsikere": {
    "img": "img/blr-chikmagalur/arsikere.jpg",
@@ -16043,16 +16045,19 @@
   "Chikmagalur": {
    "img": "img/blr-chikmagalur/chikmagalur.jpg",
    "desc": "Chikmagalur, previously known as Kiriya-Muguli, is a city, taluka and the headquarters of Chikmagalur district in the Indian state of Karnataka. Located on the foothills of the Chandra Drona Mountain range of the Western Ghats, the city attracts tour",
-   "wiki": "Chikkamagaluru"
+   "wiki": "Chikkamagaluru",
+   "source": "wikipedia"
   },
   "Mullayanagiri": {
    "img": "img/blr-chikmagalur/mullayanagiri.jpg",
    "desc": "Mullayyanagiri is the highest peak in Karnataka, India. Mullayyanagiri is located in the Chandra Dhrona Hill Ranges of the Western Ghats of Chikkamagaluru Taluk. With a height of 1,925 metres (6,316\u00a0ft), it is the highest peak in Karnataka and also t",
-   "wiki": "Mullayanagiri"
+   "wiki": "Mullayanagiri",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Bengaluru": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
+  "Tumakuru": "Sources told\u00a0*Moneycontrol*\u00a0that the proposed rail corridors are: Bengaluru\u2013Hoskote\u2013Kolar (65 km), Bengaluru\u2013Mysuru (145 km), Bengaluru\u2013Tumakuru (60 km). The proposal highlights the untapped economic potential of cities such as Kolar, Mysuru, Tumakur",
   "Chikmagalur": "Chikmagalur, previously known as Kiriya-Muguli, is a city, taluka and the headquarters of Chikmagalur district in the Indian state of Karnataka. Located on the foothills of the Chandra Drona Mountain range of the Western Ghats, the city attracts tour",
   "Mullayanagiri": "Mullayyanagiri is the highest peak in Karnataka, India. Mullayyanagiri is located in the Chandra Dhrona Hill Ranges of the Western Ghats of Chikkamagaluru Taluk. With a height of 1,925 metres (6,316\u00a0ft), it is the highest peak in Karnataka and also t"
  }

@@ -8475,31 +8475,39 @@
   "Tirupati": {
    "img": "img/tirupati-vizag-araku/tirupati.jpg",
    "desc": "Tirupati is a city in the Indian state of Andhra Pradesh and serves as the administrative headquarters of Tirupati district. It is known for its significant religious and cultural heritage, being home to the renowned Tirumala Venkateswara Temple, a m",
-   "wiki": "Tirupati"
+   "wiki": "Tirupati",
+   "source": "wikipedia"
   },
   "Nellore": {
    "img": "img/tirupati-vizag-araku/nellore.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "NELLORE: NELLORE GRAND - chicken dum RIYAZ BHAI POT BIRYANI - chicken & mutton dum GUNTUR AK, SUBHANI(SUBHAM), VICEROY, ALFA - Tandoori mandi. Here are the crazy stats on how they plan to pull off 778 km in under 3 hours: \u2022 The Route: It starts direc",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Vijayawada": {
    "img": "img/tirupati-vizag-araku/vijayawada.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "**The Breakdown (April 30th):** * Traveling from Hyderabad to Vijayawada. * Approaching Vijayawada, I hit heavy rain for the\u00a0*very first time*\u00a0in this car. *(See attached images of the dashboard errors and the car on the flatbed)* **The Service Cente",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Visakhapatnam": {
    "img": "img/tirupati-vizag-araku/visakhapatnam.png",
-   "desc": "",
-   "wiki": ""
+   "desc": "I visited the following cities: Pune, Hyderabad, Mumbai, Chennai, Mysore, Kochi, Visakhapatnam and Bangalore. Back when I was a student traveling to IIT Kharagpur, Visakhapatnam was a modest coastal city. Visakhapatnam is set to unveil a spectacular ",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Araku Valley": {
    "img": "img/tirupati-vizag-araku/araku_valley.jpg",
    "desc": "Araku Valley is a hill station in the Alluri Sitharama Raju district of Andhra Pradesh, India, located 111 km from Visakhapatnam.",
-   "wiki": "Araku_Valley"
+   "wiki": "Araku_Valley",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Tirupati": "Tirupati is a city in the Indian state of Andhra Pradesh and serves as the administrative headquarters of Tirupati district. It is known for its significant religious and cultural heritage, being home to the renowned Tirumala Venkateswara Temple, a m",
+  "Nellore": "NELLORE: NELLORE GRAND - chicken dum RIYAZ BHAI POT BIRYANI - chicken & mutton dum GUNTUR AK, SUBHANI(SUBHAM), VICEROY, ALFA - Tandoori mandi. Here are the crazy stats on how they plan to pull off 778 km in under 3 hours: \u2022 The Route: It starts direc",
+  "Vijayawada": "**The Breakdown (April 30th):** * Traveling from Hyderabad to Vijayawada. * Approaching Vijayawada, I hit heavy rain for the\u00a0*very first time*\u00a0in this car. *(See attached images of the dashboard errors and the car on the flatbed)* **The Service Cente",
+  "Visakhapatnam": "I visited the following cities: Pune, Hyderabad, Mumbai, Chennai, Mysore, Kochi, Visakhapatnam and Bangalore. Back when I was a student traveling to IIT Kharagpur, Visakhapatnam was a modest coastal city. Visakhapatnam is set to unveil a spectacular ",
   "Araku Valley": "Araku Valley is a hill station in the Alluri Sitharama Raju district of Andhra Pradesh, India, located 111 km from Visakhapatnam."
  }
 }

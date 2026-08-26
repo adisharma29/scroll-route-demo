@@ -11484,21 +11484,26 @@
  "milestone_info": {
   "Gorakhpur": {
    "img": "img/india-pokhara-nepal/gorakhpur.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Nepal Itinerary Check + Travel Advice Needed (Kathmandu, Pokhara, Gorakhpur exit) Hey everyone! Is it realistic to reach Gorakhpur airport by 4 PM if I arrive at the border around 9 AM? Planning a trip and searching for reliable Travel Agents in Gora",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Sunauli Border": {
    "img": "img/india-pokhara-nepal/sunauli_border.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Hello fellow redditors, I am travelling to (Pokhara) Nepal from India via Sunauli border this week. We traveled from India by train to Gorakhpur, crossed through the Sunauli border, and then took a bus to Pokhara before starting the trek. We reached ",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Pokhara": {
    "img": "img/india-pokhara-nepal/pokhara.jpg",
    "desc": "Pokhara is a metropolitan city located in central Nepal, which serves as the capital of Gandaki Province. Named the country's \"capital of tourism\" it is the second largest city after Kathmandu, with 600,051 inhabitants living in 120,594 households as",
-   "wiki": "Pokhara"
+   "wiki": "Pokhara",
+   "source": "wikipedia"
   }
  },
  "milestones": {
+  "Gorakhpur": "Nepal Itinerary Check + Travel Advice Needed (Kathmandu, Pokhara, Gorakhpur exit) Hey everyone! Is it realistic to reach Gorakhpur airport by 4 PM if I arrive at the border around 9 AM? Planning a trip and searching for reliable Travel Agents in Gora",
+  "Sunauli Border": "Hello fellow redditors, I am travelling to (Pokhara) Nepal from India via Sunauli border this week. We traveled from India by train to Gorakhpur, crossed through the Sunauli border, and then took a bus to Pokhara before starting the trek. We reached ",
   "Pokhara": "Pokhara is a metropolitan city located in central Nepal, which serves as the capital of Gandaki Province. Named the country's \"capital of tourism\" it is the second largest city after Kathmandu, with 600,051 inhabitants living in 120,594 households as"
  }
 }

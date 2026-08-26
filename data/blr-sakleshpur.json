@@ -13066,17 +13066,20 @@
   "Bengaluru": {
    "img": "img/blr-sakleshpur/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Hassan": {
    "img": "img/blr-sakleshpur/hassan.jpg",
    "desc": "Hassan or H\u0101sana is a city, taluk and district headquarter of Hassan district in Karnataka state of India. It is a prominent city, located in the South-Western region of Karnataka and serves as a centre for agriculture, Heritage tourism and trade. It",
-   "wiki": "Hassan,_Karnataka"
+   "wiki": "Hassan,_Karnataka",
+   "source": "wikipedia"
   },
   "Sakleshpur": {
    "img": "img/blr-sakleshpur/sakleshpur.jpg",
    "desc": "Sakleshpur or Sakaleshapura, is a town and taluk in Hassan district in the Indian state of Karnataka. The town is located on the banks of Hemavati River and it lies in the Western Ghats range. The distance from Hassan city to Sakleshpur is approximat",
-   "wiki": "Sakleshpur"
+   "wiki": "Sakleshpur",
+   "source": "wikipedia"
   }
  },
  "milestones": {

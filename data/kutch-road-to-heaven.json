@@ -1222,25 +1222,32 @@
   "Bhuj": {
    "img": "img/kutch-road-to-heaven/bhuj.jpg",
    "desc": "Bhuj is a city and the headquarters of Kutch district in the Indian state of Gujarat. It was the capital of Kutch State, which was a princely state before it was merged into the Indian Union in 1947.",
-   "wiki": "Bhuj"
+   "wiki": "Bhuj",
+   "source": "wikipedia"
   },
   "Kalo Dungar": {
    "img": "img/kutch-road-to-heaven/kalo_dungar.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "The 'Black Hill' of Kutch, the highest point in the region (~460 m), offering a panoramic view over the Great Rann and the Thar desert. It is a short detour from the road to the White Rann and a standard viewpoint stop. (sourced from r/india_tourism Kutch threads)",
+   "wiki": "",
+   "source": "reddit"
   },
   "White Rann (Dhordo)": {
    "img": "img/kutch-road-to-heaven/white_rann_(dhordo).jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "The salt desert of the Rann of Kutch, best seen at the Dhordo side during sunset when the white salt flats mirror the sky. Most travellers visit during the Rann Utsav festival season (November\u2013February). (sourced from r/india_tourism Kutch threads)",
+   "wiki": "",
+   "source": "reddit"
   },
   "Mandvi Beach": {
    "img": "img/kutch-road-to-heaven/mandvi_beach.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Mandvi Beach The following day I explored Bhuj city a bit and later went to Mandvi Beach in the evening. **Mandvi Beach** Mandvi Beach is a peaceful coastal attraction and can be added to a 3 Nights / 4 Days or extended Kutch itinerary. **Day 3: Dhor",
+   "wiki": "",
+   "source": "wikipedia"
   }
  },
  "milestones": {
-  "Bhuj": "Bhuj is a city and the headquarters of Kutch district in the Indian state of Gujarat. It was the capital of Kutch State, which was a princely state before it was merged into the Indian Union in 1947."
+  "Bhuj": "Bhuj is a city and the headquarters of Kutch district in the Indian state of Gujarat. It was the capital of Kutch State, which was a princely state before it was merged into the Indian Union in 1947.",
+  "Kalo Dungar": "The 'Black Hill' of Kutch, the highest point in the region (~460 m), offering a panoramic view over the Great Rann and the Thar desert. It is a short detour from the road to the White Rann and a standard viewpoint stop. (sourced from r/india_tourism Kutch threads)",
+  "White Rann (Dhordo)": "The salt desert of the Rann of Kutch, best seen at the Dhordo side during sunset when the white salt flats mirror the sky. Most travellers visit during the Rann Utsav festival season (November\u2013February). (sourced from r/india_tourism Kutch threads)",
+  "Mandvi Beach": "Mandvi Beach The following day I explored Bhuj city a bit and later went to Mandvi Beach in the evening. **Mandvi Beach** Mandvi Beach is a peaceful coastal attraction and can be added to a 3 Nights / 4 Days or extended Kutch itinerary. **Day 3: Dhor"
  }
 }

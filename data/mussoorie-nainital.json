@@ -13019,32 +13019,39 @@
   "Mussoorie": {
    "img": "img/mussoorie-nainital/mussoorie.jpg",
    "desc": "Mussoorie is a hill station and a municipal board in the Dehradun district of the Indian state of Uttarakhand. It is about 26 kilometres (16\u00a0mi) from the state Winter capital Dehradun and 289\u00a0km (180\u00a0mi) north of the national capital of New Delhi. Th",
-   "wiki": "Mussoorie"
+   "wiki": "Mussoorie",
+   "source": "wikipedia"
   },
   "Dhanaulti": {
    "img": "img/mussoorie-nainital/dhanaulti.jpg",
    "desc": "Dhanaulti is a hill station and tehsil in Tehri Garhwal district, Uttarakhand, India. It is situated at an elevation of 2286 meters above sea level.",
-   "wiki": "Dhanaulti"
+   "wiki": "Dhanaulti",
+   "source": "wikipedia"
   },
   "Chamba": {
    "img": "img/mussoorie-nainital/chamba.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Bus travelling through the majestic yet treacherous route of Chamba to Killar. Made in India, Himachal Pradesh, Chamba. The Laxmi Narayan Temple, Chamba: A Chronicle of Faith, Stone, and Snow  # Introduction In the heart of the old hill town of Chamb",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "New Tehri": {
    "img": "img/mussoorie-nainital/new_tehri.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Weekend 45 in Chamba & New Tehri with Nanda Devi, friends and two Fujis Got away from Dehradun for a weekend with friends and took the cameras along. We drove up to a small farm stay above Chamba, watched Nanda and Sunanda Devi catch the sunset light",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Nainital": {
    "img": "img/mussoorie-nainital/nainital.jpg",
    "desc": "Nainital, formerly anglicized as Naini Tal, is a town and headquarters of Nainital district of Kumaon division, Uttarakhand, India. It is the judicial capital of Uttarakhand, the High Court of the state being located there and is the headquarters of ",
-   "wiki": "Nainital"
+   "wiki": "Nainital",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Mussoorie": "Mussoorie is a hill station and a municipal board in the Dehradun district of the Indian state of Uttarakhand. It is about 26 kilometres (16\u00a0mi) from the state Winter capital Dehradun and 289\u00a0km (180\u00a0mi) north of the national capital of New Delhi. Th",
   "Dhanaulti": "Dhanaulti is a hill station and tehsil in Tehri Garhwal district, Uttarakhand, India. It is situated at an elevation of 2286 meters above sea level.",
+  "Chamba": "Bus travelling through the majestic yet treacherous route of Chamba to Killar. Made in India, Himachal Pradesh, Chamba. The Laxmi Narayan Temple, Chamba: A Chronicle of Faith, Stone, and Snow  # Introduction In the heart of the old hill town of Chamb",
+  "New Tehri": "Weekend 45 in Chamba & New Tehri with Nanda Devi, friends and two Fujis Got away from Dehradun for a weekend with friends and took the cameras along. We drove up to a small farm stay above Chamba, watched Nanda and Sunanda Devi catch the sunset light",
   "Nainital": "Nainital, formerly anglicized as Naini Tal, is a town and headquarters of Nainital district of Kumaon division, Uttarakhand, India. It is the judicial capital of Uttarakhand, the High Court of the state being located there and is the headquarters of "
  }
 }

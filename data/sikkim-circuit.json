@@ -10816,37 +10816,46 @@
   "Gangtok": {
    "img": "img/sikkim-circuit/gangtok.jpg",
    "desc": "Gangtok is the capital and the most populous city of the Indian state of Sikkim. The seat of eponymous district, Gangtok is in the eastern Himalayan range, at an elevation of 1,650\u00a0m (5,410\u00a0ft). The city's population of 100,000 consists of the three ",
-   "wiki": "Gangtok"
+   "wiki": "Gangtok",
+   "source": "wikipedia"
   },
   "Lachen": {
    "img": "img/sikkim-circuit/lachen.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Lachen is the higher of Sikkim's two main villages in North Sikkim and the gateway to Gurudongmar Lake and the Chopta Valley. At ~2,750 m it is the last major settlement before the Tibetan plateau roads, and road trippers usually overnight here to acclimatize before the high-altitude lake. (sourced from Sikkim travel posts)",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Gurudongmar Lake": {
    "img": "img/sikkim-circuit/gurudongmar_lake.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "[Lifestyle] - Anand Mahindra praises Gurudongmar Lake as a \u2018surreal vision\u2019; here\u2019s how to reach this Himalayan gem and essential travel tips | Times of India Gurudongmar Lake, Sikkim, India (x-post r/travel) [1080x810] * **Gurudongmar Lake** \u2013 One o",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Lachung": {
    "img": "img/sikkim-circuit/lachung.jpg",
    "desc": "Lachung is a town and hill station in Mangan district in the Indian state of Sikkim. It is about 50 km from Mangan, the district headquarters. It is near the border with Tibet. Lachung is at an elevation of about 9,600 feet (2,900\u00a0m) and at the confl",
-   "wiki": "Lachung"
+   "wiki": "Lachung",
+   "source": "wikipedia"
   },
   "Yumthang Valley": {
    "img": "img/sikkim-circuit/yumthang_valley.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "A scenic valley in North Sikkim at ~3,500 m, famous for its rhododendron blooms in spring and the hot springs at the far end. It is a standard day excursion from Lachung on the Gurudongmar road. (sourced from r/SoloTravel_India Sikkim threads)",
+   "wiki": "",
+   "source": "reddit"
   },
   "Pelling": {
    "img": "img/sikkim-circuit/pelling.jpg",
    "desc": "Pelling  is a hill station in ( \u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f64\u0f72\u0f44\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f0d) Gyalshing district of Sikkim, India. Pelling is nestled at an altitude of 2,150\u00a0m (7,050\u00a0ft). The town is located at a distance of 10\u00a0km from Gyalshing city, the district headquarters and 131\u00a0km from G",
-   "wiki": "Pelling"
+   "wiki": "Pelling",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Gangtok": "Gangtok is the capital and the most populous city of the Indian state of Sikkim. The seat of eponymous district, Gangtok is in the eastern Himalayan range, at an elevation of 1,650\u00a0m (5,410\u00a0ft). The city's population of 100,000 consists of the three ",
+  "Lachen": "Lachen is the higher of Sikkim's two main villages in North Sikkim and the gateway to Gurudongmar Lake and the Chopta Valley. At ~2,750 m it is the last major settlement before the Tibetan plateau roads, and road trippers usually overnight here to acclimatize before the high-altitude lake. (sourced from Sikkim travel posts)",
+  "Gurudongmar Lake": "[Lifestyle] - Anand Mahindra praises Gurudongmar Lake as a \u2018surreal vision\u2019; here\u2019s how to reach this Himalayan gem and essential travel tips | Times of India Gurudongmar Lake, Sikkim, India (x-post r/travel) [1080x810] * **Gurudongmar Lake** \u2013 One o",
   "Lachung": "Lachung is a town and hill station in Mangan district in the Indian state of Sikkim. It is about 50 km from Mangan, the district headquarters. It is near the border with Tibet. Lachung is at an elevation of about 9,600 feet (2,900\u00a0m) and at the confl",
+  "Yumthang Valley": "A scenic valley in North Sikkim at ~3,500 m, famous for its rhododendron blooms in spring and the hot springs at the far end. It is a standard day excursion from Lachung on the Gurudongmar road. (sourced from r/SoloTravel_India Sikkim threads)",
   "Pelling": "Pelling  is a hill station in ( \u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f64\u0f72\u0f44\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f0d) Gyalshing district of Sikkim, India. Pelling is nestled at an altitude of 2,150\u00a0m (7,050\u00a0ft). The town is located at a distance of 10\u00a0km from Gyalshing city, the district headquarters and 131\u00a0km from G"
  }
 }

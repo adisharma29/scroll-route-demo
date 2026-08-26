@@ -9443,32 +9443,39 @@
   "Dwarka": {
    "img": "img/dwarka-somnath-diu/dwarka.jpg",
    "desc": "Dwarka is a coastal town and municipality of Devbhumi Dwarka district in the Indian state of Gujarat. It is located on the western shore of the Okhamandal Peninsula on the right bank of the Gomti River at the mouth of the Gulf of Kutch facing the Ara",
-   "wiki": "Dwarka"
+   "wiki": "Dwarka",
+   "source": "wikipedia"
   },
   "Porbandar": {
    "img": "img/dwarka-somnath-diu/porbandar.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Steve McCurry - Porbandar, India ( 1983 ) Steve McCurry has been one of the most iconic figures in contemporary photography for more than five decades. I am going to Okha then covering whole coastline southwards through Dwaraka, Porbandar, Veraval, S",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Somnath": {
    "img": "img/dwarka-somnath-diu/somnath.jpg",
    "desc": "Somanatha Temple is a Hindu temple, located in Prabhas Patan, Veraval, in Gujarat, India. It is one of the most sacred pilgrimage sites, or Tirtha Kshetra for Hindus and is the first among the twelve jyotirlinga shrines of Shiva. The date of construc",
-   "wiki": "Somnath_temple"
+   "wiki": "Somnath_temple",
+   "source": "wikipedia"
   },
   "Veraval": {
    "img": "img/dwarka-somnath-diu/veraval.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "I am going to Okha then covering whole coastline southwards through Dwaraka, Porbandar, Veraval, Somnath, and finally Diu, then flying back to Ahmadabad. The Sacred Geography: Trive\u1e47\u012b, Coast, and Threshold Prabh\u0101sa lies on the southern shore of Saur\u0101",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Diu": {
    "img": "img/dwarka-somnath-diu/diu.jpg",
    "desc": "Diu, also known as Diu Town, is a medieval fortified town in Diu district in the union territory of Dadra and Nagar Haveli and Daman and Diu, India. Diu district is the tenth least populated district of India. The town of Diu lies at the eastern end ",
-   "wiki": "Diu,_Daman_and_Diu"
+   "wiki": "Diu,_Daman_and_Diu",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Dwarka": "Dwarka is a coastal town and municipality of Devbhumi Dwarka district in the Indian state of Gujarat. It is located on the western shore of the Okhamandal Peninsula on the right bank of the Gomti River at the mouth of the Gulf of Kutch facing the Ara",
+  "Porbandar": "Steve McCurry - Porbandar, India ( 1983 ) Steve McCurry has been one of the most iconic figures in contemporary photography for more than five decades. I am going to Okha then covering whole coastline southwards through Dwaraka, Porbandar, Veraval, S",
   "Somnath": "Somanatha Temple is a Hindu temple, located in Prabhas Patan, Veraval, in Gujarat, India. It is one of the most sacred pilgrimage sites, or Tirtha Kshetra for Hindus and is the first among the twelve jyotirlinga shrines of Shiva. The date of construc",
+  "Veraval": "I am going to Okha then covering whole coastline southwards through Dwaraka, Porbandar, Veraval, Somnath, and finally Diu, then flying back to Ahmadabad. The Sacred Geography: Trive\u1e47\u012b, Coast, and Threshold Prabh\u0101sa lies on the southern shore of Saur\u0101",
   "Diu": "Diu, also known as Diu Town, is a medieval fortified town in Diu district in the union territory of Dadra and Nagar Haveli and Daman and Diu, India. Diu district is the tenth least populated district of India. The town of Diu lies at the eastern end "
  }
 }

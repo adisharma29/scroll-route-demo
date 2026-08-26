@@ -6571,34 +6571,47 @@
  "milestone_info": {
   "Aut": {
    "img": "img/jibhi-tirthan/aut.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Aut is the junction town on the Mandi\u2013Kullu highway where the road forks into the Parvati Valley (Kasol, Manikaran, Tosh) and the Banjar\u2013Jibhi/Tirthan Valley. It is the entry gate for both valleys and the usual drop-off point for overnight buses from Delhi. (sourced from r/SoloTravel_India travel updates)",
+   "wiki": "",
+   "source": "reddit"
   },
   "Shoja": {
    "img": "img/jibhi-tirthan/shoja.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "My recent 8-day solo bike trip across offbeat Himachal villages (Shangarh, Shoja, Kalpa, Sangla and Chitkul) Started from Chandigarh early morning on a rented Xpulse 200 4V and covered close to 1,000 km over 8 days across Shangarh, Shoja, Kalpa, Sang",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Jalori Pass": {
    "img": "img/jibhi-tirthan/jalori_pass.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "[Lifestyle] - Atal Tunnel travel update: Heavy snowfall strands 1,000+ vehicles in Himachal; 40 tourists rescued from Jalori Pass | Times of India Chandratal is unreachable in deep winter, but smaller frozen lakes near Jalori Pass are magical. During",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Jibhi": {
    "img": "img/jibhi-tirthan/jibhi.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Advice on Jibhi travel Hi, so me and my friends have been planning for Jibhi trips. Also, I have heard that the network in Jibhi is poor. Shoja/Jibhi Travellers, I Summon Thee for Help!",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Gushaini": {
    "img": "img/jibhi-tirthan/gushaini.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "* Bus: Aut \u2192 Banjar \u2192 Gushaini. * Homestay owner picked me up from Gushaini and drove towards Tindar village (\\~5 km uphill).",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Tirthan Valley": {
    "img": "img/jibhi-tirthan/tirthan_valley.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "I visited a small village in Tirthan Valley and it changed how I look at travel Last week, I visited a small village in Tirthan Valley in Himachal. Yet from May 23rd to May 27th, we were travelling together through Tirthan Valley and Sojha, sharing c",
+   "wiki": "",
+   "source": "wikipedia"
   }
  },
- "milestones": {}
+ "milestones": {
+  "Aut": "Aut is the junction town on the Mandi\u2013Kullu highway where the road forks into the Parvati Valley (Kasol, Manikaran, Tosh) and the Banjar\u2013Jibhi/Tirthan Valley. It is the entry gate for both valleys and the usual drop-off point for overnight buses from Delhi. (sourced from r/SoloTravel_India travel updates)",
+  "Shoja": "My recent 8-day solo bike trip across offbeat Himachal villages (Shangarh, Shoja, Kalpa, Sangla and Chitkul) Started from Chandigarh early morning on a rented Xpulse 200 4V and covered close to 1,000 km over 8 days across Shangarh, Shoja, Kalpa, Sang",
+  "Jalori Pass": "[Lifestyle] - Atal Tunnel travel update: Heavy snowfall strands 1,000+ vehicles in Himachal; 40 tourists rescued from Jalori Pass | Times of India Chandratal is unreachable in deep winter, but smaller frozen lakes near Jalori Pass are magical. During",
+  "Jibhi": "Advice on Jibhi travel Hi, so me and my friends have been planning for Jibhi trips. Also, I have heard that the network in Jibhi is poor. Shoja/Jibhi Travellers, I Summon Thee for Help!",
+  "Gushaini": "* Bus: Aut \u2192 Banjar \u2192 Gushaini. * Homestay owner picked me up from Gushaini and drove towards Tindar village (\\~5 km uphill).",
+  "Tirthan Valley": "I visited a small village in Tirthan Valley and it changed how I look at travel Last week, I visited a small village in Tirthan Valley in Himachal. Yet from May 23rd to May 27th, we were travelling together through Tirthan Valley and Sojha, sharing c"
+ }
 }

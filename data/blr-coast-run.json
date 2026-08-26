@@ -16029,32 +16029,38 @@
   "Bengaluru": {
    "img": "img/blr-coast-run/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Madikeri": {
    "img": "img/blr-coast-run/madikeri.jpg",
    "desc": "Madikeri, earlier called as Mercara is city and headquarters of Kodagu district in the Karnataka state of India. It is recognised as one of the world's eight \"hottest hotspots\" of biological diversity and is also a UNESCO World Heritage Site. The cit",
-   "wiki": "Madikeri"
+   "wiki": "Madikeri",
+   "source": "wikipedia"
   },
   "Mangalore": {
    "img": "img/blr-coast-run/mangalore.jpg",
    "desc": "Mangaluru, formerly called Mangalore, is a major industrial port city in the Indian state of Karnataka and on the west coast of India. It is located between the Arabian Sea and the Western Ghats about 352\u00a0km (219\u00a0mi) west of Bengaluru, the state capi",
-   "wiki": "Mangaluru"
+   "wiki": "Mangaluru",
+   "source": "wikipedia"
   },
   "Udupi": {
    "img": "img/blr-coast-run/udupi.jpg",
    "desc": "Udupi is a city in the Indian state of Karnataka. It is the administrative headquarters and taluka of Udupi district, and one of the fastest-growing cities in Karnataka. Udupi is one of the top tourist attractions in Karnataka and has various educati",
-   "wiki": "Udupi"
+   "wiki": "Udupi",
+   "source": "wikipedia"
   },
   "Gokarna": {
    "img": "img/blr-coast-run/gokarna.jpg",
-   "desc": "Gokarna may refer to:",
-   "wiki": "Gokarna"
+   "desc": "A laid-back coastal town in Karnataka's Uttara Kannada district, famous for Om Beach, the Mahabaleshwar Temple and a string of beaches along the Arabian Sea. Popular with backpackers and road trippers, it sits roughly halfway down the western coast between Goa and Mangalore. (Wikipedia extract)",
+   "wiki": "Gokarna",
+   "source": "wikipedia"
   },
   "Goa": {
    "img": "img/blr-coast-run/goa.jpg",
    "desc": "Goa is a state on the southwestern coast of India within the Konkan region. It is geographically separated from the Deccan highlands by the Western Ghats. It is bordered by the Indian states of Maharashtra to the north and Karnataka to the east and s",
-   "wiki": "Goa"
+   "wiki": "Goa",
+   "source": "wikipedia"
   }
  },
  "milestones": {
@@ -16062,7 +16068,7 @@
   "Madikeri": "Madikeri, earlier called as Mercara is city and headquarters of Kodagu district in the Karnataka state of India. It is recognised as one of the world's eight \"hottest hotspots\" of biological diversity and is also a UNESCO World Heritage Site. The cit",
   "Mangalore": "Mangaluru, formerly called Mangalore, is a major industrial port city in the Indian state of Karnataka and on the west coast of India. It is located between the Arabian Sea and the Western Ghats about 352\u00a0km (219\u00a0mi) west of Bengaluru, the state capi",
   "Udupi": "Udupi is a city in the Indian state of Karnataka. It is the administrative headquarters and taluka of Udupi district, and one of the fastest-growing cities in Karnataka. Udupi is one of the top tourist attractions in Karnataka and has various educati",
-  "Gokarna": "Gokarna may refer to:",
+  "Gokarna": "A laid-back coastal town in Karnataka's Uttara Kannada district, famous for Om Beach, the Mahabaleshwar Temple and a string of beaches along the Arabian Sea. Popular with backpackers and road trippers, it sits roughly halfway down the western coast between Goa and Mangalore. (Wikipedia extract)",
   "Goa": "Goa is a state on the southwestern coast of India within the Konkan region. It is geographically separated from the Deccan highlands by the Western Ghats. It is bordered by the Indian states of Maharashtra to the north and Karnataka to the east and s"
  }
 }

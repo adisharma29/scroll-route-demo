@@ -5302,22 +5302,25 @@
   "Bengaluru": {
    "img": "img/blr-anthargange/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Kolar": {
    "img": "img/blr-anthargange/kolar.jpg",
-   "desc": "Kolar may refer to:",
-   "wiki": "Kolar"
+   "desc": "Jawaharlal Nehru PublicSchool, Kolar Road, Bhopal 99. Sources told\u00a0*Moneycontrol*\u00a0that the proposed rail corridors are: Bengaluru\u2013Hoskote\u2013Kolar (65 km), Bengaluru\u2013Mysuru (145 km), Bengaluru\u2013Tumakuru (60 km). The proposal highlights the untapped econo",
+   "wiki": "Kolar",
+   "source": "wikipedia"
   },
   "Anthargange": {
    "img": "img/blr-anthargange/anthargange.jpg",
    "desc": "Antara Gange is a mountain situated in the Shathashrunga mountain range in the southeastern portion of the Indian state of Karnataka, Kolar district. Antara Gange literally means \"Ganges from deep\" in Kannada. It is about two miles from the town of K",
-   "wiki": "Anthargange"
+   "wiki": "Anthargange",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Bengaluru": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-  "Kolar": "Kolar may refer to:",
+  "Kolar": "Jawaharlal Nehru PublicSchool, Kolar Road, Bhopal 99. Sources told\u00a0*Moneycontrol*\u00a0that the proposed rail corridors are: Bengaluru\u2013Hoskote\u2013Kolar (65 km), Bengaluru\u2013Mysuru (145 km), Bengaluru\u2013Tumakuru (60 km). The proposal highlights the untapped econo",
   "Anthargange": "Antara Gange is a mountain situated in the Shathashrunga mountain range in the southeastern portion of the Indian state of Karnataka, Kolar district. Antara Gange literally means \"Ganges from deep\" in Kannada. It is about two miles from the town of K"
  }
 }

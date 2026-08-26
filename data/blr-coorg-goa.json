@@ -13473,43 +13473,53 @@
   "Bengaluru": {
    "img": "img/blr-coorg-goa/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Coorg (Madikeri)": {
    "img": "img/blr-coorg-goa/coorg_(madikeri).jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Route  Surat to Malvan to Udupi to Mangalore to Coorg to Mysuru to Mudumalai to Hampi to Badami to Ellora and back to Surat The trip covered a mix of coast, hills, forests, and heritage. Coorg and Mudumalai were green and refreshing. Coorg vs Chikmag",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Mangaluru": {
    "img": "img/blr-coorg-goa/mangaluru.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "Kerala to get India\u2019s first VB sleeper on Thiruvananthapuram-Mangaluru route Src : https://timesofindia.indiatimes.com/life-style/travel/destinations/kerala-to-get-indias-first-vande-bharat-sleeper-train-on-thiruvananthapuram-mangaluru-route/articles",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Udupi": {
    "img": "img/blr-coorg-goa/udupi.jpg",
    "desc": "Udupi is a city in the Indian state of Karnataka. It is the administrative headquarters and taluka of Udupi district, and one of the fastest-growing cities in Karnataka. Udupi is one of the top tourist attractions in Karnataka and has various educati",
-   "wiki": "Udupi"
+   "wiki": "Udupi",
+   "source": "wikipedia"
   },
   "Agumbe Ghat": {
    "img": "img/blr-coorg-goa/agumbe_ghat.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "The final challenge was the Agumbe Ghat.",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Gokarna": {
    "img": "img/blr-coorg-goa/gokarna.jpg",
-   "desc": "Gokarna may refer to:",
-   "wiki": "Gokarna"
+   "desc": "A laid-back coastal town in Karnataka's Uttara Kannada district, famous for Om Beach, the Mahabaleshwar Temple and a string of beaches along the Arabian Sea. Popular with backpackers and road trippers, it sits roughly halfway down the western coast between Goa and Mangalore. (Wikipedia extract)",
+   "wiki": "Gokarna",
+   "source": "wikipedia"
   },
   "Goa": {
    "img": "img/blr-coorg-goa/goa.jpg",
    "desc": "Goa is a state on the southwestern coast of India within the Konkan region. It is geographically separated from the Deccan highlands by the Western Ghats. It is bordered by the Indian states of Maharashtra to the north and Karnataka to the east and s",
-   "wiki": "Goa"
+   "wiki": "Goa",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Bengaluru": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
+  "Coorg (Madikeri)": "Route  Surat to Malvan to Udupi to Mangalore to Coorg to Mysuru to Mudumalai to Hampi to Badami to Ellora and back to Surat The trip covered a mix of coast, hills, forests, and heritage. Coorg and Mudumalai were green and refreshing. Coorg vs Chikmag",
+  "Mangaluru": "Kerala to get India\u2019s first VB sleeper on Thiruvananthapuram-Mangaluru route Src : https://timesofindia.indiatimes.com/life-style/travel/destinations/kerala-to-get-indias-first-vande-bharat-sleeper-train-on-thiruvananthapuram-mangaluru-route/articles",
   "Udupi": "Udupi is a city in the Indian state of Karnataka. It is the administrative headquarters and taluka of Udupi district, and one of the fastest-growing cities in Karnataka. Udupi is one of the top tourist attractions in Karnataka and has various educati",
-  "Gokarna": "Gokarna may refer to:",
+  "Agumbe Ghat": "The final challenge was the Agumbe Ghat.",
+  "Gokarna": "A laid-back coastal town in Karnataka's Uttara Kannada district, famous for Om Beach, the Mahabaleshwar Temple and a string of beaches along the Arabian Sea. Popular with backpackers and road trippers, it sits roughly halfway down the western coast between Goa and Mangalore. (Wikipedia extract)",
   "Goa": "Goa is a state on the southwestern coast of India within the Konkan region. It is geographically separated from the Deccan highlands by the Western Ghats. It is bordered by the Indian states of Maharashtra to the north and Karnataka to the east and s"
  }
 }

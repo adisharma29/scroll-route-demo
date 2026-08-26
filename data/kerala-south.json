@@ -15303,33 +15303,39 @@
   "Madurai": {
    "img": "img/kerala-south/madurai.jpg",
    "desc": "Madurai is a major tier II city in the Indian state of Tamil Nadu. It is the cultural capital of Tamil Nadu and the administrative headquarters of Madurai district, which is governed by the Madurai Municipal Corporation established on 1 November 1866",
-   "wiki": "Madurai"
+   "wiki": "Madurai",
+   "source": "wikipedia"
   },
   "Vagamon": {
    "img": "img/kerala-south/vagamon.jpg",
    "desc": "Vagamon is an Indian hill station and a revenue village located in Peerumedu Taluk of Idukki district, and also Meenachil taluk and Kanjirappally taluk of Kottayam district in the state of Kerala, India. Located in the Western Ghats 25 kilometres (16",
-   "wiki": "Vagamon"
+   "wiki": "Vagamon",
+   "source": "wikipedia"
   },
   "Varkala": {
    "img": "img/kerala-south/varkala.jpg",
    "desc": "Varkala, historically known as Balita is a coastal municipality and a northern suburb of Thiruvananthapuram, the capital city of the Indian state of Kerala.",
-   "wiki": "Varkala"
+   "wiki": "Varkala",
+   "source": "wikipedia"
   },
   "Alleppey": {
    "img": "img/kerala-south/alleppey.jpg",
-   "desc": "",
-   "wiki": ""
+   "desc": "One day you\u2019re in misty tea plantations in Munnar, the next you\u2019re floating through the Alleppey backwaters, and then, somehow, you end the trip watching sunsets from the cliffs in Varkala. Houseboat in Kerala \ud83d\udea4 Crociera tra le Backwaters di Alleppey",
+   "wiki": "",
+   "source": "wikipedia"
   },
   "Wayanad": {
    "img": "img/kerala-south/wayanad.jpg",
-   "desc": "Wayanad district, or Wynad, is a district in the north-east of the Indian state of Kerala, with its administrative headquarters at the municipality of Kalpetta. It is the only plateau in Kerala. The Wayanad Plateau forms a continuation of the Mysore ",
-   "wiki": "Wayanad"
+   "desc": "A lush highland district in northern Kerala with waterfalls, caves, wildlife sanctuaries and spice estates, reached from Bengaluru via Bandipur/Tholpetty. Popular stops include Chembra Peak, Soochipara Falls and the Edakkal Caves. (sourced from r/india_tourism Wayanad threads)",
+   "wiki": "Wayanad",
+   "source": "reddit"
   }
  },
  "milestones": {
   "Madurai": "Madurai is a major tier II city in the Indian state of Tamil Nadu. It is the cultural capital of Tamil Nadu and the administrative headquarters of Madurai district, which is governed by the Madurai Municipal Corporation established on 1 November 1866",
   "Vagamon": "Vagamon is an Indian hill station and a revenue village located in Peerumedu Taluk of Idukki district, and also Meenachil taluk and Kanjirappally taluk of Kottayam district in the state of Kerala, India. Located in the Western Ghats 25 kilometres (16",
   "Varkala": "Varkala, historically known as Balita is a coastal municipality and a northern suburb of Thiruvananthapuram, the capital city of the Indian state of Kerala.",
-  "Wayanad": "Wayanad district, or Wynad, is a district in the north-east of the Indian state of Kerala, with its administrative headquarters at the municipality of Kalpetta. It is the only plateau in Kerala. The Wayanad Plateau forms a continuation of the Mysore "
+  "Alleppey": "One day you\u2019re in misty tea plantations in Munnar, the next you\u2019re floating through the Alleppey backwaters, and then, somehow, you end the trip watching sunsets from the cliffs in Varkala. Houseboat in Kerala \ud83d\udea4 Crociera tra le Backwaters di Alleppey",
+  "Wayanad": "A lush highland district in northern Kerala with waterfalls, caves, wildlife sanctuaries and spice estates, reached from Bengaluru via Bandipur/Tholpetty. Popular stops include Chembra Peak, Soochipara Falls and the Edakkal Caves. (sourced from r/india_tourism Wayanad threads)"
  }
 }

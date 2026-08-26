@@ -14599,27 +14599,32 @@
   "Bengaluru": {
    "img": "img/blr-br-hills/bengaluru.jpg",
    "desc": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
-   "wiki": "Bengaluru"
+   "wiki": "Bengaluru",
+   "source": "wikipedia"
   },
   "Mysore": {
    "img": "img/blr-br-hills/mysore.jpg",
    "desc": "Mysore, officially Mysuru, is a city in the southern Indian state of Karnataka. It is the administrative headquarters of Mysore district and Mysore division. As the traditional seat of the Wadiyar dynasty, the city functioned as the capital of the Ki",
-   "wiki": "Mysore"
+   "wiki": "Mysore",
+   "source": "wikipedia"
   },
   "Yelandur": {
    "img": "img/blr-br-hills/yelandur.jpg",
    "desc": "Yelandur is a taluk and town in Chamarajanagar district in southern Karnataka, India. It has historic and cultural importance in this region. Along with three other taluks, it was officially included into Chamarajanagar district when the district was",
-   "wiki": "Yelandur"
+   "wiki": "Yelandur",
+   "source": "wikipedia"
   },
   "BR Hills": {
    "img": "img/blr-br-hills/br_hills.jpg",
-   "desc": "",
-   "wiki": "Biligiri_Rangana_Betta"
+   "desc": "---\r \r ## **Day 2 \u2013 BR Hills & Into the Wild**\r \r Started at **8:30 AM** after breakfast and headed towards **BR Hills**. You\u2019ll drive past picturesque countryside and have the option to visit the Biligiriranga Hills (BR Hills) en route.",
+   "wiki": "Biligiri_Rangana_Betta",
+   "source": "wikipedia"
   }
  },
  "milestones": {
   "Bengaluru": "Bengaluru, also known as Bangalore, is the capital and largest city of the southern Indian state of Karnataka. As per the 2011 census, the city had a population of 8.4 million, making it the third most populous city in India and the most populous in ",
   "Mysore": "Mysore, officially Mysuru, is a city in the southern Indian state of Karnataka. It is the administrative headquarters of Mysore district and Mysore division. As the traditional seat of the Wadiyar dynasty, the city functioned as the capital of the Ki",
-  "Yelandur": "Yelandur is a taluk and town in Chamarajanagar district in southern Karnataka, India. It has historic and cultural importance in this region. Along with three other taluks, it was officially included into Chamarajanagar district when the district was"
+  "Yelandur": "Yelandur is a taluk and town in Chamarajanagar district in southern Karnataka, India. It has historic and cultural importance in this region. Along with three other taluks, it was officially included into Chamarajanagar district when the district was",
+  "BR Hills": "---\r \r ## **Day 2 \u2013 BR Hills & Into the Wild**\r \r Started at **8:30 AM** after breakfast and headed towards **BR Hills**. You\u2019ll drive past picturesque countryside and have the option to visit the Biligiriranga Hills (BR Hills) en route."
  }
 }
